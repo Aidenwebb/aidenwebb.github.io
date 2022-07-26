@@ -24,11 +24,13 @@ I spent a bit of time tinkering with the config and a test Lipsum post (which I 
 
 I'm not yet ready to scrap my existing Wordpress install, I want to get more familiar with the workings of Hugo first, integrate comments, search etc. So I decided to host Hugo off of Github Pages as an intermediary step. Github Pages doesn't support Hugo out of the box though. However, Github Pages does support just serving raw static HTML/CSS/JS so if we create a [separate repository](https://github.com/Aidenwebb/aidenwebb.github.io) and import this as a submodule in the /public/ folder that Hugo uses to publish, we should be able to publish the generated static site directly in to the GitHub Pages repository
 
+It's worth noting you cannot clone an empty repository - you must commit something to the repo before cloning it. I committed a quick readme.md.
+
 ```
 git submodule add -b main https://github.com/Aidenwebb/aidenwebb.github.io.git public
 ```
 
-After generating the site with ```hugo -t PaperMod``` 
+After generating the site with ```hugo -t PaperMod```, stage commit and push to Github and the submodule repo will be updated.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus accumsan et leo ullamcorper feugiat. Nam id ultricies nisl, ut porttitor eros. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ac bibendum enim, eu pretium ante. Nunc interdum vulputate urna, vitae tempor diam aliquet sed. Donec efficitur luctus sem vitae aliquet. Nullam tellus dui, feugiat at tortor ut, pellentesque semper nibh. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
