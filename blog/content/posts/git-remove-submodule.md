@@ -1,7 +1,7 @@
 ---
 title: "Git Remove Submodule"
 date: 2022-07-26T09:51:58+01:00
-draft: true
+draft: false
 ---
 
 Submodules aren't removed using ```git rm submodule-dir```, they need to be removed in a far more thorough and annoying fashion.
