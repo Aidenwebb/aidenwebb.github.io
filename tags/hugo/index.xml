@@ -9,10 +9,10 @@
     <lastBuildDate>Mon, 25 Jul 2022 22:01:11 +0100</lastBuildDate><atom:link href="https://aidenwebb.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Getting started with Hugo</title>
-      <link>https://aidenwebb.github.io/posts/getting-started-with-hugo/</link>
+      <link>https://aidenwebb.github.io/getting-started-with-hugo/</link>
       <pubDate>Mon, 25 Jul 2022 22:01:11 +0100</pubDate>
       
-      <guid>https://aidenwebb.github.io/posts/getting-started-with-hugo/</guid>
+      <guid>https://aidenwebb.github.io/getting-started-with-hugo/</guid>
       <description>I recently came to the conclusion that I wasn&amp;rsquo;t posting on my blog nearly as much as I&amp;rsquo;d like to. My blog runs on wordpress, and I&amp;rsquo;ve felt for a while that the process of logging in, creating a post, fixing formatting in a WSYWGI editor and eventually posting was too much resistance when I commonly just write notes in plain text. So, why not just write posts in plain text and have something else do the work of turning that in to a post?</description>
     </item>
     

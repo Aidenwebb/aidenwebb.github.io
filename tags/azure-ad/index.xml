@@ -1,22 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Troubleshooting on Aiden Arnkels-Webb</title>
-    <link>https://aidenwebb.github.io/tags/troubleshooting/</link>
-    <description>Recent content in Troubleshooting on Aiden Arnkels-Webb</description>
+    <title>Azure AD on Aiden Arnkels-Webb</title>
+    <link>https://aidenwebb.github.io/tags/azure-ad/</link>
+    <description>Recent content in Azure AD on Aiden Arnkels-Webb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 26 Jul 2022 09:51:58 +0100</lastBuildDate><atom:link href="https://aidenwebb.github.io/tags/troubleshooting/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Git Remove Submodule</title>
-      <link>https://aidenwebb.github.io/git-remove-submodule/</link>
-      <pubDate>Tue, 26 Jul 2022 09:51:58 +0100</pubDate>
-      
-      <guid>https://aidenwebb.github.io/git-remove-submodule/</guid>
-      <description>Submodules aren&amp;rsquo;t removed using git rm submodule-dir, they need to be removed in a far more thorough and annoying fashion. There are a number of unclear explainations at various sources so I decided to write my own findings.
-Delete the relevant parts from the .gitmodules file. EG: [submodule &amp;#34;blog/themes/PaperMod&amp;#34;] path = blog/themes/PaperMod url = https://github.com/adityatelange/hugo-PaperMod.git Stage .gitmodules via git add .gitmodules Remove the relevant parts from .git/config EG: [submodule &amp;#34;blog/themes/PaperMod&amp;#34;] url = https://github.</description>
-    </item>
-    
+    <lastBuildDate>Thu, 03 Mar 2022 10:36:09 +0000</lastBuildDate><atom:link href="https://aidenwebb.github.io/tags/azure-ad/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to Hard Link Azure AD Connect On Prem Users to Azure AD Office 365 Accounts</title>
       <link>https://aidenwebb.github.io/how-to-hard-link-azure-ad-connect-on-prem-users-to-azure-ad-office-365-accounts/</link>

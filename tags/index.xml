@@ -52,5 +52,32 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Azure</title>
+      <link>https://aidenwebb.github.io/tags/azure/</link>
+      <pubDate>Thu, 03 Mar 2022 10:36:09 +0000</pubDate>
+      
+      <guid>https://aidenwebb.github.io/tags/azure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Azure AD</title>
+      <link>https://aidenwebb.github.io/tags/azure-ad/</link>
+      <pubDate>Thu, 03 Mar 2022 10:36:09 +0000</pubDate>
+      
+      <guid>https://aidenwebb.github.io/tags/azure-ad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Azure AD Connect</title>
+      <link>https://aidenwebb.github.io/tags/azure-ad-connect/</link>
+      <pubDate>Thu, 03 Mar 2022 10:36:09 +0000</pubDate>
+      
+      <guid>https://aidenwebb.github.io/tags/azure-ad-connect/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
