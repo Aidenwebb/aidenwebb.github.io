@@ -1,6 +1,7 @@
 ---
 title: "Git Remove Submodule"
 date: 2022-07-26T09:51:58+01:00
+url: /git-remove-submodule/
 draft: false
 tags: ["Git", "Troubleshooting"]
 ---
