@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Aiden Arnkels-Webb</title>
+    <link>https://aidenwebb.github.io/tags/</link>
+    <description>Recent content in Tags on Aiden Arnkels-Webb</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 26 Jul 2022 09:51:58 +0100</lastBuildDate><atom:link href="https://aidenwebb.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Git</title>
+      <link>https://aidenwebb.github.io/tags/git/</link>
+      <pubDate>Tue, 26 Jul 2022 09:51:58 +0100</pubDate>
+      
+      <guid>https://aidenwebb.github.io/tags/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Troubleshooting</title>
+      <link>https://aidenwebb.github.io/tags/troubleshooting/</link>
+      <pubDate>Tue, 26 Jul 2022 09:51:58 +0100</pubDate>
+      
+      <guid>https://aidenwebb.github.io/tags/troubleshooting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://aidenwebb.github.io/tags/hugo/</link>
+      <pubDate>Mon, 25 Jul 2022 22:01:11 +0100</pubDate>
+      
+      <guid>https://aidenwebb.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://aidenwebb.github.io/tags/projects/</link>
+      <pubDate>Mon, 25 Jul 2022 22:01:11 +0100</pubDate>
+      
+      <guid>https://aidenwebb.github.io/tags/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Static Site Generator</title>
+      <link>https://aidenwebb.github.io/tags/static-site-generator/</link>
+      <pubDate>Mon, 25 Jul 2022 22:01:11 +0100</pubDate>
+      
+      <guid>https://aidenwebb.github.io/tags/static-site-generator/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
