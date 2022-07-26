@@ -31,21 +31,15 @@ git submodule add -b main https://github.com/Aidenwebb/aidenwebb.github.io.git p
 ```
 
 After generating the site with ```hugo -t PaperMod```:
-Navigate to your public directory:
+Navigate to your public directory and run:
 ```
 cd public
 git add .
 git commit -m "init commit"
 git push origin main
 ```
-and the submodule repo will be updated.
+and the submodule remote repo will be updated, and built by Github Pages.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus accumsan et leo ullamcorper feugiat. Nam id ultricies nisl, ut porttitor eros. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ac bibendum enim, eu pretium ante. Nunc interdum vulputate urna, vitae tempor diam aliquet sed. Donec efficitur luctus sem vitae aliquet. Nullam tellus dui, feugiat at tortor ut, pellentesque semper nibh. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+When hosting on Github pages, something breaks the integrity of CSS files, so I've opted to disable fingerprinting ([`config.yml:params:assets:disablefingerprinting:true`](https://github.com/Aidenwebb/aidenwebb-com-blog-code/blob/main/blog/config.yml)) for the time being with the intention of investigating further another time.
 
-Maecenas vestibulum leo ipsum, eget viverra massa ullamcorper venenatis. Donec imperdiet turpis ultricies, condimentum tellus eget, ultricies ligula. Nullam sed quam et diam accumsan scelerisque nec ac ex. Aenean et arcu vitae justo interdum efficitur et sit amet odio. In efficitur sollicitudin metus nec dapibus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer blandit cursus quam eget sagittis. Donec sed arcu faucibus, rhoncus urna non, varius erat. Mauris tincidunt neque luctus, commodo augue sit amet, tempus purus. Phasellus aliquet vitae nisl imperdiet ultricies. Duis vel risus luctus, scelerisque erat id, feugiat nulla. Cras nunc ipsum, auctor ut dapibus varius, congue nec dui. Etiam vel ultrices ligula.
 
-Integer gravida purus vel mollis sodales. Donec a elit accumsan, porttitor turpis et, faucibus leo. Praesent dignissim in lorem et tincidunt. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aenean porttitor non sem eu sagittis. Maecenas vitae eros id metus laoreet mollis. Nunc quis tempus arcu.
-
-Integer et lorem vel orci sollicitudin commodo vitae et elit. Pellentesque quis ultrices nisl. Maecenas non nisi dictum nulla fermentum lacinia. Nam placerat ultrices sapien, id dignissim libero euismod a. Duis sed tellus vitae sapien maximus vestibulum lobortis in nibh. Vestibulum purus nisi, sodales et ipsum nec, porta scelerisque eros. Aliquam at dictum nisl. Mauris non tellus at nunc pulvinar tincidunt. Vestibulum viverra tempor mi, sit amet auctor erat congue sit amet. Nullam dictum tempor nisl, in facilisis nisl venenatis sit amet. Mauris porta magna vitae libero ultrices sodales. Sed eu arcu consequat, condimentum urna imperdiet, dictum nisi. Pellentesque eget consectetur ex, quis euismod urna. Morbi eget rhoncus risus. Ut vitae metus at diam pharetra vehicula.
-
-Integer ut nulla dignissim, auctor urna id, mollis libero. Maecenas aliquam pharetra mi et feugiat. Donec id malesuada massa, quis lobortis est. Etiam sed dolor at magna viverra mattis. Sed dictum libero vitae eros auctor, vitae accumsan sem interdum. Nunc facilisis sem a augue ornare, ac ultricies ligula fringilla. Curabitur eget commodo felis. Vivamus vitae blandit urna, bibendum eleifend mi. Nunc a risus accumsan, elementum felis sed, vestibulum risus. Sed sed turpis vehicula, malesuada lacus ac, porttitor dui. Nulla at ultrices metus. Mauris vitae consectetur neque. Nullam eget quam at mauris mattis cursus faucibus at tortor. Aliquam nec vestibulum nunc. Proin elementum porttitor mi id elementum. 
