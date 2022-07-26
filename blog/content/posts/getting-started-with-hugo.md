@@ -30,7 +30,15 @@ It's worth noting you cannot clone an empty repository - you must commit somethi
 git submodule add -b main https://github.com/Aidenwebb/aidenwebb.github.io.git public
 ```
 
-After generating the site with ```hugo -t PaperMod```, stage commit and push to Github and the submodule repo will be updated.
+After generating the site with ```hugo -t PaperMod```:
+Navigate to your public directory:
+```
+cd public
+git add .
+git commit -m "init commit"
+git push origin main
+```
+and the submodule repo will be updated.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus accumsan et leo ullamcorper feugiat. Nam id ultricies nisl, ut porttitor eros. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ac bibendum enim, eu pretium ante. Nunc interdum vulputate urna, vitae tempor diam aliquet sed. Donec efficitur luctus sem vitae aliquet. Nullam tellus dui, feugiat at tortor ut, pellentesque semper nibh. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
 
