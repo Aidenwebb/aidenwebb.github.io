@@ -73,12 +73,12 @@ params:
     Content: Welcome to my blog! Here you can find my general ramblings, fun projects, technical guides and other stuff
 
   socialIcons:
-    - name: twitter
-      url: "https://twitter.com/"
     - name: stackoverflow
-      url: "https://stackoverflow.com"
+      url: "https://stackoverflow.com/users/4121552/aidenwebb"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/Aidenwebb"
+    - name: linkedin
+      url: https://www.linkedin.com/in/aiden-arnkels-webb/
 
   analytics:
     google:
