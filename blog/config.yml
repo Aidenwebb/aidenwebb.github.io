@@ -134,12 +134,12 @@ menu:
 pygmentsUseClasses: true
 markup:
   highlight:
-    noClasses: false
-    # anchorLineNos: true
-    # codeFences: true
-    # guessSyntax: true
-    # lineNos: true
-    # style: monokai
+    noClasses: true
+    anchorLineNos: false
+    codeFences: true
+    guessSyntax: false
+    lineNos: true
+    style: monokai
 outputs:
   home:
     - HTML
