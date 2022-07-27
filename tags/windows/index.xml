@@ -20,5 +20,14 @@ Open an elevated command prompt
 Get a list of available version upgrade paths by typing:</description>
     </item>
     
+    <item>
+      <title>How to check if your CPU supports Virtualisation</title>
+      <link>https://aidenwebb.github.io/posts/2020/08/how-to-check-if-your-cpu-supports-virtualisation/</link>
+      <pubDate>Wed, 26 Aug 2020 13:42:09 +0000</pubDate>
+      
+      <guid>https://aidenwebb.github.io/posts/2020/08/how-to-check-if-your-cpu-supports-virtualisation/</guid>
+      <description>Check Task Manager The first, simplest option to check is to open task manager. Click the performance tab Check if Virtualisation is Enabled If Virtualisation is not Enabled, this could be due to it being disabled in the BIOS. Before enabling it, check if your processor is compatible. Check Processor Compatibility Identify your Processor Press the Windows Key Type &amp;ldquo;System Information&amp;rdquo; in the search box Make a note of your processor make and model Check Product Specs - Intel: If your processor is Intel, go to the Intel Product Specification Page and look up your processor model and open the specification page.</description>
+    </item>
+    
   </channel>
 </rss>
