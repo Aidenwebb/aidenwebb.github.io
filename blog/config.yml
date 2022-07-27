@@ -2,6 +2,7 @@ baseURL: https://aidenwebb.github.io
 languageCode: en-gb
 title: Aiden Arnkels-Webb
 theme: PaperMod
+copyright: "@ Aiden Arnkels-Webb"
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -15,11 +16,11 @@ minify:
 
 params:
   env: production
-  title: Aiden Arnkels-Webb Blog
+  title: Aiden Arnkels-Webb | Systems Architect
   description: "Here you can find my general ramblings, fun projects, technical guides and other stuff"
   keywords: [Blog, Portfolio]
   author: Aiden Arnkels-Webb
-  DateFormat: "January 2, 2006"
+  DateFormat: "2 January 2006"
   defaultTheme: auto # dark, light 
   disableThemeToggle: false
   ShowReadingTime: true
@@ -77,8 +78,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog! Here you can find my general ramblings, fun projects, technical guides and other stuff
+    Title: "Hi there \U0001F44B I'm Aiden"
+    Content: Welcome to my blog! I'm a Systems and Infrastructure Architect based in Bournemouth, UK. Here you can find my general ramblings, fun projects, technical guides among other things. You can reach me at `hello [at] aidenwebb.com`
 
   socialIcons:
     - name: stackoverflow
