@@ -4,7 +4,7 @@ date: 2022-07-27T12:36:29+01:00
 draft: false
 # weight: 1
 # aliases: ["/first"]
-tags: ["Security", "Authentication", "Authorisation"]
+tags: ["Security", "Authentication", "Authorisation", "Explainers"]
 author: "Aiden Arnkels-Webb"
 showToc: true
 TocOpen: false
