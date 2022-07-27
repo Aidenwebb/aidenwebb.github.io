@@ -36,6 +36,15 @@ Delete the relevant parts from the .gitmodules file. EG: [submodule &amp;#34;blo
 The Cause The initial soft link matches on UPN or SMTP, but may fail if there are conflicting ProxyAddresses.</description>
     </item>
     
+    <item>
+      <title>Comment Policy</title>
+      <link>https://aidenwebb.github.io/comment-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aidenwebb.github.io/comment-policy/</guid>
+      <description>comment policy</description>
+    </item>
+    
     
   </channel>
 </rss>
