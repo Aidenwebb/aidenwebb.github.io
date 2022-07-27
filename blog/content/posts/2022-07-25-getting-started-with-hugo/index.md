@@ -82,3 +82,11 @@ I signed up for disqus, and integrated the comment HTML provided in to `layouts\
 
 ### Migrating content
 [SchumacherFM has made a Wordpress to Hugo exporter](https://github.com/SchumacherFM/wordpress-to-hugo-exporter). I installed this on my Wordpress instance and exported my posts. Expectedly, it doesn't do a perfect job of pulling posts and converting them to MarkDown, but it certainly does a good enough job to ease the process. Each post will need to be reviewed and edited in order to remove stray html tags, fix unicode conversions and generally tidy up, but I'm very happy with the result.
+
+### Back to comments, lets migrate those!
+[Disqus supports importing comments from WordPress](https://help.disqus.com/en/articles/1717131-importing-comments-from-wordpress). Excellent! I don't have to forsake them afterall.
+Unfortunately, importing via the Wordpress plugin failed, so I exported my Wordpress content to XML before going to [import.disqus.com](import.disqus.com) to import there. This worked.
+I am however moving the canonical URL of posts. My Wordpress site used to have everything at the top level. EG: https://aidenwebb.com/how-to-fix-qnap-nas-web-gui-interface-timing-out-or-never-loading/. Under Hugo, I'm still going to have this URL as an alias, but it will direct to https://aidenwebb.com/posts/how-to-fix-qnap-nas-web-gui-interface-timing-out-or-never-loading/.
+
+To map the URL changes, I've gone to my Disqus page, under the Moderation header, in the left hand menu, I go to Migration tools.
+Here, I started the URL Mapper and downloaded a list of current posts, and created an equivalent redirected URL in the CSV before uploading it to the mapper.
