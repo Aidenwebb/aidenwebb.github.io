@@ -5,7 +5,8 @@
     <link>https://aidenwebb.github.io/tags/coding-/-scripts/</link>
     <description>Recent content in Coding / Scripts on Aiden Arnkels-Webb</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language><atom:link href="https://aidenwebb.github.io/tags/coding-/-scripts/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-gb</language>
+    <copyright>@ Aiden Arnkels-Webb</copyright><atom:link href="https://aidenwebb.github.io/tags/coding-/-scripts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to enable/disable hardware devices using Windows Powershell</title>
       <link>https://aidenwebb.github.io/posts/2019/12/how-to-enable/disable-hardware-devices-using-windows-powershell/</link>

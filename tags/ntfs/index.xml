@@ -6,6 +6,7 @@
     <description>Recent content in NTFS on Aiden Arnkels-Webb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
+    <copyright>@ Aiden Arnkels-Webb</copyright>
     <lastBuildDate>Tue, 03 Dec 2019 13:02:00 +0000</lastBuildDate><atom:link href="https://aidenwebb.github.io/tags/ntfs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why “traverse folder” and “execute file” is a combined NTFS permission</title>
