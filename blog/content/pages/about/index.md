@@ -24,7 +24,7 @@ I'm an IT Tech with big dreams, a fire performer with big ideas and a tinker wit
 
 I started this blog as a creative outlet at a time where I most needed to organise my thoughts. Here you'll find helpful tips, introspection and plenty of shenanigans.  
 I...  
-Work full time at [John Smith and Sons Group][1] as an IT Operations Engineer.  
+Work full time at [John Smith and Sons Group][1] as an IT Systems Architect, Engineer and Admin.  
 Freelance as a web designer and manage web hosting at [Rootwire][2].  
 And I run a circus and entertainments company, [Steamship Circus][4]!
 
