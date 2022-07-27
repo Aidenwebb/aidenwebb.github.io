@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Windows Server 2019 on Aiden Arnkels-Webb</title>
+    <link>https://aidenwebb.github.io/tags/windows-server-2019/</link>
+    <description>Recent content in Windows Server 2019 on Aiden Arnkels-Webb</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 09 Mar 2021 13:17:55 +0000</lastBuildDate><atom:link href="https://aidenwebb.github.io/tags/windows-server-2019/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Fix Server 2019 Activation Error: Run “slui.exe 0x2a 0xC004F069”</title>
+      <link>https://aidenwebb.github.io/posts/2021/03/how-to-fix-server-2019-activation-error-run-slui.exe-0x2a-0xc004f069/</link>
+      <pubDate>Tue, 09 Mar 2021 13:17:55 +0000</pubDate>
+      
+      <guid>https://aidenwebb.github.io/posts/2021/03/how-to-fix-server-2019-activation-error-run-slui.exe-0x2a-0xc004f069/</guid>
+      <description>The Problem You&amp;rsquo;re unable to activate a copy of Windows Server 2019 Evaluation edition with your VLSC MAK key
+The Cause Server 2019 Evaluation edition can only be activated with a retail key. This must happen before a Volume Licence Key can be used.
+The Fix We need to use DISM to change the product version/edition
+Open an elevated command prompt
+Get a list of available version upgrade paths by typing:</description>
+    </item>
+    
+  </channel>
+</rss>
