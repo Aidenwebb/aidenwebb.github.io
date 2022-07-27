@@ -3,7 +3,7 @@ title: "Getting started with Hugo"
 date: 2022-07-25T22:01:11+01:00
 #url: /posts/getting-started-with-hugo/
 draft: false
-tags: ["Hugo", "Static Site Generator", "Projects"]
+tags: ["Hugo", "Static Site Generator", "Projects", "IT & Tech"]
 ---
 
 I recently came to the conclusion that I wasn't posting on my blog nearly as much as I'd like to. My blog runs on wordpress, and I've felt for a while that the process of logging in, creating a post, fixing formatting in a WSYWGI editor and eventually posting was too much resistance when I commonly just write notes in plain text. So, why not just write posts in plain text and have something else do the work of turning that in to a post?

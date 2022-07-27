@@ -12,7 +12,7 @@ cover:
     caption: "Error code: AzureDirectoryServiceAttributeValueMustBeUnique" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
-tags: ["Azure", "Troubleshooting", "Azure AD", "Azure AD Connect"]
+tags: ["Azure", "Troubleshooting", "Azure AD", "Azure AD Connect", "IT & Tech"]
 draft: false
 ---
 ## The Problem
