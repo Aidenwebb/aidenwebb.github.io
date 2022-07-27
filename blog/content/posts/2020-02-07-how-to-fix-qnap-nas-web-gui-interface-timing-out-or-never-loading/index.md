@@ -16,21 +16,21 @@ neve_meta_enable_content_width:
 tags: ['Troubleshooting','IT & Tech','QNAP']
 
 ---
-### The Problem
+## The Problem
 
 You're trying to connect to your NAS's web interface but it's just spinning forever and not actually loading. 
 
-### The Cause
+## The Cause
 
 The cause can be a number of things, but it boils down to an issue with the http service or proxy service on the QNAP. 
 
 Sometimes a configuration problem will cause the service to behave badly. A firmware update may cause a mismatch between the config file and the service being run.
 
-### The Fix
+## The Fix
 
 I'm assuming at this point that you've tried rebooting the NAS and that hasn't resolved the issue. Here are some other things you can try.
 
-#### Reset the Admin account config
+### Reset the Admin account config
 
 1. Download, install and run [WinSCP](https://winscp.net/eng/index.php)
 2. In WinSCP, set the option to show hidden files (keyboard shortcut Ctrl-Alt-H or Click Options > Preferences > Panels and ensure that "Show hidden files" is checked, then click OK )
@@ -43,7 +43,7 @@ I'm assuming at this point that you've tried rebooting the NAS and that hasn't r
 
 Note it may take a long time for the NAS to reboot. Leave it to do what it needs to do for at least half an hour. Periodically attempt to reconnect to WinSCP / the Web page, or use QFinder to determine when the QNAP is back online.
 
-#### Restart the HTTP server / amend configuration
+### Restart the HTTP server / amend configuration
 
 If the above does not work, you may have a different problem, not currently covered in this guide. It's worth restarting the http service and confirming both start OK. Note all commands here are case sensitive. Slashes (\\) and backslashes (/) are also not interchangeable as they are in a Windows environment.
 
@@ -66,7 +66,7 @@ If the above does not work, you may have a different problem, not currently cove
     ./thttpd.sh restart
     ```
 
-#### If the apache proxy does not start:
+### If the apache proxy does not start:
 
 1. Get the Web Access Port config, you should see "8080" being displayed. If it does not, go to Step 2.
     ```bash

@@ -17,11 +17,11 @@ neve_meta_enable_content_width:
 tags: ["Veeam","Troubleshooting","IT & Tech"]
 
 ---
-### The Problem
+## The Problem
 
 Veeam is failing to back up one of your Hyper-V VM's and is throwing the error: VHDx:CVhdxDisk.InitialValidation: Invalid bitmap block (all bitmap block of fixed and dynamic disks must be in SB\_BLOCK\_NOT_PRESENT state) Agent failed to process method {VHDx.GetDiskInformation}
 
-### The Cause
+## The Cause
 
 The error is telling us that Veeam's VHDx InitialValidation function failed as the VHDx had blocks in an invalid state.
 
@@ -31,9 +31,9 @@ Sector and Payload Bitmap blocks are used in the translation of VHD offset to a 
 
 We can therefore conclude that we are dealing with either VHDx corruption or file system cluster misallocation.
 
-### The Fix
+## The Fix
 
-#### Dealing with File System Corruption
+### Dealing with File System Corruption
 
 Before we start, find the VM in Hyper-V Manager and delete/merge any checkpoints. Wait for the merge to complete before continuing.
 
@@ -54,7 +54,7 @@ If there are any checkpoints, the changes we make with chkdsk will only affect t
 
 5. Once chkdsk is complete on all drives, try running the backup again. If the SB\_BLOCK\_NOT_PRESENT error persists, try repairing the VHDx file as below
 
-#### Repair corrupt VHDx files
+### Repair corrupt VHDx files
 
 The only way to truly "repair" a VHDX file is to create a new one. To do this we're going to use Hyper-V Manager to convert the existing VHDx to a new one.
 

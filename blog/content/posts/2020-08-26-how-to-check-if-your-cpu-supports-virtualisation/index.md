@@ -16,7 +16,7 @@ neve_meta_enable_content_width:
 tags: ['IT & Tech', 'Explainers', 'Windows']
 
 ---
-# Check Task Manager
+## Check Task Manager
 
   1. The first, simplest option to check is to open task manager.
   2. Click the performance tab
@@ -24,7 +24,7 @@ tags: ['IT & Tech', 'Explainers', 'Windows']
 
   If Virtualisation is not Enabled, this could be due to it being disabled in the BIOS. Before enabling it, check if your processor is compatible. 
 
-# Check Processor Compatibility
+## Check Processor Compatibility
 
   1. Identify your Processor 
       1. Press the Windows Key

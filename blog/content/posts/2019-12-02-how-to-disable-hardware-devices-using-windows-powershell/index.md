@@ -3,7 +3,8 @@ title: How to enable/disable hardware devices using Windows Powershell
 author: Aiden Arnkels-Webb
 #type: post
 date: 2019-12-02T22:31:54+00:00
-url: /how-to-disable-hardware-devices-using-windows-powershell/
+aliases: 
+  - /how-to-disable-hardware-devices-using-windows-powershell/
 cover:
     image: "cover.png" # image path/url
     alt: "Screenshot of Advanced NTFS Permissions" # alt text
@@ -36,7 +37,7 @@ tags:
 ---
 If you're working on Windows Server Core or remotely on another computer and don't have access to the Windows GUI, you might have trouble disabling a faulty or unwanted plug-and-play device. Thankfully Powershell makes it easy to get, enable and disable devices in Device Manager using [Get-PnpDevice][1], [Enable-PnpDevice][2] and [Disable-PnpDevice][3]
 
-### **How to query devices**
+## **How to query devices**
 
 ```powershell
 Get-PnpDevice # Get's all PNP Devices
@@ -48,7 +49,7 @@ Get-PnpDevice -FriendlyName "*Ethernet*" # Gets all PNP Devices with a name cont
 Get-PnpDevice -Status ERROR # Gets all PNP Devices in an errored states
 ```
 
-### **How to enable or disable devices**
+## **How to enable or disable devices**
 
 To enable disable a device, simply pipe the output of Get-PnpDevice to Disable-PnpDevice or Enable-PnpDevice. Please be sure your Get-PnpDevice command is targeting the correct device before piping to avoid accidentally disabling devices you'd rather keep enabled!
 
