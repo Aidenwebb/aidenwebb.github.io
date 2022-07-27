@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Pages on Aiden Arnkels-Webb</title>
-    <link>https://aidenwebb.github.io/pages/</link>
+    <link>https://aidenwebb.com/pages/</link>
     <description>Recent content in Pages on Aiden Arnkels-Webb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <copyright>@ Aiden Arnkels-Webb</copyright><atom:link href="https://aidenwebb.github.io/pages/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>@ Aiden Arnkels-Webb</copyright><atom:link href="https://aidenwebb.com/pages/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
-      <link>https://aidenwebb.github.io/about/</link>
+      <link>https://aidenwebb.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://aidenwebb.github.io/about/</guid>
+      <guid>https://aidenwebb.com/about/</guid>
       <description>About Me</description>
     </item>
     

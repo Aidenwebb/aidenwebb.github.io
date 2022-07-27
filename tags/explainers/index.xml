@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Explainers on Aiden Arnkels-Webb</title>
-    <link>https://aidenwebb.github.io/tags/explainers/</link>
+    <link>https://aidenwebb.com/tags/explainers/</link>
     <description>Recent content in Explainers on Aiden Arnkels-Webb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>@ Aiden Arnkels-Webb</copyright>
-    <lastBuildDate>Wed, 27 Jul 2022 12:36:29 +0100</lastBuildDate><atom:link href="https://aidenwebb.github.io/tags/explainers/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Jul 2022 12:36:29 +0100</lastBuildDate><atom:link href="https://aidenwebb.com/tags/explainers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What&#39;s the difference between Authentication, Authorisation and Accounting? (AAA)</title>
-      <link>https://aidenwebb.github.io/posts/whats-the-difference-between-authentication-authorisation-and-accounting-aaa/</link>
+      <link>https://aidenwebb.com/posts/whats-the-difference-between-authentication-authorisation-and-accounting-aaa/</link>
       <pubDate>Wed, 27 Jul 2022 12:36:29 +0100</pubDate>
       
-      <guid>https://aidenwebb.github.io/posts/whats-the-difference-between-authentication-authorisation-and-accounting-aaa/</guid>
+      <guid>https://aidenwebb.com/posts/whats-the-difference-between-authentication-authorisation-and-accounting-aaa/</guid>
       <description>Authentication Authentication is saying &amp;ldquo;I am me&amp;rdquo;. It validates who you are. When you go to a club and the bouncer stops you and you tell him you&amp;rsquo;re on the guest list, you then show him your ID and he says &amp;ldquo;Ahh! You&amp;rsquo;re that guy, come on in&amp;rdquo; - that&amp;rsquo;s Authentication
 Authorisation Authorisation validates what you claim to be. Going back to the club and the bouncer stops you. You show him your ID.</description>
     </item>
     
     <item>
       <title>Traps and Dangers of Unmanaged Incidents and How to Solve Them</title>
-      <link>https://aidenwebb.github.io/posts/traps-and-dangers-of-unmanaged-incidents-and-how-to-solve-them/</link>
+      <link>https://aidenwebb.com/posts/traps-and-dangers-of-unmanaged-incidents-and-how-to-solve-them/</link>
       <pubDate>Mon, 14 Sep 2020 17:48:17 +0000</pubDate>
       
-      <guid>https://aidenwebb.github.io/posts/traps-and-dangers-of-unmanaged-incidents-and-how-to-solve-them/</guid>
+      <guid>https://aidenwebb.com/posts/traps-and-dangers-of-unmanaged-incidents-and-how-to-solve-them/</guid>
       <description>Introduction ITIL defines an incident as “an unplanned interruption to or quality reduction of an IT service”.
 In order to minimise disruption caused by an incident and restore normal service as quickly as possible, it&amp;rsquo;s vital to have an efficient incident management process. Unfortunately, this is something a lot of IT teams get wrong.
 Unmanaged Incidents It&amp;rsquo;s 1 PM and your team has just started receiving calls from one of your users that the network drives are down.</description>
@@ -31,19 +31,19 @@ Unmanaged Incidents It&amp;rsquo;s 1 PM and your team has just started receiving
     
     <item>
       <title>How to check if your CPU supports Virtualisation</title>
-      <link>https://aidenwebb.github.io/posts/how-to-check-if-your-cpu-supports-virtualisation/</link>
+      <link>https://aidenwebb.com/posts/how-to-check-if-your-cpu-supports-virtualisation/</link>
       <pubDate>Wed, 26 Aug 2020 13:42:09 +0000</pubDate>
       
-      <guid>https://aidenwebb.github.io/posts/how-to-check-if-your-cpu-supports-virtualisation/</guid>
+      <guid>https://aidenwebb.com/posts/how-to-check-if-your-cpu-supports-virtualisation/</guid>
       <description>Check Task Manager The first, simplest option to check is to open task manager. Click the performance tab Check if Virtualisation is Enabled If Virtualisation is not Enabled, this could be due to it being disabled in the BIOS. Before enabling it, check if your processor is compatible. Check Processor Compatibility Identify your Processor Press the Windows Key Type &amp;ldquo;System Information&amp;rdquo; in the search box Make a note of your processor make and model Check Product Specs - Intel: If your processor is Intel, go to the Intel Product Specification Page and look up your processor model and open the specification page.</description>
     </item>
     
     <item>
       <title>Why “traverse folder” and “execute file” is a combined NTFS permission</title>
-      <link>https://aidenwebb.github.io/posts/why-traverse-folder-and-execute-file-is-a-combined-ntfs-permission/</link>
+      <link>https://aidenwebb.com/posts/why-traverse-folder-and-execute-file-is-a-combined-ntfs-permission/</link>
       <pubDate>Tue, 03 Dec 2019 13:02:00 +0000</pubDate>
       
-      <guid>https://aidenwebb.github.io/posts/why-traverse-folder-and-execute-file-is-a-combined-ntfs-permission/</guid>
+      <guid>https://aidenwebb.com/posts/why-traverse-folder-and-execute-file-is-a-combined-ntfs-permission/</guid>
       <description>I&amp;rsquo;ve been asked why the Advanced Permissions dialogue on NTFS folders lists &amp;ldquo;Traverse folder / execute file&amp;rdquo; as one single permission.
 On the surface it seems counterintuitive that you&amp;rsquo;d allow a user to navigate through a folder, or execute its contents.
 There&amp;rsquo;s no official Microsoft documentation on the design decisions, however, from a filesystem perspective, entering a folder is the same as executing or running it. The same is true of 3 classic Unix filesystem flags and permissions, where the &amp;ldquo;X&amp;rdquo; flag allows both directory traversal and file execution, while &amp;ldquo;R&amp;rdquo; allows reading and &amp;ldquo;W&amp;rdquo; allows writing.</description>

@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Office 365 on Aiden Arnkels-Webb</title>
-    <link>https://aidenwebb.github.io/tags/office-365/</link>
+    <link>https://aidenwebb.com/tags/office-365/</link>
     <description>Recent content in Office 365 on Aiden Arnkels-Webb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>@ Aiden Arnkels-Webb</copyright>
-    <lastBuildDate>Sun, 05 Aug 2018 01:11:51 +0000</lastBuildDate><atom:link href="https://aidenwebb.github.io/tags/office-365/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 05 Aug 2018 01:11:51 +0000</lastBuildDate><atom:link href="https://aidenwebb.com/tags/office-365/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to fix conflicting proxy addresses in O365 when creating a mailbox</title>
-      <link>https://aidenwebb.github.io/posts/how-to-fix-conflicting-proxy-addresses-in-o365-when-creating-a-mailbox/</link>
+      <link>https://aidenwebb.com/posts/how-to-fix-conflicting-proxy-addresses-in-o365-when-creating-a-mailbox/</link>
       <pubDate>Sun, 05 Aug 2018 01:11:51 +0000</pubDate>
       
-      <guid>https://aidenwebb.github.io/posts/how-to-fix-conflicting-proxy-addresses-in-o365-when-creating-a-mailbox/</guid>
+      <guid>https://aidenwebb.com/posts/how-to-fix-conflicting-proxy-addresses-in-o365-when-creating-a-mailbox/</guid>
       <description>The proxy address is already being used by the proxy addresses of another mailbox
 Why can&amp;rsquo;t I create a mailbox at account@domain2.com if one already exists at account@domain1.com
 The Problem So, you have two (or more) domains associated with your Office 365 Exchange account. When you try to create a shared mailbox on one domain, you encounter an error stating the proxy address is already being used.

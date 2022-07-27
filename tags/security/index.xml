@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Security on Aiden Arnkels-Webb</title>
-    <link>https://aidenwebb.github.io/tags/security/</link>
+    <link>https://aidenwebb.com/tags/security/</link>
     <description>Recent content in Security on Aiden Arnkels-Webb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>@ Aiden Arnkels-Webb</copyright>
-    <lastBuildDate>Wed, 27 Jul 2022 12:36:29 +0100</lastBuildDate><atom:link href="https://aidenwebb.github.io/tags/security/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Jul 2022 12:36:29 +0100</lastBuildDate><atom:link href="https://aidenwebb.com/tags/security/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What&#39;s the difference between Authentication, Authorisation and Accounting? (AAA)</title>
-      <link>https://aidenwebb.github.io/posts/whats-the-difference-between-authentication-authorisation-and-accounting-aaa/</link>
+      <link>https://aidenwebb.com/posts/whats-the-difference-between-authentication-authorisation-and-accounting-aaa/</link>
       <pubDate>Wed, 27 Jul 2022 12:36:29 +0100</pubDate>
       
-      <guid>https://aidenwebb.github.io/posts/whats-the-difference-between-authentication-authorisation-and-accounting-aaa/</guid>
+      <guid>https://aidenwebb.com/posts/whats-the-difference-between-authentication-authorisation-and-accounting-aaa/</guid>
       <description>Authentication Authentication is saying &amp;ldquo;I am me&amp;rdquo;. It validates who you are. When you go to a club and the bouncer stops you and you tell him you&amp;rsquo;re on the guest list, you then show him your ID and he says &amp;ldquo;Ahh! You&amp;rsquo;re that guy, come on in&amp;rdquo; - that&amp;rsquo;s Authentication
 Authorisation Authorisation validates what you claim to be. Going back to the club and the bouncer stops you. You show him your ID.</description>
     </item>

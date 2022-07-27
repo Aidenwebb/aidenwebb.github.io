@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Powershell on Aiden Arnkels-Webb</title>
-    <link>https://aidenwebb.github.io/tags/powershell/</link>
+    <link>https://aidenwebb.com/tags/powershell/</link>
     <description>Recent content in Powershell on Aiden Arnkels-Webb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>@ Aiden Arnkels-Webb</copyright>
-    <lastBuildDate>Mon, 02 Dec 2019 22:31:54 +0000</lastBuildDate><atom:link href="https://aidenwebb.github.io/tags/powershell/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 02 Dec 2019 22:31:54 +0000</lastBuildDate><atom:link href="https://aidenwebb.com/tags/powershell/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to enable/disable hardware devices using Windows Powershell</title>
-      <link>https://aidenwebb.github.io/posts/how-to-enable/disable-hardware-devices-using-windows-powershell/</link>
+      <link>https://aidenwebb.com/posts/how-to-enable/disable-hardware-devices-using-windows-powershell/</link>
       <pubDate>Mon, 02 Dec 2019 22:31:54 +0000</pubDate>
       
-      <guid>https://aidenwebb.github.io/posts/how-to-enable/disable-hardware-devices-using-windows-powershell/</guid>
+      <guid>https://aidenwebb.com/posts/how-to-enable/disable-hardware-devices-using-windows-powershell/</guid>
       <description>If you&amp;rsquo;re working on Windows Server Core or remotely on another computer and don&amp;rsquo;t have access to the Windows GUI, you might have trouble disabling a faulty or unwanted plug-and-play device. Thankfully Powershell makes it easy to get, enable and disable devices in Device Manager using Get-PnpDevice, Enable-PnpDevice and Disable-PnpDevice
 How to query devices 1 2 3 4 5 6 7 Get-PnpDevice # Get&amp;#39;s all PNP Devices Get-PnpDevice -PresentOnly # Gets all PNP Devices currently attached or physically present in the system Get-PnpDevice -FriendlyName &amp;#34;*Ethernet*&amp;#34; # Gets all PNP Devices with a name containing &amp;#34;Ethernet&amp;#34; Get-PnpDevice -Status ERROR # Gets all PNP Devices in an errored states How to enable or disable devices To enable disable a device, simply pipe the output of Get-PnpDevice to Disable-PnpDevice or Enable-PnpDevice.</description>
     </item>
     
     <item>
       <title>How to fix conflicting proxy addresses in O365 when creating a mailbox</title>
-      <link>https://aidenwebb.github.io/posts/how-to-fix-conflicting-proxy-addresses-in-o365-when-creating-a-mailbox/</link>
+      <link>https://aidenwebb.com/posts/how-to-fix-conflicting-proxy-addresses-in-o365-when-creating-a-mailbox/</link>
       <pubDate>Sun, 05 Aug 2018 01:11:51 +0000</pubDate>
       
-      <guid>https://aidenwebb.github.io/posts/how-to-fix-conflicting-proxy-addresses-in-o365-when-creating-a-mailbox/</guid>
+      <guid>https://aidenwebb.com/posts/how-to-fix-conflicting-proxy-addresses-in-o365-when-creating-a-mailbox/</guid>
       <description>The proxy address is already being used by the proxy addresses of another mailbox
 Why can&amp;rsquo;t I create a mailbox at account@domain2.com if one already exists at account@domain1.com
 The Problem So, you have two (or more) domains associated with your Office 365 Exchange account. When you try to create a shared mailbox on one domain, you encounter an error stating the proxy address is already being used.
