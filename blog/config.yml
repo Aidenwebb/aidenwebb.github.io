@@ -118,9 +118,9 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: categories
-      name: categories
-      url: /categories/
+    - identifier: posts
+      name: posts
+      url: /posts/
       weight: 10
     - identifier: tags
       name: tags
@@ -145,3 +145,5 @@ outputs:
     - HTML
     - RSS
     - JSON # is necessary
+permalinks:
+  posts: /posts/:year/:month/:title/

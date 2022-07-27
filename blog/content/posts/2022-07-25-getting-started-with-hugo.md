@@ -1,7 +1,7 @@
 ---
 title: "Getting started with Hugo"
 date: 2022-07-25T22:01:11+01:00
-url: /getting-started-with-hugo/
+#url: /posts/getting-started-with-hugo/
 draft: false
 tags: ["Hugo", "Static Site Generator", "Projects"]
 ---

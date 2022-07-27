@@ -3,9 +3,12 @@ title: How to Hard Link Azure AD Connect On Prem Users to Azure AD Office 365 Ac
 author: Aiden Arnkels-Webb
 #type: post
 date: 2022-03-03T10:36:09+00:00
-url: /how-to-hard-link-azure-ad-connect-on-prem-users-to-azure-ad-office-365-accounts/
+#url: 
+aliases:
+    - /posts/my-original-url/
+    - /how-to-hard-link-azure-ad-connect-on-prem-users-to-azure-ad-office-365-accounts/
 cover:
-    image: "/images/firefox_jyFKgOIryS.png" # image path/url
+    image: "cover.png" # image path/url
     alt: "Error code: AzureDirectoryServiceAttributeValueMustBeUnique" # alt text
     caption: "Error code: AzureDirectoryServiceAttributeValueMustBeUnique" # display caption under cover
     relative: false # when using page bundles set this to true
