@@ -29,13 +29,13 @@
     <loc>https://aidenwebb.github.io/tags/</loc>
     <lastmod>2022-07-27T12:36:29+01:00</lastmod>
   </url><url>
-    <loc>https://aidenwebb.github.io/posts/2022/07/whats-the-difference-between-authentication-authorisation-and-accounting-aaa/</loc>
+    <loc>https://aidenwebb.github.io/posts/whats-the-difference-between-authentication-authorisation-and-accounting-aaa/</loc>
     <lastmod>2022-07-27T12:36:29+01:00</lastmod>
   </url><url>
     <loc>https://aidenwebb.github.io/tags/git/</loc>
     <lastmod>2022-07-26T09:51:58+01:00</lastmod>
   </url><url>
-    <loc>https://aidenwebb.github.io/posts/2022/07/git-remove-submodule/</loc>
+    <loc>https://aidenwebb.github.io/posts/git-remove-submodule/</loc>
     <lastmod>2022-07-26T09:51:58+01:00</lastmod>
   </url><url>
     <loc>https://aidenwebb.github.io/tags/troubleshooting/</loc>
@@ -44,7 +44,7 @@
     <loc>https://aidenwebb.github.io/tags/hugo/</loc>
     <lastmod>2022-07-25T22:01:11+01:00</lastmod>
   </url><url>
-    <loc>https://aidenwebb.github.io/posts/2022/07/moving-my-blog-to-hugo-getting-started-with-hugo/</loc>
+    <loc>https://aidenwebb.github.io/posts/moving-my-blog-to-hugo-getting-started-with-hugo/</loc>
     <lastmod>2022-07-25T22:01:11+01:00</lastmod>
   </url><url>
     <loc>https://aidenwebb.github.io/tags/projects/</loc>
@@ -62,10 +62,10 @@
     <loc>https://aidenwebb.github.io/tags/azure-ad-connect/</loc>
     <lastmod>2022-03-03T10:36:09+00:00</lastmod>
   </url><url>
-    <loc>https://aidenwebb.github.io/posts/2022/03/how-to-hard-link-azure-ad-connect-on-prem-users-to-azure-ad-office-365-accounts/</loc>
+    <loc>https://aidenwebb.github.io/posts/how-to-hard-link-azure-ad-connect-on-prem-users-to-azure-ad-office-365-accounts/</loc>
     <lastmod>2022-03-03T10:36:09+00:00</lastmod>
   </url><url>
-    <loc>https://aidenwebb.github.io/posts/2021/03/how-to-fix-server-2019-activation-error-run-slui.exe-0x2a-0xc004f069/</loc>
+    <loc>https://aidenwebb.github.io/posts/how-to-fix-server-2019-activation-error-run-slui.exe-0x2a-0xc004f069/</loc>
     <lastmod>2021-03-09T13:17:55+00:00</lastmod>
   </url><url>
     <loc>https://aidenwebb.github.io/tags/product-licencing/</loc>
@@ -80,7 +80,7 @@
     <loc>https://aidenwebb.github.io/tags/windows-server-2019/</loc>
     <lastmod>2021-03-09T13:17:55+00:00</lastmod>
   </url><url>
-    <loc>https://aidenwebb.github.io/posts/2020/11/how-to-fix-sb_block_not_present-error-in-veeam/</loc>
+    <loc>https://aidenwebb.github.io/posts/how-to-fix-sb_block_not_present-error-in-veeam/</loc>
     <lastmod>2020-11-24T18:58:26+00:00</lastmod>
   </url><url>
     <loc>https://aidenwebb.github.io/tags/veeam/</loc>
@@ -89,13 +89,13 @@
     <loc>https://aidenwebb.github.io/tags/strategy/</loc>
     <lastmod>2020-09-14T17:48:17+00:00</lastmod>
   </url><url>
-    <loc>https://aidenwebb.github.io/posts/2020/09/traps-and-dangers-of-unmanaged-incidents-and-how-to-solve-them/</loc>
+    <loc>https://aidenwebb.github.io/posts/traps-and-dangers-of-unmanaged-incidents-and-how-to-solve-them/</loc>
     <lastmod>2020-09-14T17:48:17+00:00</lastmod>
   </url><url>
-    <loc>https://aidenwebb.github.io/posts/2020/08/how-to-check-if-your-cpu-supports-virtualisation/</loc>
+    <loc>https://aidenwebb.github.io/posts/how-to-check-if-your-cpu-supports-virtualisation/</loc>
     <lastmod>2020-08-26T13:42:09+00:00</lastmod>
   </url><url>
-    <loc>https://aidenwebb.github.io/posts/2020/02/how-to-fix-qnap-nas-web-gui-interface-timing-out-or-never-loading/</loc>
+    <loc>https://aidenwebb.github.io/posts/how-to-fix-qnap-nas-web-gui-interface-timing-out-or-never-loading/</loc>
     <lastmod>2020-02-07T20:55:29+00:00</lastmod>
   </url><url>
     <loc>https://aidenwebb.github.io/tags/qnap/</loc>
@@ -107,10 +107,10 @@
     <loc>https://aidenwebb.github.io/tags/ntfs/</loc>
     <lastmod>2019-12-03T13:02:00+00:00</lastmod>
   </url><url>
-    <loc>https://aidenwebb.github.io/posts/2019/12/why-traverse-folder-and-execute-file-is-a-combined-ntfs-permission/</loc>
+    <loc>https://aidenwebb.github.io/posts/why-traverse-folder-and-execute-file-is-a-combined-ntfs-permission/</loc>
     <lastmod>2019-12-03T13:02:00+00:00</lastmod>
   </url><url>
-    <loc>https://aidenwebb.github.io/posts/2019/12/how-to-enable/disable-hardware-devices-using-windows-powershell/</loc>
+    <loc>https://aidenwebb.github.io/posts/how-to-enable/disable-hardware-devices-using-windows-powershell/</loc>
     <lastmod>2019-12-02T22:31:54+00:00</lastmod>
   </url><url>
     <loc>https://aidenwebb.github.io/tags/powershell/</loc>
@@ -119,7 +119,7 @@
     <loc>https://aidenwebb.github.io/tags/exchange-online/</loc>
     <lastmod>2018-08-05T01:11:51+00:00</lastmod>
   </url><url>
-    <loc>https://aidenwebb.github.io/posts/2018/08/how-to-fix-conflicting-proxy-addresses-in-o365-when-creating-a-mailbox/</loc>
+    <loc>https://aidenwebb.github.io/posts/how-to-fix-conflicting-proxy-addresses-in-o365-when-creating-a-mailbox/</loc>
     <lastmod>2018-08-05T01:11:51+00:00</lastmod>
   </url><url>
     <loc>https://aidenwebb.github.io/tags/office-365/</loc>
