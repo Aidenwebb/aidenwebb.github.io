@@ -151,6 +151,6 @@ outputs:
     - RSS
     - JSON # is necessary
 permalinks:
-  posts: /posts/:year/:month/:title/
+  posts: /posts/:title/
 
 disqusShortname: aidenwebb
