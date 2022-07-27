@@ -14,13 +14,9 @@ cover:
     hidden: false # only hide on current single page  
 ---
 
-Hi, I'm Aiden, also known as Logi.
-
 I am a Systems and Infrastructure Architect based in Bournemouth, UK
 
 I'm an avid learner and love a challenge.
-
-I'm an IT Tech with big dreams, a fire performer with big ideas and a tinker with little screwdrivers. I'm many other things too, but we'll get into that as times goes on.
 
 I started this blog as a creative outlet at a time where I most needed to organise my thoughts. Here you'll find helpful tips, introspection and plenty of shenanigans.  
 I...  

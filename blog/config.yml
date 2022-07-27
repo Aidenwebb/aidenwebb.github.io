@@ -119,6 +119,10 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
+    - identifier: about
+      name: about me
+      url: /about/
+      weight: 10
     - identifier: posts
       name: posts
       url: /posts/
