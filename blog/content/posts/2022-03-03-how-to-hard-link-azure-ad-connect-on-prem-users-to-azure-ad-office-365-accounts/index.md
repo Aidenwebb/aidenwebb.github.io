@@ -5,7 +5,6 @@ author: Aiden Arnkels-Webb
 date: 2022-03-03T10:36:09+00:00
 #url: 
 aliases:
-    - /posts/my-original-url/
     - /how-to-hard-link-azure-ad-connect-on-prem-users-to-azure-ad-office-365-accounts/
 cover:
     image: "cover.png" # image path/url
