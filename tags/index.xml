@@ -6,7 +6,34 @@
     <description>Recent content in Tags on Aiden Arnkels-Webb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 26 Jul 2022 09:51:58 +0100</lastBuildDate><atom:link href="https://aidenwebb.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Jul 2022 12:36:29 +0100</lastBuildDate><atom:link href="https://aidenwebb.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Authentication</title>
+      <link>https://aidenwebb.github.io/tags/authentication/</link>
+      <pubDate>Wed, 27 Jul 2022 12:36:29 +0100</pubDate>
+      
+      <guid>https://aidenwebb.github.io/tags/authentication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Authorisation</title>
+      <link>https://aidenwebb.github.io/tags/authorisation/</link>
+      <pubDate>Wed, 27 Jul 2022 12:36:29 +0100</pubDate>
+      
+      <guid>https://aidenwebb.github.io/tags/authorisation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security</title>
+      <link>https://aidenwebb.github.io/tags/security/</link>
+      <pubDate>Wed, 27 Jul 2022 12:36:29 +0100</pubDate>
+      
+      <guid>https://aidenwebb.github.io/tags/security/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Git</title>
       <link>https://aidenwebb.github.io/tags/git/</link>
