@@ -23,11 +23,11 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "<image path/url>" # image path/url
-    alt: "<alt text>" # alt text
+    image: "cover.jpg" # image path/url
+    alt: "Picture of Microsoft Authenticator" # alt text
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
-    hidden: true # only hide on current single page
+    hidden: false # only hide on current single page
 editPost:
     URL: "https://github.com/Aidenwebb/aidenwebb-com-blog-code/content"
     Text: "Suggest Changes" # edit text

@@ -4,6 +4,12 @@ date: 2022-07-26T09:51:58+01:00
 #url: ./git-remove-submodule/
 draft: false
 tags: ["Git", "Troubleshooting", "IT & Tech"]
+cover:
+    image: "cover.jpg" # image path/url
+    alt: "Groot and Octocat reading a newspaper" # alt text
+    caption: "<text>" # display caption under cover
+    relative: false # when using page bundles set this to true
+    hidden: false # only hide on current single page
 ---
 
 Submodules aren't removed using ```git rm submodule-dir```, they need to be removed in a far more thorough and annoying fashion.
