@@ -1,12 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Troubleshooting on Aiden Arnkels-Webb</title>
-    <link>https://aidenwebb.github.io/tags/troubleshooting/</link>
-    <description>Recent content in Troubleshooting on Aiden Arnkels-Webb</description>
+    <title>IT &amp; Tech on Aiden Arnkels-Webb</title>
+    <link>https://aidenwebb.github.io/tags/it-tech/</link>
+    <description>Recent content in IT &amp; Tech on Aiden Arnkels-Webb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 26 Jul 2022 09:51:58 +0100</lastBuildDate><atom:link href="https://aidenwebb.github.io/tags/troubleshooting/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Jul 2022 12:36:29 +0100</lastBuildDate><atom:link href="https://aidenwebb.github.io/tags/it-tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What&#39;s the difference between Authentication, Authorisation and Accounting? (AAA)</title>
+      <link>https://aidenwebb.github.io/posts/2022/07/whats-the-difference-between-authentication-authorisation-and-accounting-aaa/</link>
+      <pubDate>Wed, 27 Jul 2022 12:36:29 +0100</pubDate>
+      
+      <guid>https://aidenwebb.github.io/posts/2022/07/whats-the-difference-between-authentication-authorisation-and-accounting-aaa/</guid>
+      <description>Authentication Authentication is saying &amp;ldquo;I am me&amp;rdquo;. It validates who you are. When you go to a club and the bouncer stops you and you tell him you&amp;rsquo;re on the guest list, you then show him your ID and he says &amp;ldquo;Ahh! You&amp;rsquo;re that guy, come on in&amp;rdquo; - that&amp;rsquo;s Authentication
+Authorisation Authorisation validates what you claim to be. Going back to the club and the bouncer stops you. You show him your ID.</description>
+    </item>
+    
     <item>
       <title>Git Remove Submodule</title>
       <link>https://aidenwebb.github.io/posts/2022/07/git-remove-submodule/</link>
@@ -15,6 +25,15 @@
       <guid>https://aidenwebb.github.io/posts/2022/07/git-remove-submodule/</guid>
       <description>Submodules aren&amp;rsquo;t removed using git rm submodule-dir, they need to be removed in a far more thorough and annoying fashion. There are a number of unclear explainations at various sources so I decided to write my own findings.
 Delete the relevant parts from the .gitmodules file. EG: [submodule &amp;#34;blog/themes/PaperMod&amp;#34;] path = blog/themes/PaperMod url = https://github.com/adityatelange/hugo-PaperMod.git Stage .gitmodules via git add .gitmodules Remove the relevant parts from .git/config EG: [submodule &amp;#34;blog/themes/PaperMod&amp;#34;] url = https://github.</description>
+    </item>
+    
+    <item>
+      <title>Getting started with Hugo</title>
+      <link>https://aidenwebb.github.io/posts/2022/07/getting-started-with-hugo/</link>
+      <pubDate>Mon, 25 Jul 2022 22:01:11 +0100</pubDate>
+      
+      <guid>https://aidenwebb.github.io/posts/2022/07/getting-started-with-hugo/</guid>
+      <description>I recently came to the conclusion that I wasn&amp;rsquo;t posting on my blog nearly as much as I&amp;rsquo;d like to. My blog runs on wordpress, and I&amp;rsquo;ve felt for a while that the process of logging in, creating a post, fixing formatting in a WSYWGI editor and eventually posting was too much resistance when I commonly just write notes in plain text. So, why not just write posts in plain text and have something else do the work of turning that in to a post?</description>
     </item>
     
     <item>

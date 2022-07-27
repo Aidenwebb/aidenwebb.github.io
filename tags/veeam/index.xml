@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Veeam on Aiden Arnkels-Webb</title>
+    <link>https://aidenwebb.github.io/tags/veeam/</link>
+    <description>Recent content in Veeam on Aiden Arnkels-Webb</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 24 Nov 2020 18:58:26 +0000</lastBuildDate><atom:link href="https://aidenwebb.github.io/tags/veeam/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to fix SB_BLOCK_NOT_PRESENT error in Veeam</title>
+      <link>https://aidenwebb.github.io/posts/2020/11/how-to-fix-sb_block_not_present-error-in-veeam/</link>
+      <pubDate>Tue, 24 Nov 2020 18:58:26 +0000</pubDate>
+      
+      <guid>https://aidenwebb.github.io/posts/2020/11/how-to-fix-sb_block_not_present-error-in-veeam/</guid>
+      <description>The Problem Veeam is failing to back up one of your Hyper-V VM&amp;rsquo;s and is throwing the error: VHDx:CVhdxDisk.InitialValidation: Invalid bitmap block (all bitmap block of fixed and dynamic disks must be in SB_BLOCK_NOT_PRESENT state) Agent failed to process method {VHDx.GetDiskInformation}
+The Cause The error is telling us that Veeam&amp;rsquo;s VHDx InitialValidation function failed as the VHDx had blocks in an invalid state.
+According to Microsoft&amp;rsquo;s OpenSpecs Documentation for VHDx, the only valid Sector Bitmap Block state for fixed and dynamic disks is SB_BLOCK_NOT_PRESENT</description>
+    </item>
+    
+  </channel>
+</rss>
