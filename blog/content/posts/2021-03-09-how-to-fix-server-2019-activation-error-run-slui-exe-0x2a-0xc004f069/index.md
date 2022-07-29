@@ -25,7 +25,7 @@ Server 2019 Evaluation edition can only be activated with a retail key. This mus
 
 ## The Fix
 
-We need to use DISM to change the product version/edition 
+We need to use DISM to change the product version/edition
 
 Open an elevated command prompt
 
