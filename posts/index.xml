@@ -25,7 +25,10 @@ Authorisation Authorisation validates what you claim to be. Going back to the cl
       
       <guid>https://aidenwebb.com/posts/git-remove-submodule/</guid>
       <description>Submodules aren&amp;rsquo;t removed using git rm submodule-dir, they need to be removed in a far more thorough and annoying fashion. There are a number of unclear explainations at various sources so I decided to write my own findings.
-Delete the relevant parts from the .gitmodules file. EG: [submodule &amp;#34;blog/themes/PaperMod&amp;#34;] path = blog/themes/PaperMod url = https://github.com/adityatelange/hugo-PaperMod.git Stage .gitmodules via git add .gitmodules Remove the relevant parts from .git/config EG: [submodule &amp;#34;blog/themes/PaperMod&amp;#34;] url = https://github.</description>
+Delete the relevant parts from the .gitmodules file.
+EG:
+1 2 3 [submodule &amp;#34;blog/themes/PaperMod&amp;#34;] path = blog/themes/PaperMod url = https://github.com/adityatelange/hugo-PaperMod.git Stage .gitmodules via git add .gitmodules
+Remove the relevant parts from .git/config</description>
     </item>
     
     <item>
@@ -88,7 +91,8 @@ Unmanaged Incidents It&amp;rsquo;s 1 PM and your team has just started receiving
       <pubDate>Wed, 26 Aug 2020 13:42:09 +0000</pubDate>
       
       <guid>https://aidenwebb.com/posts/how-to-check-if-your-cpu-supports-virtualisation/</guid>
-      <description>Check Task Manager The first, simplest option to check is to open task manager. Click the performance tab Check if Virtualisation is Enabled If Virtualisation is not Enabled, this could be due to it being disabled in the BIOS. Before enabling it, check if your processor is compatible. Check Processor Compatibility Identify your Processor Press the Windows Key Type &amp;ldquo;System Information&amp;rdquo; in the search box Make a note of your processor make and model Check Product Specs - Intel: If your processor is Intel, go to the Intel Product Specification Page and look up your processor model and open the specification page.</description>
+      <description>Check Task Manager The first, simplest option to check is to open task manager. Click the performance tab Check if Virtualisation is Enabled If Virtualisation is not Enabled, this could be due to it being disabled in the BIOS. Before enabling it, check if your processor is compatible.
+Check Processor Compatibility Identify your Processor Press the Windows Key Type &amp;ldquo;System Information&amp;rdquo; in the search box Make a note of your processor make and model Check Product Specs - Intel: If your processor is Intel, go to the Intel Product Specification Page and look up your processor model and open the specification page.</description>
     </item>
     
     <item>
@@ -97,7 +101,9 @@ Unmanaged Incidents It&amp;rsquo;s 1 PM and your team has just started receiving
       <pubDate>Fri, 07 Feb 2020 20:55:29 +0000</pubDate>
       
       <guid>https://aidenwebb.com/posts/how-to-fix-qnap-nas-web-gui-interface-timing-out-or-never-loading/</guid>
-      <description>The Problem You&amp;rsquo;re trying to connect to your NAS&amp;rsquo;s web interface but it&amp;rsquo;s just spinning forever and not actually loading. The Cause The cause can be a number of things, but it boils down to an issue with the http service or proxy service on the QNAP. Sometimes a configuration problem will cause the service to behave badly. A firmware update may cause a mismatch between the config file and the service being run.</description>
+      <description>The Problem You&amp;rsquo;re trying to connect to your NAS&amp;rsquo;s web interface but it&amp;rsquo;s just spinning forever and not actually loading.
+The Cause The cause can be a number of things, but it boils down to an issue with the http service or proxy service on the QNAP.
+Sometimes a configuration problem will cause the service to behave badly. A firmware update may cause a mismatch between the config file and the service being run.</description>
     </item>
     
     <item>

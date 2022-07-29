@@ -15,7 +15,10 @@
       
       <guid>https://aidenwebb.com/posts/git-remove-submodule/</guid>
       <description>Submodules aren&amp;rsquo;t removed using git rm submodule-dir, they need to be removed in a far more thorough and annoying fashion. There are a number of unclear explainations at various sources so I decided to write my own findings.
-Delete the relevant parts from the .gitmodules file. EG: [submodule &amp;#34;blog/themes/PaperMod&amp;#34;] path = blog/themes/PaperMod url = https://github.com/adityatelange/hugo-PaperMod.git Stage .gitmodules via git add .gitmodules Remove the relevant parts from .git/config EG: [submodule &amp;#34;blog/themes/PaperMod&amp;#34;] url = https://github.</description>
+Delete the relevant parts from the .gitmodules file.
+EG:
+1 2 3 [submodule &amp;#34;blog/themes/PaperMod&amp;#34;] path = blog/themes/PaperMod url = https://github.com/adityatelange/hugo-PaperMod.git Stage .gitmodules via git add .gitmodules
+Remove the relevant parts from .git/config</description>
     </item>
     
     <item>
@@ -58,7 +61,9 @@ According to Microsoft&amp;rsquo;s OpenSpecs Documentation for VHDx, the only va
       <pubDate>Fri, 07 Feb 2020 20:55:29 +0000</pubDate>
       
       <guid>https://aidenwebb.com/posts/how-to-fix-qnap-nas-web-gui-interface-timing-out-or-never-loading/</guid>
-      <description>The Problem You&amp;rsquo;re trying to connect to your NAS&amp;rsquo;s web interface but it&amp;rsquo;s just spinning forever and not actually loading. The Cause The cause can be a number of things, but it boils down to an issue with the http service or proxy service on the QNAP. Sometimes a configuration problem will cause the service to behave badly. A firmware update may cause a mismatch between the config file and the service being run.</description>
+      <description>The Problem You&amp;rsquo;re trying to connect to your NAS&amp;rsquo;s web interface but it&amp;rsquo;s just spinning forever and not actually loading.
+The Cause The cause can be a number of things, but it boils down to an issue with the http service or proxy service on the QNAP.
+Sometimes a configuration problem will cause the service to behave badly. A firmware update may cause a mismatch between the config file and the service being run.</description>
     </item>
     
     <item>

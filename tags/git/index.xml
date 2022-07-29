@@ -15,7 +15,10 @@
       
       <guid>https://aidenwebb.com/posts/git-remove-submodule/</guid>
       <description>Submodules aren&amp;rsquo;t removed using git rm submodule-dir, they need to be removed in a far more thorough and annoying fashion. There are a number of unclear explainations at various sources so I decided to write my own findings.
-Delete the relevant parts from the .gitmodules file. EG: [submodule &amp;#34;blog/themes/PaperMod&amp;#34;] path = blog/themes/PaperMod url = https://github.com/adityatelange/hugo-PaperMod.git Stage .gitmodules via git add .gitmodules Remove the relevant parts from .git/config EG: [submodule &amp;#34;blog/themes/PaperMod&amp;#34;] url = https://github.</description>
+Delete the relevant parts from the .gitmodules file.
+EG:
+1 2 3 [submodule &amp;#34;blog/themes/PaperMod&amp;#34;] path = blog/themes/PaperMod url = https://github.com/adityatelange/hugo-PaperMod.git Stage .gitmodules via git add .gitmodules
+Remove the relevant parts from .git/config</description>
     </item>
     
   </channel>
