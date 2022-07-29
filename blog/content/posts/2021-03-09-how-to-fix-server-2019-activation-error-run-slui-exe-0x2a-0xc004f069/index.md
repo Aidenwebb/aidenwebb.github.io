@@ -31,18 +31,17 @@ Open an elevated command prompt
 
 1. Get a list of available version upgrade paths by typing:
 
-      ```
+      ```powershell
       DISM.exe /Online /Get-TargetEditions
       ```
 
 2. Then upgrade to the listed edition by typing:
 
-      ```
+      ```powershell
       DISM /Online /Set-Edition:<TargetEdition> /ProductKey:<Product Key from Below Table> /AcceptEula
       ```
 
       EG: DISM /Online /Set-Edition:ServerDatacenterCor /ProductKey:XXXXX-XXXXX-XXXXX-XXXXX-XXXXX /AcceptEula
-
 
       |Server Edition|Product GVLK|
       |:----|:----|
@@ -64,12 +63,9 @@ Open an elevated command prompt
       |Windows Server 2016 Cloud Storage|QN4C6-GBJD2-FB422-GHWJK-GJG2R|
       |Windows Server 2016 Azure Core|VP34G-4NPPG-79JTQ-864T4-R3MQX|
 
-
-
-
 3. Reboot the system and enter your MAK key either via the GUI or by running the two commands
 
-      ```
+      ```powershell
       slmgr.vbs /ipk <Your Product Key>
       slmgr.vbs /ato
       ```

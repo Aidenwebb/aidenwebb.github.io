@@ -45,12 +45,11 @@ If there are any checkpoints, the changes we make with chkdsk will only affect t
 
 3. For each volume, run `chkdsk "\\?\Volume{VOLUMEID}" /f /r /x s` to dismount the disk to fix errors on the and repair bad sectors. If repairing the system volume, a reboot will be necessary and the scan will run on startup. It's vital that all volumes are scanned, not just those with a drive letter.
 
-  ![MountVol and Chkdsk](mountvol_and_chkdsk.png)
-
+    ![MountVol and Chkdsk](mountvol_and_chkdsk.png)
 
 4. If chkdsk finds bad sectors, you will see this in the Chkdsk log under Stage 4 and 5.
 
-  ![Chkdsk stage 5 in Event Viewer](Chkdsk-stage-5.png)
+    ![Chkdsk stage 5 in Event Viewer](Chkdsk-stage-5.png)
 
 5. Once chkdsk is complete on all drives, try running the backup again. If the SB\_BLOCK\_NOT_PRESENT error persists, try repairing the VHDx file as below
 

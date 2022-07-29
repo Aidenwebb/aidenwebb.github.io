@@ -32,23 +32,30 @@ We need to manually apply the ImmutableID property to the Azure AD account.
 Open an elevated Powershell prompt on a system that is able to access Active Directory and the internet
 
 ### In Preparation
+
 1. Install required modules
+
     ```powershell {linenos=true}
     Install-Module -Name AZ
     Add-WindowsCapability –online –Name Rsat.ActiveDirectory.DS-LDS.Tools~~~~0.0.1.0
     ```
-2.  Connect to Azure online
+
+2. Connect to Azure online
+
     ```powershell {linenos=true}
     Connect-MsolService
     ```
 
 ### Resolution steps
+
 1. Get the GUID of your on-premises user:
+
     ```powershell
     $guid = (Get-ADUser -Identity "James.Bond").ObjectGUID</code></pre>
     ```
 
 2. Convert the GUID to the ImmutableID used to hardlink in Azure AD
+
     ```powershell
     $immutableid=[System.Convert]::ToBase64String($guid.tobytearray())
     ```
@@ -59,21 +66,25 @@ Open an elevated Powershell prompt on a system that is able to access Active Dir
     Get-MsolUser | Where-Object {$_.immutableid -eq $immutableid}
     ```
 
-1. Either:
-   1. <DANGER>: If the Azure AD user using the ImmutableID isn't an account in use, and you have no need for it, delete it completely.
+4. Either:
 
-    ```powershell
-    Get-MsolUser | Where-Object {$_.immutableid -eq $immutableid} | Remove-MsolUser
-    Get-MsolUser | Where-Object {$_.immutableid -eq $immutableid} | Remove-MsolUser -RemoveFromRecycleBin
-    ```
+   1. ⚠️**DANGER**⚠️: If the Azure AD user using the ImmutableID isn't an account in use, and you have no need for it, delete it completely.
+
+        ```powershell
+        Get-MsolUser | Where-Object {$_.immutableid -eq $immutableid} | Remove-MsolUser
+        Get-MsolUser | Where-Object {$_.immutableid -eq $immutableid} | Remove-MsolUser -RemoveFromRecycleBin
+        ```
+
    2. If the Azure AD user using the Immutable ID is an account that you use, and you don't want to delete it, set its ImmutableID to Null
-    ```powershell
-    Get-MsolUser | Where-Object {$_.immutableid -eq $immutableid} | Set-MsolUser -ImmutableId $null
-    ```
+
+        ```powershell
+        Get-MsolUser | Where-Object {$_.immutableid -eq $immutableid} | Set-MsolUser -ImmutableId $null
+        ```
 
 5. Find the UPN of the Azure AD user you want to Hard Link
 
 6. Set the ImmutablieID on the correct AD user
+
     ```powershell
     Set-MsolUser -UserPrincipalName James.Bond@CorrectCloudUpnDomain.com -ImmutableId $immutableid
     ```

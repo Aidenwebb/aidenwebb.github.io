@@ -65,13 +65,13 @@ You could also output the instance ID to a variable for use later if you'd rathe
 $DeviceID = Get-PnPDevice -FriendlyName "Intel(R) Ethernet Connection I217-V" | Select-Object InstanceID
 Disable-PnpDevice -InstanceID $DeviceID
 ```
+
 Or
+
 ```powershell
 $DeviceID = (Get-PnpDevice -FriendlyName "Intel(R) Ethernet Connection I217-V").InstanceID
 Disable-PnpDevice -InstanceID $DeviceID
 ```
-
- 
 
  [1]: https://docs.microsoft.com/en-us/powershell/module/pnpdevice/get-pnpdevice?view=win10-ps
  [2]: https://docs.microsoft.com/en-us/powershell/module/pnpdevice/enable-pnpdevice?view=win10-ps

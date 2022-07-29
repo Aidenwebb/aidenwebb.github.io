@@ -113,9 +113,9 @@ With a strong incident management strategy, we're able to reduce the mean time t
 **Separate:** Spread the workload, giving each member of the incident management team a specific role. Vital roles are Manager, Operations, Comms and Planning.
 
 * Manager has the job of holding the high-level state of the incident and orchestrating the response.
-* Operations has the job of investigating and implementing resolution steps to the incident. 
+* Operations has the job of investigating and implementing resolution steps to the incident.
 * Comms has the job of communicating with users and stakeholders, providing updates and flagging new information.
-* Support has the job of supporting the other roles by logging additional tickets for things to check in on later, tracking changes to the system, arranging handovers and regular coffee. 
+* Support has the job of supporting the other roles by logging additional tickets for things to check in on later, tracking changes to the system, arranging handovers and regular coffee.
 
 **Trust:** Allow your IT team autonomy within their role in the incident management process. Reducing crossover prevents people from feeling overwhelmed!
 
@@ -123,16 +123,15 @@ With a strong incident management strategy, we're able to reduce the mean time t
 
 **Review:** After the incident, review with your team and users to determine if there's anything you could have done better. Continually improving the process over time and tailoring it to your culture and organisation is vital to the continued success of the process.
 
-##  Footnotes
-This incident management strategy is adapted from [FEMA's National Incident Management System][1]. 
+## Footnotes
+
+This incident management strategy is adapted from [FEMA's National Incident Management System][1].
 
 On Page 52: Communications management.
 
-  * Manager corresponds to Strategic communication
-  * Operations corresponds to Tactical communication
-  * Support corresponds to... well, Support
-  * Comms corresponds to Public communication
-
- 
+* Manager corresponds to Strategic communication
+* Operations corresponds to Tactical communication
+* Support corresponds to... well, Support
+* Comms corresponds to Public communication
 
  [1]: https://www.fema.gov/media-library-data/1508151197225-ced8c60378c3936adb92c1a3ee6f6564/FINAL_NIMS_2017.pdf
