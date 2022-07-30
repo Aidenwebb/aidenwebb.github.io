@@ -10,7 +10,7 @@ cover:
     image: "cover.png" # image path/url
     alt: "" # alt text
     caption: "" # display caption under cover
-    relative: false # when using page bundles set this to true
+    relative: true # when using page bundles set this to true
     hidden: false # only hide on current single page
 tags: ["Windows", "Troubleshooting", "Windows Server", "Windows Server 2019", "Product Licencing", "IT & Tech"]
 draft: false

@@ -26,7 +26,7 @@ cover:
     image: "cover.jpg" # image path/url
     alt: "Picture of Microsoft Authenticator" # alt text
     caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
+    relative: true # when using page bundles set this to true
     hidden: false # only hide on current single page
 ---
 

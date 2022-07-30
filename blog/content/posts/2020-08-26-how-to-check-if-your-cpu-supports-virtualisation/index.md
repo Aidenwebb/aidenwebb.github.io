@@ -9,7 +9,7 @@ cover:
     image: "cover.png" # image path/url
     alt: "Task Manager > Performance > CPU > Virtualisation" # alt text
     caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
+    relative: true # when using page bundles set this to true
     hidden: false # only hide on current single page
 neve_meta_enable_content_width:
   - off

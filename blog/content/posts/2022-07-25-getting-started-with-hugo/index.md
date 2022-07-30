@@ -8,7 +8,7 @@ cover:
     image: "cover.svg" # image path/url
     alt: "Picture of an ice cream fallen on the floor" # alt text
     caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
+    relative: true # when using page bundles set this to true
     hidden: false # only hide on current single page  
 ---
 

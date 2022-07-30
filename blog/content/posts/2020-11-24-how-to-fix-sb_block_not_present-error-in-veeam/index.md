@@ -10,7 +10,7 @@ cover:
     image: "cover.png" # image path/url
     alt: "Veeam Error: VHDx:CVhdxDisk.InitialValidation: Invalid bitmap block" # alt text
     caption: "<text>" # display caption under cover
-    relative: false # when using page bundles set this to true
+    relative: true # when using page bundles set this to true
     hidden: false # only hide on current single page
 neve_meta_enable_content_width:
   - off

@@ -10,7 +10,7 @@ cover:
     image: "cover.png" # image path/url
     alt: "Error code: AzureDirectoryServiceAttributeValueMustBeUnique" # alt text
     caption: "Error code: AzureDirectoryServiceAttributeValueMustBeUnique" # display caption under cover
-    relative: false # when using page bundles set this to true
+    relative: true # when using page bundles set this to true
     hidden: false # only hide on current single page
 tags: ["Azure", "Troubleshooting", "Azure AD", "Azure AD Connect", "IT & Tech"]
 draft: false
