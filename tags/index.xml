@@ -7,7 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>@ Aiden Arnkels-Webb</copyright>
-    <lastBuildDate>Wed, 27 Jul 2022 12:36:29 +0100</lastBuildDate><atom:link href="https://aidenwebb.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 Jul 2022 08:38:05 +0100</lastBuildDate><atom:link href="https://aidenwebb.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Camping</title>
+      <link>https://aidenwebb.com/tags/camping/</link>
+      <pubDate>Sat, 30 Jul 2022 08:38:05 +0100</pubDate>
+      
+      <guid>https://aidenwebb.com/tags/camping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Checklist</title>
+      <link>https://aidenwebb.com/tags/checklist/</link>
+      <pubDate>Sat, 30 Jul 2022 08:38:05 +0100</pubDate>
+      
+      <guid>https://aidenwebb.com/tags/checklist/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Authentication</title>
       <link>https://aidenwebb.com/tags/authentication/</link>
