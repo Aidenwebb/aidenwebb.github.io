@@ -26,7 +26,7 @@ UseHugoToc: true
 cover:
     image: "cover.jpg" # image path/url
     alt: "Orange camping tent near green trees" # alt text
-    #caption: "<text>" # display caption under cover
+    caption: "Photo Credit: [Unsplash](https://unsplash.com/photos/y8Ngwq34_Ak)" # display caption under cover
     relative: true # when using page bundles set this to true
     hidden: false # only hide on current single page
 ---
