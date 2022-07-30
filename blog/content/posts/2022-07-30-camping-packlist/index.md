@@ -83,3 +83,4 @@ This is my first time camping since the Covid pandemic and thankfully I uncovere
 - [ ] Pocket Knife
 - [ ] Booze (remember to decant in to non-glass bottles)
 - [ ] Spare glasses case
+- [ ] A book / kindle
