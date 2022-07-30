@@ -73,7 +73,7 @@ This is my first time camping since the Covid pandemic and thankfully I uncovere
 
 ## Misc
 
-- [ ] ID / Passport
+- [ ] ID / Passport / Covid pass
 - [ ] Cash
 - [ ] Duct Tape
 - [ ] Bin Bags
