@@ -69,6 +69,7 @@ This is my first time camping since the Covid pandemic and thankfully I uncovere
 - [ ] Thermals / Sleeping clothes
 - [ ] Deodrant
 - [ ] Tick removers
+- [ ] Sanitary towels / tampons (even for guys, they come in handy often!)
 
 ## Misc
 
