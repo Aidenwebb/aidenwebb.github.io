@@ -5,6 +5,7 @@ author: Aiden Arnkels-Webb
 date: 2018-08-05T01:11:51+00:00
 excerpt: |
   So, you have two (or more) domains associated with your Office 365 Exchange account. When you try to create a shared mailbox on one domain, you encounter an error stating: 'The proxy address "SMTP:name@domain.com" is already being used by the proxy addresses or LegacyExchangeDN. Please choose another proxy address.' I may have just the fix for you!
+description: Learn how to fix conflicting proxy addresses in Office / Exchange 365
 aliases:
   - /how-to-fix-conflicting-proxy-addresses-in-o365-when-creating-a-mailbox/
 cover:
