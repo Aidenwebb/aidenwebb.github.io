@@ -91,7 +91,9 @@ params:
     - name: linkedin
       url: https://www.linkedin.com/in/aiden-arnkels-webb/
 
-  #analytics:
+  analytics:
+    microsoftClarity:
+      SiteVerificationTag: 7qoogi46vg
     #google:
       #SiteVerificationTag: "XYZabc"
     #bing:
