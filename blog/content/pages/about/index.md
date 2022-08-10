@@ -26,7 +26,7 @@ And I run a circus and entertainments company, [Steamship Circus][4]!
 
 Photo credit [Will Tudor Photography][5]. Go check him out!
 
- [1]: https://www.jsgroup.co.uk/
+ [1]: https://johnsmithgroup.co.uk/
  [2]: https://rootwire.co.uk/
  [4]: https://instagram.com/steamshipcircus/
  [5]: https://www.facebook.com/WillTudorPhoto/
