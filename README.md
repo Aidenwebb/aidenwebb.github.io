@@ -1,8 +1,8 @@
 # 🌎
 
-![Last Commit Badge](https://img.shields.io/github/last-commit/aidenwebb/aidenwebb.github.io) ![Website Up](https://img.shields.io/website?up_color=green&url=https%3A%2F%2Faidenwebb.github.io)
+![Last Commit Badge](https://img.shields.io/github/last-commit/aidenwebb/aidenwebb.github.io) ![Website Up](https://img.shields.io/website?up_color=green&url=https%3A%2F%2Faidenwebb.com)
 
-Source Code for [aidenwebb.github.io](https://aidenwebb.github.io).
+Source Code for [aidenwebb.com](https://aidenwebb.com).
 
 Built using GoLang on Hugo. Deploys on GitHub Pages.
 
