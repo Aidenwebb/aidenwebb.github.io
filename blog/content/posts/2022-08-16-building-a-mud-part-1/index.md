@@ -36,9 +36,11 @@ cover:
 #    appendFilePath: true # to append file path to Edit link
 ---
 
-## Project link
+## Headnotes
 
 First, the [project link](https://github.com/Aidenwebb/AxeheimMUD), for those of you who just want to gander at code and commit history
+
+Second, this post uses some Mermaid JS graphs, which don't look great on a dark background, so I recommend switching the site to light mode by clicking the little sun next to "Home" in the navbar.
 
 ## Introduction
 
@@ -208,8 +210,10 @@ classDiagram
     +Defend()
   }
   class PlayerCharacter{
+    placeholder
     }
   class Monster{
+    placeholder
   }
 ```
 
