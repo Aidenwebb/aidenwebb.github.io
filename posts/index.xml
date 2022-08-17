@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>@ Aiden Arnkels-Webb</copyright>
-    <lastBuildDate>Sat, 30 Jul 2022 08:38:05 +0100</lastBuildDate><atom:link href="https://aidenwebb.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Aug 2022 10:48:32 +0100</lastBuildDate><atom:link href="https://aidenwebb.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Learning C# - Building a MUD Part 1</title>
+      <link>https://aidenwebb.com/posts/learning-c-sharp-building-a-mud-part-1/</link>
+      <pubDate>Tue, 16 Aug 2022 10:48:32 +0100</pubDate>
+      
+      <guid>https://aidenwebb.com/posts/learning-c-sharp-building-a-mud-part-1/</guid>
+      <description>Project link First, the project link, for those of you who just want to gander at code and commit history
+Introduction Last night was one of the worst nights sleep I&amp;rsquo;ve had in the past few years. I&amp;rsquo;ve always had trouble with insomnia, but have built a number of techniques to work through it and eventually sleep. One of those techniques is to just get up and write down whatever comes to mind until my ADHD brain is quiet enough to sleep without sprinting through the supermarket shelves of ideation, scooping armfuls of ideas in to the shopping trolley of &amp;ldquo;Projects I should start&amp;rdquo;.</description>
+    </item>
+    
     <item>
       <title>Camping Packlist</title>
       <link>https://aidenwebb.com/posts/camping-packlist/</link>
