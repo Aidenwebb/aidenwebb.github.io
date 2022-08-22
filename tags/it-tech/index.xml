@@ -24,7 +24,7 @@ Authorisation Authorisation validates what you claim to be. Going back to the cl
       <pubDate>Tue, 26 Jul 2022 09:51:58 +0100</pubDate>
       
       <guid>https://aidenwebb.com/posts/git-remove-submodule/</guid>
-      <description>Submodules aren&amp;rsquo;t removed using git rm submodule-dir, they need to be removed in a far more thorough and annoying fashion. There are a number of unclear explainations at various sources so I decided to write my own findings.
+      <description>Submodules aren&amp;rsquo;t removed using git rm submodule-dir, they need to be removed in a far more thorough and annoying fashion. There are a number of unclear explanations at various sources so I decided to write my own findings.
 Delete the relevant parts from the .gitmodules file.
 EG:
 1 2 3 [submodule &amp;#34;blog/themes/PaperMod&amp;#34;] path = blog/themes/PaperMod url = https://github.com/adityatelange/hugo-PaperMod.git Stage .gitmodules via git add .gitmodules
@@ -37,7 +37,7 @@ Remove the relevant parts from .git/config</description>
       <pubDate>Mon, 25 Jul 2022 22:01:11 +0100</pubDate>
       
       <guid>https://aidenwebb.com/posts/moving-my-blog-to-hugo-getting-started-with-hugo/</guid>
-      <description>Introduction I recently came to the conclusion that I wasn&amp;rsquo;t posting on my blog nearly as much as I&amp;rsquo;d like to. My blog runs on wordpress, and I&amp;rsquo;ve felt for a while that the process of logging in, creating a post, fixing formatting in a WSYWGI editor and eventually posting was too much resistance when I commonly just write notes in plain text. So, why not just write posts in plain text and have something else do the work of turning that in to a post or a blog?</description>
+      <description>Introduction I recently came to the conclusion that I wasn&amp;rsquo;t posting on my blog nearly as much as I&amp;rsquo;d like to. My blog runs on WordPress, and I&amp;rsquo;ve felt for a while that the process of logging in, creating a post, fixing formatting in a WSYWGI editor and eventually posting was too much resistance when I commonly just write notes in plain text. So, why not just write posts in plain text and have something else do the work of turning that in to a post or a blog?</description>
     </item>
     
     <item>
@@ -123,7 +123,7 @@ There&amp;rsquo;s no official Microsoft documentation on the design decisions, h
       <pubDate>Mon, 02 Dec 2019 22:31:54 +0000</pubDate>
       
       <guid>https://aidenwebb.com/posts/how-to-enable/disable-hardware-devices-using-windows-powershell/</guid>
-      <description>If you&amp;rsquo;re working on Windows Server Core or remotely on another computer and don&amp;rsquo;t have access to the Windows GUI, you might have trouble disabling a faulty or unwanted plug-and-play device. Thankfully Powershell makes it easy to get, enable and disable devices in Device Manager using Get-PnpDevice, Enable-PnpDevice and Disable-PnpDevice
+      <description>If you&amp;rsquo;re working on Windows Server Core or remotely on another computer and don&amp;rsquo;t have access to the Windows GUI, you might have trouble disabling a faulty or unwanted plug-and-play device. Thankfully PowerShell makes it easy to get, enable and disable devices in Device Manager using Get-PnpDevice, Enable-PnpDevice and Disable-PnpDevice
 How to query devices 1 2 3 4 5 6 7 Get-PnpDevice # Get&amp;#39;s all PNP Devices Get-PnpDevice -PresentOnly # Gets all PNP Devices currently attached or physically present in the system Get-PnpDevice -FriendlyName &amp;#34;*Ethernet*&amp;#34; # Gets all PNP Devices with a name containing &amp;#34;Ethernet&amp;#34; Get-PnpDevice -Status ERROR # Gets all PNP Devices in an errored states How to enable or disable devices To enable disable a device, simply pipe the output of Get-PnpDevice to Disable-PnpDevice or Enable-PnpDevice.</description>
     </item>
     
