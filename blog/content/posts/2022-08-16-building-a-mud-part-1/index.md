@@ -44,7 +44,7 @@ Second, this post uses some Mermaid JS graphs, which don't look great on a dark 
 
 ## Introduction
 
-Last night was one of the worst nights sleep I've had in the past few years. I've always had trouble with insomnia, but have built a number of techniques to work through it and eventually sleep.
+Last night was one of the worst night's sleep I've had in the past few years. I've always had trouble with insomnia, but have built a number of techniques to work through it and eventually sleep.
 One of those techniques is to just get up and write down whatever comes to mind until my ADHD brain is quiet enough to sleep without sprinting through the supermarket shelves of ideation, scooping armfuls of ideas in to the shopping trolley of "Projects I should start".
 
 And write I did! Among one of the many things that came up was "I want to learn C# / .NET Core, and I feel like I'm making reasonably good progress. I have lots of ideas for apps I want to make, but they're primarily solving business problems and at my current skill level none of them are going to be good enough for production. What would be a good project sufficiently complicated to maintain my interest, where I can start very simple and iteratively make improvements, where any bugs in the code aren't going to be extremely detrimental to the use of the project.
@@ -53,7 +53,7 @@ After another hour staring out the window at empty street outside our flat, watc
 
 ## What is a MUD?
 
-MUD stands for Multi-User-Dungeon. It's very much the grandfather of modern MMORPG's such as Runescape and World of Warcraft. Not nearly as polished, and typically without a GUI, they're primarily text-based, making it perfect for a simple console application without having to worry about graphics, sounds or real-time / reaction speed based event handling.
+MUD stands for Multi-User-Dungeon. It's very much the grandfather of modern MMORPG's such as Runescape and World of Warcraft. Not nearly as polished, and typically without a GUI, they're primarily text-based, making it perfect for a simple console application without having to worry about graphics, sounds or real-time / reaction speed-based event handling.
 
 ## Why a MUD?
 
@@ -77,7 +77,7 @@ At a more complicated level, we can add:
 
 ### At a technical level
 
-The control plane is simple - written text based commands sent to a console. I will need to learn about and build an interface for these text based commands and the response, so a telnet server will likely fill this function to begin with. At a later, more complicated level, developing an own client and a GUI and encoding the control protocol might be on the cards.
+The control plane is simple - written text-based commands sent to a console. I will need to learn about and build an interface for these text-based commands and the response, so a telnet server will likely fill this function to begin with. At a later, more complicated level, developing an own client and a GUI and encoding the control protocol might be on the cards.
 
 ### At a motivational level
 
@@ -139,7 +139,7 @@ We can still use randomly generated dungeons per player if we want to, and acces
 
 ### An admission of over-enthusiastic guilt
 
-I actually designed the MVP after I'd already got started hacking together some basic code. A result of this is that I've added unneccessary complexity to the project before I've even started. To solve this I'll need to remove that complexity a this stage and re-impliment it later. For example, I've already started writing a TCPServer listener, and each room actually generates random exits, and the player class has controls to allow directional movement, which won't be useful until different exits have meaning.
+I actually designed the MVP after I'd already got started hacking together some basic code. A result of this is that I've added unnecessary complexity to the project before I've even started. To solve this I'll need to remove that complexity a this stage and re-implement it later. For example, I've already started writing a TCPServer listener, and each room actually generates random exits, and the player class has controls to allow directional movement, which won't be useful until different exits have meaning.
 
 The lesson learned? Hash out the MVP on paper before hacking around with code. It can also be a good idea to hash out your basic class diagrams too, so lets do that now.
 

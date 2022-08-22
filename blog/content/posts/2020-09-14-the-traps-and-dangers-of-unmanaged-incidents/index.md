@@ -36,7 +36,7 @@ Sam also checks the file servers and sees them waiting to shut down, so Sam forc
 
 It's been 5 minutes. You don't know it yet, but a firewall rule has changed, a switch port has been disabled, production servers have been rebooted, no-one has spoken to each other and now you're getting a call from the VP of Sales telling you that all the phone lines are down in his office and no-one can access the network. He's pissed and wants to know how on earth everything can collapse so quickly without warning.
 
-After some time, you manage to unravel everything, undo the changes to the firewall, the switch and restore the servers from a backup, but it takes a long time and was complicated by the additional changes. After re-enabling the switch rule, you're not seeing any traffic flowing through the interface. You can't seem to get it to detect any traffic and decide to reboot it. It works and 3 hours later and the incident is resolved. You come to the conclusion that maybe the VOIP port might be being used for non-VOIP traffic but you're going to have to investigate that later. Right now you're being called into a meeting with the VP of Sales and the Managing Director to explain the situation. You're not really sure if the firewall, switch, or file servers being down was the actual cause, but you know that rebooting the switch was the last thing you did before it started working.
+After some time, you manage to unravel everything, undo the changes to the firewall, the switch and restore the servers from a backup, but it takes a long time and was complicated by the additional changes. After re-enabling the switch rule, you're not seeing any traffic flowing through the interface. You can't seem to get it to detect any traffic and decide to reboot it. It works and 3 hours later and the incident is resolved. You come to the conclusion that maybe the VOIP port might be being used for non-VOIP traffic but you're going to have to investigate that later. Right now, you're being called into a meeting with the VP of Sales and the Managing Director to explain the situation. You're not really sure if the firewall, switch, or file servers being down was the actual cause, but you know that rebooting the switch was the last thing you did before it started working.
 
 ### What went wrong?
 
@@ -60,7 +60,7 @@ Each member of the team made changes to the system without consulting each other
 
 ## What can we do better? - Manage the incident
 
-It's 1 PM. James, Kirtsy, Ryan and Sam each finish a call with someone at the office, and each of their users are unable to access the network drives. James and Kirsty each think that this is big enough to report to you, and do so. You ask if anyone else has seen the issue and Ryan and Sam each flag to you that they have spoken to users with the same issue.
+It's 1 PM. James, Kirsty, Ryan and Sam each finish a call with someone at the office, and each of their users are unable to access the network drives. James and Kirsty each think that this is big enough to report to you, and do so. You ask if anyone else has seen the issue and Ryan and Sam each flag to you that they have spoken to users with the same issue.
 
 You get to work, each of your team members gives their ideas on where the problem might be. You ask each to investigate, test functionality and report back on what they find.
 

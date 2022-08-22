@@ -25,11 +25,11 @@ The initial soft link matches on UPN or SMTP, but may fail if there are conflict
 
 ## The Fix
 
-Linking On Premises accounts and Azure AD accounts involves matching the GUID of the On-Premises account with the ImmutableID property of the Azure AD account. This property can be written to using the Azure Powershell module.
+Linking On Premises accounts and Azure AD accounts involves matching the GUID of the On-Premises account with the ImmutableID property of the Azure AD account. This property can be written to using the Azure PowerShell module.
 
 We need to manually apply the ImmutableID property to the Azure AD account.
 
-Open an elevated Powershell prompt on a system that is able to access Active Directory and the internet
+Open an elevated PowerShell prompt on a system that is able to access Active Directory and the internet
 
 ### In Preparation
 

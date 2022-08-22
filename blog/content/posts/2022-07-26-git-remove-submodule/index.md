@@ -13,7 +13,7 @@ cover:
 ---
 
 Submodules aren't removed using `git rm submodule-dir`, they need to be removed in a far more thorough and annoying fashion.
-There are a number of unclear explainations at various sources so I decided to write my own findings.
+There are a number of unclear explanations at various sources so I decided to write my own findings.
 
 1. Delete the relevant parts from the `.gitmodules` file.
 

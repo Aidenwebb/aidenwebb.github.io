@@ -18,7 +18,7 @@ categories:
 tags:
   - Exchange Online
   - Office 365
-  - Powershell
+  - PowerShell
   - Troubleshooting
   - IT & Tech
 
@@ -53,7 +53,7 @@ For example.
 
 ## The Fix
 
-1. Connect to Office365 / Exchange as an admin via Powershell
+1. Connect to Office365 / Exchange as an admin via PowerShell
 
     ```powershell
     $UserCredential = Get-Credential
@@ -75,7 +75,7 @@ For example.
     New-Mailbox -Name finance@domain2.com -Shared
     ```
 
-    The value for "**MicrosoftOnlineServicesID**" is the value of the MailBox Property "**WindowsLiveID**" and this defaults to your default domain, as explained in **The Cause** &#8211; <https://msdn.microsoft.com/en-us/library/ee423637(v=exchsrvcs.149).aspx>  
+    The value for "**MicrosoftOnlineServicesID**" is the value of the Mailbox Property "**WindowsLiveID**" and this defaults to your default domain, as explained in **The Cause** &#8211; <https://msdn.microsoft.com/en-us/library/ee423637(v=exchsrvcs.149).aspx>  
     We want to change this to our secondary domain to enable us to delete the default primary domain smtp alias.
 
     Ignore the warning that appears after you run the command.

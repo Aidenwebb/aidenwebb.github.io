@@ -39,8 +39,7 @@ cover:
 ## Introduction
 This is part 2 of a series. Part 1 is [here](/posts/learning-c-sharp-building-a-mud-part-1)
 
-
-Last we left off, we'd designed our basic class diagram and templatated out the file structure. Now is time to impliment it.
+Last we left off, we'd designed our basic class diagram and templated out the file structure. Now is time to implement it.
 
 ```mermaid
 classDiagram

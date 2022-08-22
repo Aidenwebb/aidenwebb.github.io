@@ -73,7 +73,7 @@ If the above does not work, you may have a different problem, not currently cove
     ./thttpd.sh restart
     ```
 
-### If the apache proxy does not start:-
+### If the Apache proxy does not start:-
 
 1. Get the Web Access Port config, you should see "8080" being displayed. If it does not, go to Step 2.
 

@@ -34,7 +34,7 @@ cover:
 ## Introduction
 
 I'm off to [Me'ra Luna](https://meraluna.de/en/) in a few days!
-This is my first time camping since the Covid pandemic and thankfully I uncovered a previous camping packing list. I figure I may aswell share it here for easy finding in future and so others may find it useful. Bring on the festival!
+This is my first time camping since the Covid pandemic and thankfully I uncovered a previous camping packing list. I figure I may as well share it here for easy finding in future and so others may find it useful. Bring on the festival!
 
 ## A place to rest
 

@@ -29,13 +29,13 @@ neve_meta_content_width:
   - 70
 categories:
 tags:
-  - Powershell
+  - PowerShell
   - Troubleshooting
   - IT & Tech
   - Coding / Scripts
 
 ---
-If you're working on Windows Server Core or remotely on another computer and don't have access to the Windows GUI, you might have trouble disabling a faulty or unwanted plug-and-play device. Thankfully Powershell makes it easy to get, enable and disable devices in Device Manager using [Get-PnpDevice][1], [Enable-PnpDevice][2] and [Disable-PnpDevice][3]
+If you're working on Windows Server Core or remotely on another computer and don't have access to the Windows GUI, you might have trouble disabling a faulty or unwanted plug-and-play device. Thankfully PowerShell makes it easy to get, enable and disable devices in Device Manager using [Get-PnpDevice][1], [Enable-PnpDevice][2] and [Disable-PnpDevice][3]
 
 ## **How to query devices**
 
