@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>networking on Aiden Arnkels-Webb</title>
+    <link>https://aidenwebb.com/tags/networking/</link>
+    <description>Recent content in networking on Aiden Arnkels-Webb</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>@ Aiden Arnkels-Webb</copyright>
+    <lastBuildDate>Thu, 25 Aug 2022 12:40:30 +0100</lastBuildDate><atom:link href="https://aidenwebb.com/tags/networking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dockers seven network types and when to use them</title>
+      <link>https://aidenwebb.com/posts/dockers-seven-network-types-and-when-to-use-them/</link>
+      <pubDate>Thu, 25 Aug 2022 12:40:30 +0100</pubDate>
+      
+      <guid>https://aidenwebb.com/posts/dockers-seven-network-types-and-when-to-use-them/</guid>
+      <description>1. The Default Bridge This is the default network that new containers will connect to. It&amp;rsquo;s a software bridge between your docker instance and your host system, providing isolation between the bridge network and other networks, including the host network and other bridge networks on the host. Docker best practices discourage using this network for containers, recommending User-Defined bridges instead, which we will get to in #4.
+When to use it: Avoid using the Default Bridge, use another network type instead where possible</description>
+    </item>
+    
+  </channel>
+</rss>

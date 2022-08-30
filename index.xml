@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>@ Aiden Arnkels-Webb</copyright>
-    <lastBuildDate>Tue, 16 Aug 2022 10:48:32 +0100</lastBuildDate><atom:link href="https://aidenwebb.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Aug 2022 12:40:30 +0100</lastBuildDate><atom:link href="https://aidenwebb.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dockers seven network types and when to use them</title>
+      <link>https://aidenwebb.com/posts/dockers-seven-network-types-and-when-to-use-them/</link>
+      <pubDate>Thu, 25 Aug 2022 12:40:30 +0100</pubDate>
+      
+      <guid>https://aidenwebb.com/posts/dockers-seven-network-types-and-when-to-use-them/</guid>
+      <description>1. The Default Bridge This is the default network that new containers will connect to. It&amp;rsquo;s a software bridge between your docker instance and your host system, providing isolation between the bridge network and other networks, including the host network and other bridge networks on the host. Docker best practices discourage using this network for containers, recommending User-Defined bridges instead, which we will get to in #4.
+When to use it: Avoid using the Default Bridge, use another network type instead where possible</description>
+    </item>
+    
     <item>
       <title>Learning C# - Building a MUD Part 1</title>
       <link>https://aidenwebb.com/posts/learning-c-sharp-building-a-mud-part-1/</link>

@@ -3,7 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://aidenwebb.com/</loc>
-    <lastmod>2022-08-16T10:48:32+01:00</lastmod>
+    <lastmod>2022-08-25T12:40:30+01:00</lastmod>
+  </url><url>
+    <loc>https://aidenwebb.com/tags/docker/</loc>
+    <lastmod>2022-08-25T12:40:30+01:00</lastmod>
+  </url><url>
+    <loc>https://aidenwebb.com/posts/dockers-seven-network-types-and-when-to-use-them/</loc>
+    <lastmod>2022-08-25T12:40:30+01:00</lastmod>
+  </url><url>
+    <loc>https://aidenwebb.com/tags/networking/</loc>
+    <lastmod>2022-08-25T12:40:30+01:00</lastmod>
+  </url><url>
+    <loc>https://aidenwebb.com/posts/</loc>
+    <lastmod>2022-08-25T12:40:30+01:00</lastmod>
+  </url><url>
+    <loc>https://aidenwebb.com/tags/</loc>
+    <lastmod>2022-08-25T12:40:30+01:00</lastmod>
   </url><url>
     <loc>https://aidenwebb.com/tags/building-a-mud/</loc>
     <lastmod>2022-08-16T10:48:32+01:00</lastmod>
@@ -17,13 +32,7 @@
     <loc>https://aidenwebb.com/posts/learning-c-sharp-building-a-mud-part-1/</loc>
     <lastmod>2022-08-16T10:48:32+01:00</lastmod>
   </url><url>
-    <loc>https://aidenwebb.com/posts/</loc>
-    <lastmod>2022-08-16T10:48:32+01:00</lastmod>
-  </url><url>
     <loc>https://aidenwebb.com/tags/programming/</loc>
-    <lastmod>2022-08-16T10:48:32+01:00</lastmod>
-  </url><url>
-    <loc>https://aidenwebb.com/tags/</loc>
     <lastmod>2022-08-16T10:48:32+01:00</lastmod>
   </url><url>
     <loc>https://aidenwebb.com/tags/camping/</loc>
