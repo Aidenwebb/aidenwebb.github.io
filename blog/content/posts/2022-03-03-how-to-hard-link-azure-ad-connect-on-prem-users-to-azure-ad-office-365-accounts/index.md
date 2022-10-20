@@ -51,7 +51,7 @@ Open an elevated PowerShell prompt on a system that is able to access Active Dir
 1. Get the GUID of your on-premises user:
 
     ```powershell
-    $guid = (Get-ADUser -Identity "James.Bond").ObjectGUID</code></pre>
+    $guid = (Get-ADUser -Identity "James.Bond").ObjectGUID
     ```
 
 2. Convert the GUID to the ImmutableID used to hardlink in Azure AD
