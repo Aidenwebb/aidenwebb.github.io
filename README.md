@@ -18,7 +18,7 @@ git submodule update
 cd ../../../bin
 
 curl -s https://api.github.com/repos/gohugoio/hugo/releases/latest \
- grep  browser_download_url \
+ | grep  browser_download_url \
  | grep linux-amd64.deb \
  | grep -v extended \
  | cut -d '"' -f 4 \
