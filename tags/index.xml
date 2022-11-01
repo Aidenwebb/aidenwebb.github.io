@@ -7,22 +7,40 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>@ Aiden Arnkels-Webb</copyright>
-    <lastBuildDate>Wed, 31 Aug 2022 14:33:47 +0100</lastBuildDate><atom:link href="https://aidenwebb.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 25 Oct 2022 14:33:04 +0000</lastBuildDate><atom:link href="https://aidenwebb.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Freebies</title>
-      <link>https://aidenwebb.com/tags/freebies/</link>
-      <pubDate>Wed, 31 Aug 2022 14:33:47 +0100</pubDate>
+      <title>SysAdmin</title>
+      <link>https://aidenwebb.com/tags/sysadmin/</link>
+      <pubDate>Tue, 25 Oct 2022 14:33:04 +0000</pubDate>
       
-      <guid>https://aidenwebb.com/tags/freebies/</guid>
+      <guid>https://aidenwebb.com/tags/sysadmin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tools</title>
+      <link>https://aidenwebb.com/tags/tools/</link>
+      <pubDate>Tue, 25 Oct 2022 14:33:04 +0000</pubDate>
+      
+      <guid>https://aidenwebb.com/tags/tools/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Useful Links</title>
       <link>https://aidenwebb.com/tags/useful-links/</link>
-      <pubDate>Wed, 31 Aug 2022 14:33:47 +0100</pubDate>
+      <pubDate>Tue, 25 Oct 2022 14:33:04 +0000</pubDate>
       
       <guid>https://aidenwebb.com/tags/useful-links/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Freebies</title>
+      <link>https://aidenwebb.com/tags/freebies/</link>
+      <pubDate>Wed, 31 Aug 2022 14:33:47 +0100</pubDate>
+      
+      <guid>https://aidenwebb.com/tags/freebies/</guid>
       <description></description>
     </item>
     
