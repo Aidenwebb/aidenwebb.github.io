@@ -7,7 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>@ Aiden Arnkels-Webb</copyright>
-    <lastBuildDate>Tue, 25 Oct 2022 14:33:04 +0000</lastBuildDate><atom:link href="https://aidenwebb.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Nov 2022 09:22:23 +0000</lastBuildDate><atom:link href="https://aidenwebb.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3CX</title>
+      <link>https://aidenwebb.com/tags/3cx/</link>
+      <pubDate>Wed, 02 Nov 2022 09:22:23 +0000</pubDate>
+      
+      <guid>https://aidenwebb.com/tags/3cx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self Hosted</title>
+      <link>https://aidenwebb.com/tags/self-hosted/</link>
+      <pubDate>Wed, 02 Nov 2022 09:22:23 +0000</pubDate>
+      
+      <guid>https://aidenwebb.com/tags/self-hosted/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SSL Certificates</title>
+      <link>https://aidenwebb.com/tags/ssl-certificates/</link>
+      <pubDate>Wed, 02 Nov 2022 09:22:23 +0000</pubDate>
+      
+      <guid>https://aidenwebb.com/tags/ssl-certificates/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>SysAdmin</title>
       <link>https://aidenwebb.com/tags/sysadmin/</link>

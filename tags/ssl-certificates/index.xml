@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>SSL Certificates on Aiden Arnkels-Webb</title>
+    <link>https://aidenwebb.com/tags/ssl-certificates/</link>
+    <description>Recent content in SSL Certificates on Aiden Arnkels-Webb</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>@ Aiden Arnkels-Webb</copyright>
+    <lastBuildDate>Wed, 02 Nov 2022 09:22:23 +0000</lastBuildDate><atom:link href="https://aidenwebb.com/tags/ssl-certificates/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to replace SSL certificates for a custom domain in Self Hosted 3CX</title>
+      <link>https://aidenwebb.com/posts/how-to-replace-ssl-certificates-for-a-custom-domain-in-self-hosted-3cx/</link>
+      <pubDate>Wed, 02 Nov 2022 09:22:23 +0000</pubDate>
+      
+      <guid>https://aidenwebb.com/posts/how-to-replace-ssl-certificates-for-a-custom-domain-in-self-hosted-3cx/</guid>
+      <description>3CX have updated their docs and removed help.3cx.com meaning the old documentation for updating SSL certs is now gone, or at least harder to find.
+The original URL was https://help.3cx.com/help/en-us/33-installation/148-how-can-i-replace-the-ssl-certificates-for-a-custom-domain. If anyone has a copy of this page, please let me know.
+Thankfully updating the SSL certificate is relatively straight forward as the web client runs on nginx.
+Updating the SSL Certificate Prerequisites You will need:
+Access to the server running 3CX Remote Desktop (Windows) SSH (Linux) The certificate and private key in PEM format Updating the Certificate Locate the certificate folder (default):</description>
+    </item>
+    
+  </channel>
+</rss>
