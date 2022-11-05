@@ -1,7 +1,7 @@
 ---
 title: "How to set up K-9 Mail With Office 365"
 date: 2022-11-05T10:12:52Z
-draft: true
+draft: false
 # weight: 1
 # aliases: ["/first"]
 tags: ["Microsoft 365", "Office 365", "K-9 Mail", "Email", "Useful Tools"]
