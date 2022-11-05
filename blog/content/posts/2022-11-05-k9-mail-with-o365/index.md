@@ -28,7 +28,7 @@ cover:
     alt: "K-9 Mail logo" # alt text
     #caption: "Photo Credit: []()" # display caption under cover
     relative: true # when using page bundles set this to true
-    hidden: true # only hide on current single page
+    hidden: false # only hide on current single page
 #editPost:
 #    URL: "https://github.com/Aidenwebb/aidenwebb-com-blog-code/content"
 #    Text: "Suggest Changes" # edit text
