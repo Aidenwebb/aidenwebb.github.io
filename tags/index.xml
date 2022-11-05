@@ -7,7 +7,34 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>@ Aiden Arnkels-Webb</copyright>
-    <lastBuildDate>Wed, 02 Nov 2022 09:22:23 +0000</lastBuildDate><atom:link href="https://aidenwebb.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Nov 2022 09:20:26 +0000</lastBuildDate><atom:link href="https://aidenwebb.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Software</title>
+      <link>https://aidenwebb.com/tags/software/</link>
+      <pubDate>Sat, 05 Nov 2022 09:20:26 +0000</pubDate>
+      
+      <guid>https://aidenwebb.com/tags/software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tools</title>
+      <link>https://aidenwebb.com/tags/tools/</link>
+      <pubDate>Sat, 05 Nov 2022 09:20:26 +0000</pubDate>
+      
+      <guid>https://aidenwebb.com/tags/tools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Useful tools</title>
+      <link>https://aidenwebb.com/tags/useful-tools/</link>
+      <pubDate>Sat, 05 Nov 2022 09:20:26 +0000</pubDate>
+      
+      <guid>https://aidenwebb.com/tags/useful-tools/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>3CX</title>
       <link>https://aidenwebb.com/tags/3cx/</link>
@@ -41,15 +68,6 @@
       <pubDate>Tue, 25 Oct 2022 14:33:04 +0000</pubDate>
       
       <guid>https://aidenwebb.com/tags/sysadmin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tools</title>
-      <link>https://aidenwebb.com/tags/tools/</link>
-      <pubDate>Tue, 25 Oct 2022 14:33:04 +0000</pubDate>
-      
-      <guid>https://aidenwebb.com/tags/tools/</guid>
       <description></description>
     </item>
     

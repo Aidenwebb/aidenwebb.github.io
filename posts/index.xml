@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>@ Aiden Arnkels-Webb</copyright>
-    <lastBuildDate>Wed, 02 Nov 2022 09:22:23 +0000</lastBuildDate><atom:link href="https://aidenwebb.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Nov 2022 09:20:26 +0000</lastBuildDate><atom:link href="https://aidenwebb.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Standard list of software I install on my mums computer and phone</title>
+      <link>https://aidenwebb.com/posts/standard-list-of-software-i-install-on-my-mums-computer-and-phone/</link>
+      <pubDate>Sat, 05 Nov 2022 09:20:26 +0000</pubDate>
+      
+      <guid>https://aidenwebb.com/posts/standard-list-of-software-i-install-on-my-mums-computer-and-phone/</guid>
+      <description>You know the drill, as the kid with the tech skills you get roped into helping your parents and other family members with their busted tech. I notice that every time I ressurect or reincarnate the treasured device of a family member I end up installing much of the same software. I wrote this to save me some time, and to help others who are in the same boat.
+My preferred recommendation in each category is in bold.</description>
+    </item>
+    
     <item>
       <title>How to replace SSL certificates for a custom domain in Self Hosted 3CX</title>
       <link>https://aidenwebb.com/posts/how-to-replace-ssl-certificates-for-a-custom-domain-in-self-hosted-3cx/</link>
