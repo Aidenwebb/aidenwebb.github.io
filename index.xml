@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>@ Aiden Arnkels-Webb</copyright>
-    <lastBuildDate>Sat, 05 Nov 2022 09:20:26 +0000</lastBuildDate><atom:link href="https://aidenwebb.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Nov 2022 10:12:52 +0000</lastBuildDate><atom:link href="https://aidenwebb.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to set up K-9 Mail With Office 365</title>
+      <link>https://aidenwebb.com/posts/how-to-set-up-k-9-mail-with-office-365/</link>
+      <pubDate>Sat, 05 Nov 2022 10:12:52 +0000</pubDate>
+      
+      <guid>https://aidenwebb.com/posts/how-to-set-up-k-9-mail-with-office-365/</guid>
+      <description>I have a hell of a lot of mail accounts, K-9 Mail on Android helps me manage them all. Here&amp;rsquo;s how to set up K-9 Mail with Office 365.
+You will first need to set up SMTP Auth on your Exchange Tenant. This is a simple process, but it does require you to have access to the Exchange Admin Centre. If you don&amp;rsquo;t have access to the EAC, you&amp;rsquo;ll need to ask your Exchange Admin to do this for you.</description>
+    </item>
+    
     <item>
       <title>Standard list of software I install on my mums computer and phone</title>
       <link>https://aidenwebb.com/posts/standard-list-of-software-i-install-on-my-mums-computer-and-phone/</link>

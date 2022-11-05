@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Office 365 on Aiden Arnkels-Webb</title>
-    <link>https://aidenwebb.com/tags/office-365/</link>
-    <description>Recent content in Office 365 on Aiden Arnkels-Webb</description>
+    <title>Microsoft 365 on Aiden Arnkels-Webb</title>
+    <link>https://aidenwebb.com/tags/microsoft-365/</link>
+    <description>Recent content in Microsoft 365 on Aiden Arnkels-Webb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>@ Aiden Arnkels-Webb</copyright>
-    <lastBuildDate>Sat, 05 Nov 2022 10:12:52 +0000</lastBuildDate><atom:link href="https://aidenwebb.com/tags/office-365/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Nov 2022 10:12:52 +0000</lastBuildDate><atom:link href="https://aidenwebb.com/tags/microsoft-365/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to set up K-9 Mail With Office 365</title>
       <link>https://aidenwebb.com/posts/how-to-set-up-k-9-mail-with-office-365/</link>
@@ -16,15 +16,6 @@
       <guid>https://aidenwebb.com/posts/how-to-set-up-k-9-mail-with-office-365/</guid>
       <description>I have a hell of a lot of mail accounts, K-9 Mail on Android helps me manage them all. Here&amp;rsquo;s how to set up K-9 Mail with Office 365.
 You will first need to set up SMTP Auth on your Exchange Tenant. This is a simple process, but it does require you to have access to the Exchange Admin Centre. If you don&amp;rsquo;t have access to the EAC, you&amp;rsquo;ll need to ask your Exchange Admin to do this for you.</description>
-    </item>
-    
-    <item>
-      <title>How to fix conflicting proxy addresses in O365 when creating a mailbox</title>
-      <link>https://aidenwebb.com/posts/how-to-fix-conflicting-proxy-addresses-in-o365-when-creating-a-mailbox/</link>
-      <pubDate>Sun, 05 Aug 2018 01:11:51 +0000</pubDate>
-      
-      <guid>https://aidenwebb.com/posts/how-to-fix-conflicting-proxy-addresses-in-o365-when-creating-a-mailbox/</guid>
-      <description>Learn how to fix conflicting proxy addresses in Office / Exchange 365</description>
     </item>
     
   </channel>
