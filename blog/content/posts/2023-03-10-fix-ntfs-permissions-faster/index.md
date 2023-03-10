@@ -13,7 +13,7 @@ hidemeta: false
 #comments: false
 #description: "Desc Text."
 #canonicalURL: "https://canonical.url/to/page"
-disableHLJS: true # to disable highlightjs
+disableHLJS: false # to disable highlightjs
 disableShare: false
 hideSummary: false
 searchHidden: false
@@ -24,7 +24,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "images/cover.png" # image path/url
+    image: "images/cover.jpg" # image path/url
     alt: "A woman looking stressed and frustrated at a laptop" # alt text
     caption: "Photo Credit: [Unsplash](https://unsplash.com/photos/bmJAXAz6ads)" # display caption under cover
     relative: true # when using page bundles set this to true
