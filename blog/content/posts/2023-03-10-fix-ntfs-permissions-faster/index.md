@@ -28,7 +28,7 @@ cover:
     alt: "A woman looking stressed and frustrated at a laptop" # alt text
     caption: "Photo Credit: [Unsplash](https://unsplash.com/photos/bmJAXAz6ads)" # display caption under cover
     relative: true # when using page bundles set this to true
-    hidden: true # only hide on current single page
+    hidden: false # only hide on current single page
 #editPost:
 #    URL: "https://github.com/Aidenwebb/aidenwebb-com-blog-code/content"
 #    Text: "Suggest Changes" # edit text
