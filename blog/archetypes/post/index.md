@@ -24,7 +24,7 @@ ShowWordCount: true
 ShowRssButtonInSectionTermList: true
 UseHugoToc: true
 cover:
-    image: "<image path/url>" # image path/url
+    image: "images/cover.png" # image path/url
     alt: "<alt text>" # alt text
     caption: "Photo Credit: []()" # display caption under cover
     relative: true # when using page bundles set this to true
