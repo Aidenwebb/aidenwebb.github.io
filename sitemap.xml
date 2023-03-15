@@ -2,34 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://aidenwebb.com/</loc>
+    <lastmod>2023-03-15T14:45:08+00:00</lastmod>
+  </url><url>
+    <loc>https://aidenwebb.com/posts/cve-2023-23397-quickly-check-vulnerability-status-and-trigger-updates/</loc>
+    <lastmod>2023-03-15T14:45:08+00:00</lastmod>
+  </url><url>
+    <loc>https://aidenwebb.com/tags/it-tech/</loc>
+    <lastmod>2023-03-15T14:45:08+00:00</lastmod>
+  </url><url>
+    <loc>https://aidenwebb.com/posts/</loc>
+    <lastmod>2023-03-15T14:45:08+00:00</lastmod>
+  </url><url>
+    <loc>https://aidenwebb.com/tags/powershell/</loc>
+    <lastmod>2023-03-15T14:45:08+00:00</lastmod>
+  </url><url>
+    <loc>https://aidenwebb.com/tags/scripting/</loc>
+    <lastmod>2023-03-15T14:45:08+00:00</lastmod>
+  </url><url>
+    <loc>https://aidenwebb.com/tags/security/</loc>
+    <lastmod>2023-03-15T14:45:08+00:00</lastmod>
+  </url><url>
+    <loc>https://aidenwebb.com/tags/</loc>
+    <lastmod>2023-03-15T14:45:08+00:00</lastmod>
+  </url><url>
     <loc>https://aidenwebb.com/tags/acls/</loc>
     <lastmod>2023-03-10T14:49:09+00:00</lastmod>
   </url><url>
-    <loc>https://aidenwebb.com/</loc>
-    <lastmod>2023-03-10T14:49:09+00:00</lastmod>
-  </url><url>
     <loc>https://aidenwebb.com/posts/how-to-recusively-apply-ntfs-permissions-faster-using-powershell-multithreading-jobs/</loc>
-    <lastmod>2023-03-10T14:49:09+00:00</lastmod>
-  </url><url>
-    <loc>https://aidenwebb.com/tags/it-tech/</loc>
     <lastmod>2023-03-10T14:49:09+00:00</lastmod>
   </url><url>
     <loc>https://aidenwebb.com/tags/ntfs/</loc>
     <lastmod>2023-03-10T14:49:09+00:00</lastmod>
   </url><url>
     <loc>https://aidenwebb.com/tags/permissions/</loc>
-    <lastmod>2023-03-10T14:49:09+00:00</lastmod>
-  </url><url>
-    <loc>https://aidenwebb.com/posts/</loc>
-    <lastmod>2023-03-10T14:49:09+00:00</lastmod>
-  </url><url>
-    <loc>https://aidenwebb.com/tags/powershell/</loc>
-    <lastmod>2023-03-10T14:49:09+00:00</lastmod>
-  </url><url>
-    <loc>https://aidenwebb.com/tags/scripting/</loc>
-    <lastmod>2023-03-10T14:49:09+00:00</lastmod>
-  </url><url>
-    <loc>https://aidenwebb.com/tags/</loc>
     <lastmod>2023-03-10T14:49:09+00:00</lastmod>
   </url><url>
     <loc>https://aidenwebb.com/tags/email/</loc>
@@ -129,9 +135,6 @@
     <lastmod>2022-07-27T12:36:29+01:00</lastmod>
   </url><url>
     <loc>https://aidenwebb.com/tags/explainers/</loc>
-    <lastmod>2022-07-27T12:36:29+01:00</lastmod>
-  </url><url>
-    <loc>https://aidenwebb.com/tags/security/</loc>
     <lastmod>2022-07-27T12:36:29+01:00</lastmod>
   </url><url>
     <loc>https://aidenwebb.com/posts/whats-the-difference-between-authentication-authorisation-and-accounting-aaa/</loc>

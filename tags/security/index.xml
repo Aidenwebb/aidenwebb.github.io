@@ -7,7 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>@ Aiden Arnkels-Webb</copyright>
-    <lastBuildDate>Wed, 27 Jul 2022 12:36:29 +0100</lastBuildDate><atom:link href="https://aidenwebb.com/tags/security/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 15 Mar 2023 14:45:08 +0000</lastBuildDate><atom:link href="https://aidenwebb.com/tags/security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cve-2023-23397 - Quickly Check Vulnerability Status and Trigger Updates</title>
+      <link>https://aidenwebb.com/posts/cve-2023-23397-quickly-check-vulnerability-status-and-trigger-updates/</link>
+      <pubDate>Wed, 15 Mar 2023 14:45:08 +0000</pubDate>
+      
+      <guid>https://aidenwebb.com/posts/cve-2023-23397-quickly-check-vulnerability-status-and-trigger-updates/</guid>
+      <description>Yesterday Microsoft announced a new critical vulnerability CVE-2023-23397, a vulnerability in Microsoft Outlook that allows a threat actor to harvest NTLMv2 hashes via a specifically crafted Outlook appointment.
+Microsoft state that attackers can exploit this vulnerability by sending an email that triggers automatically when it is retrieved and processed by the Outlook client. This can lead to exploitation BEFORE the email is viewed in the Preview Pane.
+They also state that this vulnerability is being actively exploited in the wild.</description>
+    </item>
+    
     <item>
       <title>What&#39;s the difference between Authentication, Authorisation and Accounting? (AAA)</title>
       <link>https://aidenwebb.com/posts/whats-the-difference-between-authentication-authorisation-and-accounting-aaa/</link>
