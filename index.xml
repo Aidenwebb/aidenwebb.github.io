@@ -7,7 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>@ Aiden Arnkels-Webb</copyright>
-    <lastBuildDate>Wed, 15 Mar 2023 14:45:08 +0000</lastBuildDate><atom:link href="https://aidenwebb.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Apr 2023 17:44:11 +0100</lastBuildDate><atom:link href="https://aidenwebb.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Install Tplink Omada on Debian 11</title>
+      <link>https://aidenwebb.com/posts/install-tplink-omada-on-debian-11/</link>
+      <pubDate>Wed, 05 Apr 2023 17:44:11 +0100</pubDate>
+      
+      <guid>https://aidenwebb.com/posts/install-tplink-omada-on-debian-11/</guid>
+      <description>This guide covers installation of TP-Link&amp;rsquo;s Omada Software Controller on Debian 11.
+At the time of writing, Omada Controller version is 5.9.31.
+Update and Upgrade system 1 apt update &amp;amp;&amp;amp; apt upgrade -y Install omada dependencies 1 apt install -y openjdk-11-jdk-headless curl autoconf make gcc Install MongoDB Go to Mongo DB&amp;rsquo;s repository and select an appropriate server version. I&amp;rsquo;m using MongoDb Server 4.4.16
+1 2 wget https://repo.mongodb.org/apt/debian/dists/buster/mongodb-org/4.4/main/binary-amd64/mongodb-org-server_4.4.16_amd64.deb apt install -y .</description>
+    </item>
+    
     <item>
       <title>Cve-2023-23397 - Quickly Check Vulnerability Status and Trigger Updates</title>
       <link>https://aidenwebb.com/posts/cve-2023-23397-quickly-check-vulnerability-status-and-trigger-updates/</link>

@@ -3,15 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://aidenwebb.com/</loc>
-    <lastmod>2023-03-15T14:45:08+00:00</lastmod>
+    <lastmod>2023-04-05T17:44:11+01:00</lastmod>
+  </url><url>
+    <loc>https://aidenwebb.com/tags/debian/</loc>
+    <lastmod>2023-04-05T17:44:11+01:00</lastmod>
+  </url><url>
+    <loc>https://aidenwebb.com/posts/install-tplink-omada-on-debian-11/</loc>
+    <lastmod>2023-04-05T17:44:11+01:00</lastmod>
+  </url><url>
+    <loc>https://aidenwebb.com/tags/linux/</loc>
+    <lastmod>2023-04-05T17:44:11+01:00</lastmod>
+  </url><url>
+    <loc>https://aidenwebb.com/tags/networking/</loc>
+    <lastmod>2023-04-05T17:44:11+01:00</lastmod>
+  </url><url>
+    <loc>https://aidenwebb.com/posts/</loc>
+    <lastmod>2023-04-05T17:44:11+01:00</lastmod>
+  </url><url>
+    <loc>https://aidenwebb.com/tags/</loc>
+    <lastmod>2023-04-05T17:44:11+01:00</lastmod>
   </url><url>
     <loc>https://aidenwebb.com/posts/cve-2023-23397-quickly-check-vulnerability-status-and-trigger-updates/</loc>
     <lastmod>2023-03-15T14:45:08+00:00</lastmod>
   </url><url>
     <loc>https://aidenwebb.com/tags/it-tech/</loc>
-    <lastmod>2023-03-15T14:45:08+00:00</lastmod>
-  </url><url>
-    <loc>https://aidenwebb.com/posts/</loc>
     <lastmod>2023-03-15T14:45:08+00:00</lastmod>
   </url><url>
     <loc>https://aidenwebb.com/tags/powershell/</loc>
@@ -21,9 +36,6 @@
     <lastmod>2023-03-15T14:45:08+00:00</lastmod>
   </url><url>
     <loc>https://aidenwebb.com/tags/security/</loc>
-    <lastmod>2023-03-15T14:45:08+00:00</lastmod>
-  </url><url>
-    <loc>https://aidenwebb.com/tags/</loc>
     <lastmod>2023-03-15T14:45:08+00:00</lastmod>
   </url><url>
     <loc>https://aidenwebb.com/tags/acls/</loc>
@@ -96,9 +108,6 @@
     <lastmod>2022-08-25T12:40:30+01:00</lastmod>
   </url><url>
     <loc>https://aidenwebb.com/posts/dockers-seven-network-types-and-when-to-use-them/</loc>
-    <lastmod>2022-08-25T12:40:30+01:00</lastmod>
-  </url><url>
-    <loc>https://aidenwebb.com/tags/networking/</loc>
     <lastmod>2022-08-25T12:40:30+01:00</lastmod>
   </url><url>
     <loc>https://aidenwebb.com/tags/building-a-mud/</loc>
