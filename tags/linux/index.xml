@@ -7,7 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>@ Aiden Arnkels-Webb</copyright>
-    <lastBuildDate>Wed, 05 Apr 2023 17:44:11 +0100</lastBuildDate><atom:link href="https://aidenwebb.com/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Jun 2023 14:13:55 +0000</lastBuildDate><atom:link href="https://aidenwebb.com/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to Mount a qcow2 Disk Image</title>
+      <link>https://aidenwebb.com/posts/how-to-mount-a-qcow2-disk-image/</link>
+      <pubDate>Fri, 02 Jun 2023 14:13:55 +0000</pubDate>
+      
+      <guid>https://aidenwebb.com/posts/how-to-mount-a-qcow2-disk-image/</guid>
+      <description>Here&amp;rsquo;s a streamlined guide on how to mount a qcow2 disk image on your host server/system, which can come in handy for tasks like resetting passwords, editing files, or recovering data without needing to run the virtual machine.
+Step 1 - Activating NBD on the Host In your terminal, run the following command to enable NBD (Network Block Device) on your host (with sudo if required):
+1 modprobe nbd max_part=8 Step 2 - Link the QCOW2 to Network Block Device Next, connect the QCOW2 disk image to the network block device using the following command:</description>
+    </item>
+    
     <item>
       <title>Install Tplink Omada on Debian 11</title>
       <link>https://aidenwebb.com/posts/install-tplink-omada-on-debian-11/</link>

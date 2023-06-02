@@ -3,7 +3,49 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://aidenwebb.com/</loc>
-    <lastmod>2023-04-05T17:44:11+01:00</lastmod>
+    <lastmod>2023-06-02T14:13:55+00:00</lastmod>
+  </url><url>
+    <loc>https://aidenwebb.com/tags/datarecovery/</loc>
+    <lastmod>2023-06-02T14:13:55+00:00</lastmod>
+  </url><url>
+    <loc>https://aidenwebb.com/tags/diskimage/</loc>
+    <lastmod>2023-06-02T14:13:55+00:00</lastmod>
+  </url><url>
+    <loc>https://aidenwebb.com/tags/fileediting/</loc>
+    <lastmod>2023-06-02T14:13:55+00:00</lastmod>
+  </url><url>
+    <loc>https://aidenwebb.com/posts/how-to-mount-a-qcow2-disk-image/</loc>
+    <lastmod>2023-06-02T14:13:55+00:00</lastmod>
+  </url><url>
+    <loc>https://aidenwebb.com/tags/linux/</loc>
+    <lastmod>2023-06-02T14:13:55+00:00</lastmod>
+  </url><url>
+    <loc>https://aidenwebb.com/tags/nbd/</loc>
+    <lastmod>2023-06-02T14:13:55+00:00</lastmod>
+  </url><url>
+    <loc>https://aidenwebb.com/tags/passwordreset/</loc>
+    <lastmod>2023-06-02T14:13:55+00:00</lastmod>
+  </url><url>
+    <loc>https://aidenwebb.com/posts/</loc>
+    <lastmod>2023-06-02T14:13:55+00:00</lastmod>
+  </url><url>
+    <loc>https://aidenwebb.com/tags/qcow2/</loc>
+    <lastmod>2023-06-02T14:13:55+00:00</lastmod>
+  </url><url>
+    <loc>https://aidenwebb.com/tags/qemu/</loc>
+    <lastmod>2023-06-02T14:13:55+00:00</lastmod>
+  </url><url>
+    <loc>https://aidenwebb.com/tags/servermanagement/</loc>
+    <lastmod>2023-06-02T14:13:55+00:00</lastmod>
+  </url><url>
+    <loc>https://aidenwebb.com/tags/systemadministration/</loc>
+    <lastmod>2023-06-02T14:13:55+00:00</lastmod>
+  </url><url>
+    <loc>https://aidenwebb.com/tags/</loc>
+    <lastmod>2023-06-02T14:13:55+00:00</lastmod>
+  </url><url>
+    <loc>https://aidenwebb.com/tags/virtualmachine/</loc>
+    <lastmod>2023-06-02T14:13:55+00:00</lastmod>
   </url><url>
     <loc>https://aidenwebb.com/tags/debian/</loc>
     <lastmod>2023-04-05T17:44:11+01:00</lastmod>
@@ -11,16 +53,7 @@
     <loc>https://aidenwebb.com/posts/install-tplink-omada-on-debian-11/</loc>
     <lastmod>2023-04-05T17:44:11+01:00</lastmod>
   </url><url>
-    <loc>https://aidenwebb.com/tags/linux/</loc>
-    <lastmod>2023-04-05T17:44:11+01:00</lastmod>
-  </url><url>
     <loc>https://aidenwebb.com/tags/networking/</loc>
-    <lastmod>2023-04-05T17:44:11+01:00</lastmod>
-  </url><url>
-    <loc>https://aidenwebb.com/posts/</loc>
-    <lastmod>2023-04-05T17:44:11+01:00</lastmod>
-  </url><url>
-    <loc>https://aidenwebb.com/tags/</loc>
     <lastmod>2023-04-05T17:44:11+01:00</lastmod>
   </url><url>
     <loc>https://aidenwebb.com/posts/cve-2023-23397-quickly-check-vulnerability-status-and-trigger-updates/</loc>
