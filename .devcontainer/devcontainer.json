@@ -23,11 +23,16 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"ms-azuretools.vscode-docker",
 				"budparr.language-hugo-vscode",
 				"HitkoDev.vscode-remark-hugo",
 				"rusnasonov.vscode-hugo",
-				"fivethree.vscode-hugo-snippets"
+				"fivethree.vscode-hugo-snippets",
+				"yzhang.markdown-all-in-one",
+				"shd101wyy.markdown-preview-enhanced",
+				"bierner.markdown-mermaid",
+				"TakumiI.markdowntable",
+				"DavidAnson.vscode-markdownlint",
+				"ms-azuretools.vscode-docker"
 			]
 		}
 	},
@@ -37,7 +42,7 @@
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	"forwardPorts": [
 		1313
-	],
+	]
 	// Configure tool-specific properties.
 	// "customizations": {},
 	// Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
