@@ -31,7 +31,8 @@
 				"shd101wyy.markdown-preview-enhanced",
 				"bierner.markdown-mermaid",
 				"TakumiI.markdowntable",
-				"DavidAnson.vscode-markdownlint"
+				"DavidAnson.vscode-markdownlint",
+				"ms-azuretools.vscode-docker"
 			]
 		}
 	},
