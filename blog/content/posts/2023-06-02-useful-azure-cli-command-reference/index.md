@@ -9,6 +9,7 @@ tags:
   - AzureCLI
   - SysAdmin
   - CloudAdministration
+  - CheatSheets
 author: "Aiden Arnkels-Webb"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -52,4 +53,18 @@ subscriptionName=$(az account show --query name --output tsv)
 
 # Set subscriptionId to current subscription id
 subscriptionId=$(az account show --query id --output tsv)
+
+```
+
+## Service Principals
+
+```bash
+
+# Create rbac service principal
+
+az ad sp create-for-rbac --name sp-name --role contributor --scopes /subscriptions/$subscriptionId
+
+# Get service principal id
+spId=$(az ad sp list --display-name sp-name --query [].appId --output tsv)
+
 ```
