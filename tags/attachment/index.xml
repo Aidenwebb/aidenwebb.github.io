@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Attachment on Aiden Arnkels-Webb</title>
+    <link>https://aidenwebb.com/tags/attachment/</link>
+    <description>Recent content in Attachment on Aiden Arnkels-Webb</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>@ Aiden Arnkels-Webb</copyright>
+    <lastBuildDate>Wed, 14 Jun 2023 15:14:38 +0000</lastBuildDate><atom:link href="https://aidenwebb.com/tags/attachment/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Microsoft Office - Send a file as an Attachment</title>
+      <link>https://aidenwebb.com/posts/microsoft-office-send-a-file-as-an-attachment/</link>
+      <pubDate>Wed, 14 Jun 2023 15:14:38 +0000</pubDate>
+      
+      <guid>https://aidenwebb.com/posts/microsoft-office-send-a-file-as-an-attachment/</guid>
+      <description>The Problem Microsofts latest update to Office 365 has changed the way &amp;ldquo;Share&amp;rdquo; function operates. Previously, when you clicked the &amp;ldquo;Share&amp;rdquo; button, you were presented with a list of options, including sharing a link, or attaching a copy of your document instead.
+Now, if the file you are working on is already saved in a shareable OneDrive or Sharepoint locationsync&amp;rsquo;d, the only option you are presented is to share a link to the document.</description>
+    </item>
+    
+  </channel>
+</rss>
