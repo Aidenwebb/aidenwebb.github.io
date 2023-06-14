@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Azure AD on Aiden Arnkels-Webb</title>
-    <link>https://aidenwebb.com/tags/azure-ad/</link>
+    <link>https://www.aidenwebb.com/tags/azure-ad/</link>
     <description>Recent content in Azure AD on Aiden Arnkels-Webb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>@ Aiden Arnkels-Webb</copyright>
-    <lastBuildDate>Thu, 03 Mar 2022 10:36:09 +0000</lastBuildDate><atom:link href="https://aidenwebb.com/tags/azure-ad/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Mar 2022 10:36:09 +0000</lastBuildDate><atom:link href="https://www.aidenwebb.com/tags/azure-ad/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to Hard Link Azure AD Connect On Prem Users to Azure AD Office 365 Accounts</title>
-      <link>https://aidenwebb.com/posts/how-to-hard-link-azure-ad-connect-on-prem-users-to-azure-ad-office-365-accounts/</link>
+      <link>https://www.aidenwebb.com/posts/how-to-hard-link-azure-ad-connect-on-prem-users-to-azure-ad-office-365-accounts/</link>
       <pubDate>Thu, 03 Mar 2022 10:36:09 +0000</pubDate>
       
-      <guid>https://aidenwebb.com/posts/how-to-hard-link-azure-ad-connect-on-prem-users-to-azure-ad-office-365-accounts/</guid>
+      <guid>https://www.aidenwebb.com/posts/how-to-hard-link-azure-ad-connect-on-prem-users-to-azure-ad-office-365-accounts/</guid>
       <description>The Problem You&amp;rsquo;ve set up Azure AD Connect or Azure AD Connect Cloud Sync, but some users haven&amp;rsquo;t sync&amp;rsquo;d correctly. Trying to force a new sync / Soft Link based on SMTP or UPN matching doesn&amp;rsquo;t work. These sync&amp;rsquo;d users may have created new Azure AD accounts, or may have failed to create an Azure AD account altogether. Your internal users UPN matches a domain configured in Azure AD.
 The Cause The initial soft link matches on UPN or SMTP, but may fail if there are conflicting ProxyAddresses.</description>
     </item>

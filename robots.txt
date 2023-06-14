@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://aidenwebb.com/sitemap.xml
+Sitemap: https://www.aidenwebb.com/sitemap.xml

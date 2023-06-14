@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>networking on Aiden Arnkels-Webb</title>
-    <link>https://aidenwebb.com/tags/networking/</link>
+    <link>https://www.aidenwebb.com/tags/networking/</link>
     <description>Recent content in networking on Aiden Arnkels-Webb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>@ Aiden Arnkels-Webb</copyright>
-    <lastBuildDate>Wed, 05 Apr 2023 17:44:11 +0100</lastBuildDate><atom:link href="https://aidenwebb.com/tags/networking/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Apr 2023 17:44:11 +0100</lastBuildDate><atom:link href="https://www.aidenwebb.com/tags/networking/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Install Tplink Omada on Debian 11</title>
-      <link>https://aidenwebb.com/posts/install-tplink-omada-on-debian-11/</link>
+      <link>https://www.aidenwebb.com/posts/install-tplink-omada-on-debian-11/</link>
       <pubDate>Wed, 05 Apr 2023 17:44:11 +0100</pubDate>
       
-      <guid>https://aidenwebb.com/posts/install-tplink-omada-on-debian-11/</guid>
+      <guid>https://www.aidenwebb.com/posts/install-tplink-omada-on-debian-11/</guid>
       <description>This guide covers installation of TP-Link&amp;rsquo;s Omada Software Controller on Debian 11.
 At the time of writing, Omada Controller version is 5.9.31.
 Update and Upgrade system 1 apt update &amp;amp;&amp;amp; apt upgrade -y Install omada dependencies 1 apt install -y openjdk-11-jdk-headless curl autoconf make gcc Install MongoDB Go to Mongo DB&amp;rsquo;s repository and select an appropriate server version. I&amp;rsquo;m using MongoDb Server 4.4.16
@@ -22,10 +22,10 @@ Update and Upgrade system 1 apt update &amp;amp;&amp;amp; apt upgrade -y Install
     
     <item>
       <title>Dockers seven network types and when to use them</title>
-      <link>https://aidenwebb.com/posts/dockers-seven-network-types-and-when-to-use-them/</link>
+      <link>https://www.aidenwebb.com/posts/dockers-seven-network-types-and-when-to-use-them/</link>
       <pubDate>Thu, 25 Aug 2022 12:40:30 +0100</pubDate>
       
-      <guid>https://aidenwebb.com/posts/dockers-seven-network-types-and-when-to-use-them/</guid>
+      <guid>https://www.aidenwebb.com/posts/dockers-seven-network-types-and-when-to-use-them/</guid>
       <description>1. The Default Bridge This is the default network that new containers will connect to. It&amp;rsquo;s a software bridge between your docker instance and your host system, providing isolation between the bridge network and other networks, including the host network and other bridge networks on the host. Docker best practices discourage using this network for containers, recommending User-Defined bridges instead, which we will get to in #4.
 When to use it: Avoid using the Default Bridge, use another network type instead where possible</description>
     </item>

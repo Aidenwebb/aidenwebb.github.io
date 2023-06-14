@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>NTFS on Aiden Arnkels-Webb</title>
-    <link>https://aidenwebb.com/tags/ntfs/</link>
+    <link>https://www.aidenwebb.com/tags/ntfs/</link>
     <description>Recent content in NTFS on Aiden Arnkels-Webb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>@ Aiden Arnkels-Webb</copyright>
-    <lastBuildDate>Fri, 10 Mar 2023 14:49:09 +0000</lastBuildDate><atom:link href="https://aidenwebb.com/tags/ntfs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Mar 2023 14:49:09 +0000</lastBuildDate><atom:link href="https://www.aidenwebb.com/tags/ntfs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to recusively apply NTFS permissions faster using PowerShell multithreading jobs</title>
-      <link>https://aidenwebb.com/posts/how-to-recusively-apply-ntfs-permissions-faster-using-powershell-multithreading-jobs/</link>
+      <link>https://www.aidenwebb.com/posts/how-to-recusively-apply-ntfs-permissions-faster-using-powershell-multithreading-jobs/</link>
       <pubDate>Fri, 10 Mar 2023 14:49:09 +0000</pubDate>
       
-      <guid>https://aidenwebb.com/posts/how-to-recusively-apply-ntfs-permissions-faster-using-powershell-multithreading-jobs/</guid>
+      <guid>https://www.aidenwebb.com/posts/how-to-recusively-apply-ntfs-permissions-faster-using-powershell-multithreading-jobs/</guid>
       <description>Do you relate to the cover photo? Have your NTFS permissions just bombed out and you can&amp;rsquo;t bare the idea of waiting hours or days for your new permissions to apply?
 Don&amp;rsquo;t worry, I&amp;rsquo;m here to help.
 It&amp;rsquo;s no secret that applying NTFS permissions to any directory tree larger than a few thousand files quickly decends in to a painstaking waiting game. The built in UI is garbage, and icacls is decent but single-threaded and slow.</description>
@@ -21,10 +21,10 @@ It&amp;rsquo;s no secret that applying NTFS permissions to any directory tree la
     
     <item>
       <title>Why “traverse folder” and “execute file” is a combined NTFS permission</title>
-      <link>https://aidenwebb.com/posts/why-traverse-folder-and-execute-file-is-a-combined-ntfs-permission/</link>
+      <link>https://www.aidenwebb.com/posts/why-traverse-folder-and-execute-file-is-a-combined-ntfs-permission/</link>
       <pubDate>Tue, 03 Dec 2019 13:02:00 +0000</pubDate>
       
-      <guid>https://aidenwebb.com/posts/why-traverse-folder-and-execute-file-is-a-combined-ntfs-permission/</guid>
+      <guid>https://www.aidenwebb.com/posts/why-traverse-folder-and-execute-file-is-a-combined-ntfs-permission/</guid>
       <description>I&amp;rsquo;ve been asked why the Advanced Permissions dialogue on NTFS folders lists &amp;ldquo;Traverse folder / execute file&amp;rdquo; as one single permission.
 On the surface it seems counterintuitive that you&amp;rsquo;d allow a user to navigate through a folder, or execute its contents.
 There&amp;rsquo;s no official Microsoft documentation on the design decisions, however, from a filesystem perspective, entering a folder is the same as executing or running it. The same is true of 3 classic Unix filesystem flags and permissions, where the &amp;ldquo;X&amp;rdquo; flag allows both directory traversal and file execution, while &amp;ldquo;R&amp;rdquo; allows reading and &amp;ldquo;W&amp;rdquo; allows writing.</description>

@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Useful Tools on Aiden Arnkels-Webb</title>
-    <link>https://aidenwebb.com/tags/useful-tools/</link>
+    <link>https://www.aidenwebb.com/tags/useful-tools/</link>
     <description>Recent content in Useful Tools on Aiden Arnkels-Webb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>@ Aiden Arnkels-Webb</copyright>
-    <lastBuildDate>Sat, 05 Nov 2022 10:12:52 +0000</lastBuildDate><atom:link href="https://aidenwebb.com/tags/useful-tools/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Nov 2022 10:12:52 +0000</lastBuildDate><atom:link href="https://www.aidenwebb.com/tags/useful-tools/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to set up K-9 Mail With Office 365</title>
-      <link>https://aidenwebb.com/posts/how-to-set-up-k-9-mail-with-office-365/</link>
+      <link>https://www.aidenwebb.com/posts/how-to-set-up-k-9-mail-with-office-365/</link>
       <pubDate>Sat, 05 Nov 2022 10:12:52 +0000</pubDate>
       
-      <guid>https://aidenwebb.com/posts/how-to-set-up-k-9-mail-with-office-365/</guid>
+      <guid>https://www.aidenwebb.com/posts/how-to-set-up-k-9-mail-with-office-365/</guid>
       <description>I have a hell of a lot of mail accounts, K-9 Mail on Android helps me manage them all. Here&amp;rsquo;s how to set up K-9 Mail with Office 365.
 You will first need to set up SMTP Auth on your Exchange Tenant. This is a simple process, but it does require you to have access to the Exchange Admin Centre. If you don&amp;rsquo;t have access to the EAC, you&amp;rsquo;ll need to ask your Exchange Admin to do this for you.</description>
     </item>
     
     <item>
       <title>Standard list of software I install on my mums computer and phone</title>
-      <link>https://aidenwebb.com/posts/standard-list-of-software-i-install-on-my-mums-computer-and-phone/</link>
+      <link>https://www.aidenwebb.com/posts/standard-list-of-software-i-install-on-my-mums-computer-and-phone/</link>
       <pubDate>Sat, 05 Nov 2022 09:20:26 +0000</pubDate>
       
-      <guid>https://aidenwebb.com/posts/standard-list-of-software-i-install-on-my-mums-computer-and-phone/</guid>
+      <guid>https://www.aidenwebb.com/posts/standard-list-of-software-i-install-on-my-mums-computer-and-phone/</guid>
       <description>You know the drill, as the kid with the tech skills you get roped into helping your parents and other family members with their busted tech. I notice that every time I ressurect or reincarnate the treasured device of a family member I end up installing much of the same software. I wrote this to save me some time, and to help others who are in the same boat.
 My preferred recommendation in each category is in bold.</description>
     </item>

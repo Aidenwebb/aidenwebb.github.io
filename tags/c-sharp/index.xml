@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>C-Sharp on Aiden Arnkels-Webb</title>
-    <link>https://aidenwebb.com/tags/c-sharp/</link>
+    <link>https://www.aidenwebb.com/tags/c-sharp/</link>
     <description>Recent content in C-Sharp on Aiden Arnkels-Webb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>@ Aiden Arnkels-Webb</copyright>
-    <lastBuildDate>Tue, 16 Aug 2022 10:48:32 +0100</lastBuildDate><atom:link href="https://aidenwebb.com/tags/c-sharp/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Aug 2022 10:48:32 +0100</lastBuildDate><atom:link href="https://www.aidenwebb.com/tags/c-sharp/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Learning C# - Building a MUD Part 1</title>
-      <link>https://aidenwebb.com/posts/learning-c-sharp-building-a-mud-part-1/</link>
+      <link>https://www.aidenwebb.com/posts/learning-c-sharp-building-a-mud-part-1/</link>
       <pubDate>Tue, 16 Aug 2022 10:48:32 +0100</pubDate>
       
-      <guid>https://aidenwebb.com/posts/learning-c-sharp-building-a-mud-part-1/</guid>
+      <guid>https://www.aidenwebb.com/posts/learning-c-sharp-building-a-mud-part-1/</guid>
       <description>Headnotes First, the project link, for those of you who just want to gander at code and commit history
 Second, this post uses some Mermaid JS graphs, which don&amp;rsquo;t look great on a dark background, so I recommend switching the site to light mode by clicking the little sun next to &amp;ldquo;Home&amp;rdquo; in the navbar.
 Introduction Last night was one of the worst night&amp;rsquo;s sleep I&amp;rsquo;ve had in the past few years.</description>

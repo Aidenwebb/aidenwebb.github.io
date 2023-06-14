@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Exchange Online on Aiden Arnkels-Webb</title>
-    <link>https://aidenwebb.com/tags/exchange-online/</link>
+    <link>https://www.aidenwebb.com/tags/exchange-online/</link>
     <description>Recent content in Exchange Online on Aiden Arnkels-Webb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>@ Aiden Arnkels-Webb</copyright>
-    <lastBuildDate>Sun, 05 Aug 2018 01:11:51 +0000</lastBuildDate><atom:link href="https://aidenwebb.com/tags/exchange-online/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 05 Aug 2018 01:11:51 +0000</lastBuildDate><atom:link href="https://www.aidenwebb.com/tags/exchange-online/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to fix conflicting proxy addresses in O365 when creating a mailbox</title>
-      <link>https://aidenwebb.com/posts/how-to-fix-conflicting-proxy-addresses-in-o365-when-creating-a-mailbox/</link>
+      <link>https://www.aidenwebb.com/posts/how-to-fix-conflicting-proxy-addresses-in-o365-when-creating-a-mailbox/</link>
       <pubDate>Sun, 05 Aug 2018 01:11:51 +0000</pubDate>
       
-      <guid>https://aidenwebb.com/posts/how-to-fix-conflicting-proxy-addresses-in-o365-when-creating-a-mailbox/</guid>
+      <guid>https://www.aidenwebb.com/posts/how-to-fix-conflicting-proxy-addresses-in-o365-when-creating-a-mailbox/</guid>
       <description>Learn how to fix conflicting proxy addresses in Office / Exchange 365</description>
     </item>
     

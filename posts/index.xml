@@ -2,28 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Aiden Arnkels-Webb</title>
-    <link>https://aidenwebb.com/posts/</link>
+    <link>https://www.aidenwebb.com/posts/</link>
     <description>Recent content in Posts on Aiden Arnkels-Webb</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>@ Aiden Arnkels-Webb</copyright>
-    <lastBuildDate>Wed, 14 Jun 2023 15:14:38 +0000</lastBuildDate><atom:link href="https://aidenwebb.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Jun 2023 15:14:38 +0000</lastBuildDate><atom:link href="https://www.aidenwebb.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Microsoft Office - Send a file as an Attachment</title>
-      <link>https://aidenwebb.com/posts/microsoft-office-send-a-file-as-an-attachment/</link>
+      <link>https://www.aidenwebb.com/posts/microsoft-office-send-a-file-as-an-attachment/</link>
       <pubDate>Wed, 14 Jun 2023 15:14:38 +0000</pubDate>
       
-      <guid>https://aidenwebb.com/posts/microsoft-office-send-a-file-as-an-attachment/</guid>
+      <guid>https://www.aidenwebb.com/posts/microsoft-office-send-a-file-as-an-attachment/</guid>
       <description>The Problem Microsofts latest update to Office 365 has changed the way &amp;ldquo;Share&amp;rdquo; function operates. Previously, when you clicked the &amp;ldquo;Share&amp;rdquo; button, you were presented with a list of options, including sharing a link, or attaching a copy of your document instead.
 Now, if the file you are working on is already saved in a shareable OneDrive or Sharepoint locationsync&amp;rsquo;d, the only option you are presented is to share a link to the document.</description>
     </item>
     
     <item>
       <title>How to Mount a qcow2 Disk Image</title>
-      <link>https://aidenwebb.com/posts/how-to-mount-a-qcow2-disk-image/</link>
+      <link>https://www.aidenwebb.com/posts/how-to-mount-a-qcow2-disk-image/</link>
       <pubDate>Fri, 02 Jun 2023 14:13:55 +0000</pubDate>
       
-      <guid>https://aidenwebb.com/posts/how-to-mount-a-qcow2-disk-image/</guid>
+      <guid>https://www.aidenwebb.com/posts/how-to-mount-a-qcow2-disk-image/</guid>
       <description>Here&amp;rsquo;s a streamlined guide on how to mount a qcow2 disk image on your host server/system, which can come in handy for tasks like resetting passwords, editing files, or recovering data without needing to run the virtual machine.
 Step 1 - Activating NBD on the Host In your terminal, run the following command to enable NBD (Network Block Device) on your host (with sudo if required):
 1 modprobe nbd max_part=8 Step 2 - Link the QCOW2 to Network Block Device Next, connect the QCOW2 disk image to the network block device using the following command:</description>
@@ -31,10 +31,10 @@ Step 1 - Activating NBD on the Host In your terminal, run the following command 
     
     <item>
       <title>Install Tplink Omada on Debian 11</title>
-      <link>https://aidenwebb.com/posts/install-tplink-omada-on-debian-11/</link>
+      <link>https://www.aidenwebb.com/posts/install-tplink-omada-on-debian-11/</link>
       <pubDate>Wed, 05 Apr 2023 17:44:11 +0100</pubDate>
       
-      <guid>https://aidenwebb.com/posts/install-tplink-omada-on-debian-11/</guid>
+      <guid>https://www.aidenwebb.com/posts/install-tplink-omada-on-debian-11/</guid>
       <description>This guide covers installation of TP-Link&amp;rsquo;s Omada Software Controller on Debian 11.
 At the time of writing, Omada Controller version is 5.9.31.
 Update and Upgrade system 1 apt update &amp;amp;&amp;amp; apt upgrade -y Install omada dependencies 1 apt install -y openjdk-11-jdk-headless curl autoconf make gcc Install MongoDB Go to Mongo DB&amp;rsquo;s repository and select an appropriate server version. I&amp;rsquo;m using MongoDb Server 4.4.16
@@ -43,10 +43,10 @@ Update and Upgrade system 1 apt update &amp;amp;&amp;amp; apt upgrade -y Install
     
     <item>
       <title>Cve-2023-23397 - Quickly Check Vulnerability Status and Trigger Updates</title>
-      <link>https://aidenwebb.com/posts/cve-2023-23397-quickly-check-vulnerability-status-and-trigger-updates/</link>
+      <link>https://www.aidenwebb.com/posts/cve-2023-23397-quickly-check-vulnerability-status-and-trigger-updates/</link>
       <pubDate>Wed, 15 Mar 2023 14:45:08 +0000</pubDate>
       
-      <guid>https://aidenwebb.com/posts/cve-2023-23397-quickly-check-vulnerability-status-and-trigger-updates/</guid>
+      <guid>https://www.aidenwebb.com/posts/cve-2023-23397-quickly-check-vulnerability-status-and-trigger-updates/</guid>
       <description>Yesterday Microsoft announced a new critical vulnerability CVE-2023-23397, a vulnerability in Microsoft Outlook that allows a threat actor to harvest NTLMv2 hashes via a specifically crafted Outlook appointment.
 Microsoft state that attackers can exploit this vulnerability by sending an email that triggers automatically when it is retrieved and processed by the Outlook client. This can lead to exploitation BEFORE the email is viewed in the Preview Pane.
 They also state that this vulnerability is being actively exploited in the wild.</description>
@@ -54,10 +54,10 @@ They also state that this vulnerability is being actively exploited in the wild.
     
     <item>
       <title>How to recusively apply NTFS permissions faster using PowerShell multithreading jobs</title>
-      <link>https://aidenwebb.com/posts/how-to-recusively-apply-ntfs-permissions-faster-using-powershell-multithreading-jobs/</link>
+      <link>https://www.aidenwebb.com/posts/how-to-recusively-apply-ntfs-permissions-faster-using-powershell-multithreading-jobs/</link>
       <pubDate>Fri, 10 Mar 2023 14:49:09 +0000</pubDate>
       
-      <guid>https://aidenwebb.com/posts/how-to-recusively-apply-ntfs-permissions-faster-using-powershell-multithreading-jobs/</guid>
+      <guid>https://www.aidenwebb.com/posts/how-to-recusively-apply-ntfs-permissions-faster-using-powershell-multithreading-jobs/</guid>
       <description>Do you relate to the cover photo? Have your NTFS permissions just bombed out and you can&amp;rsquo;t bare the idea of waiting hours or days for your new permissions to apply?
 Don&amp;rsquo;t worry, I&amp;rsquo;m here to help.
 It&amp;rsquo;s no secret that applying NTFS permissions to any directory tree larger than a few thousand files quickly decends in to a painstaking waiting game. The built in UI is garbage, and icacls is decent but single-threaded and slow.</description>
@@ -65,30 +65,30 @@ It&amp;rsquo;s no secret that applying NTFS permissions to any directory tree la
     
     <item>
       <title>How to set up K-9 Mail With Office 365</title>
-      <link>https://aidenwebb.com/posts/how-to-set-up-k-9-mail-with-office-365/</link>
+      <link>https://www.aidenwebb.com/posts/how-to-set-up-k-9-mail-with-office-365/</link>
       <pubDate>Sat, 05 Nov 2022 10:12:52 +0000</pubDate>
       
-      <guid>https://aidenwebb.com/posts/how-to-set-up-k-9-mail-with-office-365/</guid>
+      <guid>https://www.aidenwebb.com/posts/how-to-set-up-k-9-mail-with-office-365/</guid>
       <description>I have a hell of a lot of mail accounts, K-9 Mail on Android helps me manage them all. Here&amp;rsquo;s how to set up K-9 Mail with Office 365.
 You will first need to set up SMTP Auth on your Exchange Tenant. This is a simple process, but it does require you to have access to the Exchange Admin Centre. If you don&amp;rsquo;t have access to the EAC, you&amp;rsquo;ll need to ask your Exchange Admin to do this for you.</description>
     </item>
     
     <item>
       <title>Standard list of software I install on my mums computer and phone</title>
-      <link>https://aidenwebb.com/posts/standard-list-of-software-i-install-on-my-mums-computer-and-phone/</link>
+      <link>https://www.aidenwebb.com/posts/standard-list-of-software-i-install-on-my-mums-computer-and-phone/</link>
       <pubDate>Sat, 05 Nov 2022 09:20:26 +0000</pubDate>
       
-      <guid>https://aidenwebb.com/posts/standard-list-of-software-i-install-on-my-mums-computer-and-phone/</guid>
+      <guid>https://www.aidenwebb.com/posts/standard-list-of-software-i-install-on-my-mums-computer-and-phone/</guid>
       <description>You know the drill, as the kid with the tech skills you get roped into helping your parents and other family members with their busted tech. I notice that every time I ressurect or reincarnate the treasured device of a family member I end up installing much of the same software. I wrote this to save me some time, and to help others who are in the same boat.
 My preferred recommendation in each category is in bold.</description>
     </item>
     
     <item>
       <title>How to replace SSL certificates for a custom domain in Self Hosted 3CX</title>
-      <link>https://aidenwebb.com/posts/how-to-replace-ssl-certificates-for-a-custom-domain-in-self-hosted-3cx/</link>
+      <link>https://www.aidenwebb.com/posts/how-to-replace-ssl-certificates-for-a-custom-domain-in-self-hosted-3cx/</link>
       <pubDate>Wed, 02 Nov 2022 09:22:23 +0000</pubDate>
       
-      <guid>https://aidenwebb.com/posts/how-to-replace-ssl-certificates-for-a-custom-domain-in-self-hosted-3cx/</guid>
+      <guid>https://www.aidenwebb.com/posts/how-to-replace-ssl-certificates-for-a-custom-domain-in-self-hosted-3cx/</guid>
       <description>3CX have updated their docs and removed help.3cx.com meaning the old documentation for updating SSL certs is now gone, or at least harder to find.
 The original URL was https://help.3cx.com/help/en-us/33-installation/148-how-can-i-replace-the-ssl-certificates-for-a-custom-domain. If anyone has a copy of this page, please let me know.
 Thankfully updating the SSL certificate is relatively straight forward as the web client runs on nginx.
@@ -98,40 +98,40 @@ Access to the server running 3CX Remote Desktop (Windows) SSH (Linux) The certif
     
     <item>
       <title>Useful Tools for SysAdmins and Techies</title>
-      <link>https://aidenwebb.com/posts/useful-tools-for-sysadmins-and-techies/</link>
+      <link>https://www.aidenwebb.com/posts/useful-tools-for-sysadmins-and-techies/</link>
       <pubDate>Tue, 25 Oct 2022 14:33:04 +0000</pubDate>
       
-      <guid>https://aidenwebb.com/posts/useful-tools-for-sysadmins-and-techies/</guid>
+      <guid>https://www.aidenwebb.com/posts/useful-tools-for-sysadmins-and-techies/</guid>
       <description>I occurs to me that each time I set up a new system, or re-install my workstation, I often end up hunting down and redownloading tools and software that I use on a regular basis. So I thought I&amp;rsquo;d create a list of useful tools and pop it here on my blog for future reference and to share with others.
 I&amp;rsquo;ll try to keep this list updated as I find new tools and software that I find useful.</description>
     </item>
     
     <item>
       <title>How to get FREE eBooks - All the Kindle Store free eBooks on one link</title>
-      <link>https://aidenwebb.com/posts/how-to-get-free-ebooks-all-the-kindle-store-free-ebooks-on-one-link/</link>
+      <link>https://www.aidenwebb.com/posts/how-to-get-free-ebooks-all-the-kindle-store-free-ebooks-on-one-link/</link>
       <pubDate>Wed, 31 Aug 2022 14:33:47 +0100</pubDate>
       
-      <guid>https://aidenwebb.com/posts/how-to-get-free-ebooks-all-the-kindle-store-free-ebooks-on-one-link/</guid>
+      <guid>https://www.aidenwebb.com/posts/how-to-get-free-ebooks-all-the-kindle-store-free-ebooks-on-one-link/</guid>
       <description>There are currently over 50,000 free books to choose from on Amazon&amp;rsquo;s Kindle Store. Just add a book to your library using the Buy now button (not Subscribe to Kindle Unlimited / Read for £0.00) and read with Amazon Cloud reader in a web browser or sync to your Kindle.
 The below link will open a filtered search on the Amazon UK website showing ALL the books that are currently FREE to add to your account without needing a Kindle unlimited subscription.</description>
     </item>
     
     <item>
       <title>Dockers seven network types and when to use them</title>
-      <link>https://aidenwebb.com/posts/dockers-seven-network-types-and-when-to-use-them/</link>
+      <link>https://www.aidenwebb.com/posts/dockers-seven-network-types-and-when-to-use-them/</link>
       <pubDate>Thu, 25 Aug 2022 12:40:30 +0100</pubDate>
       
-      <guid>https://aidenwebb.com/posts/dockers-seven-network-types-and-when-to-use-them/</guid>
+      <guid>https://www.aidenwebb.com/posts/dockers-seven-network-types-and-when-to-use-them/</guid>
       <description>1. The Default Bridge This is the default network that new containers will connect to. It&amp;rsquo;s a software bridge between your docker instance and your host system, providing isolation between the bridge network and other networks, including the host network and other bridge networks on the host. Docker best practices discourage using this network for containers, recommending User-Defined bridges instead, which we will get to in #4.
 When to use it: Avoid using the Default Bridge, use another network type instead where possible</description>
     </item>
     
     <item>
       <title>Learning C# - Building a MUD Part 1</title>
-      <link>https://aidenwebb.com/posts/learning-c-sharp-building-a-mud-part-1/</link>
+      <link>https://www.aidenwebb.com/posts/learning-c-sharp-building-a-mud-part-1/</link>
       <pubDate>Tue, 16 Aug 2022 10:48:32 +0100</pubDate>
       
-      <guid>https://aidenwebb.com/posts/learning-c-sharp-building-a-mud-part-1/</guid>
+      <guid>https://www.aidenwebb.com/posts/learning-c-sharp-building-a-mud-part-1/</guid>
       <description>Headnotes First, the project link, for those of you who just want to gander at code and commit history
 Second, this post uses some Mermaid JS graphs, which don&amp;rsquo;t look great on a dark background, so I recommend switching the site to light mode by clicking the little sun next to &amp;ldquo;Home&amp;rdquo; in the navbar.
 Introduction Last night was one of the worst night&amp;rsquo;s sleep I&amp;rsquo;ve had in the past few years.</description>
@@ -139,30 +139,30 @@ Introduction Last night was one of the worst night&amp;rsquo;s sleep I&amp;rsquo
     
     <item>
       <title>Camping Packlist</title>
-      <link>https://aidenwebb.com/posts/camping-packlist/</link>
+      <link>https://www.aidenwebb.com/posts/camping-packlist/</link>
       <pubDate>Sat, 30 Jul 2022 08:38:05 +0100</pubDate>
       
-      <guid>https://aidenwebb.com/posts/camping-packlist/</guid>
+      <guid>https://www.aidenwebb.com/posts/camping-packlist/</guid>
       <description>Introduction I&amp;rsquo;m off to Me&amp;rsquo;ra Luna in a few days! This is my first time camping since the Covid pandemic and thankfully I uncovered a previous camping packing list. I figure I may as well share it here for easy finding in future and so others may find it useful. Bring on the festival!
 A place to rest Tent Tent Pegs Mallet Mattress Air Mattress pump Sleeping bag Pillow Folding chair Torch Look after yourself Clothes Wet weather clothes / spare shoes / boots / rain coat Toothbrush / Toothpaste / Floss Shower Gel Painkillers Sun Cream Sun Glasses Condoms Wet Wipes Cutlery / Plates / Mess Tins / Mug Food Water Bottle(s) Towel First Aid kit Toilet roll Thermals / Sleeping clothes Deodrant Tick removers Sanitary towels / tampons (even for guys, they come in handy often!</description>
     </item>
     
     <item>
       <title>What&#39;s the difference between Authentication, Authorisation and Accounting? (AAA)</title>
-      <link>https://aidenwebb.com/posts/whats-the-difference-between-authentication-authorisation-and-accounting-aaa/</link>
+      <link>https://www.aidenwebb.com/posts/whats-the-difference-between-authentication-authorisation-and-accounting-aaa/</link>
       <pubDate>Wed, 27 Jul 2022 12:36:29 +0100</pubDate>
       
-      <guid>https://aidenwebb.com/posts/whats-the-difference-between-authentication-authorisation-and-accounting-aaa/</guid>
+      <guid>https://www.aidenwebb.com/posts/whats-the-difference-between-authentication-authorisation-and-accounting-aaa/</guid>
       <description>Authentication Authentication is saying &amp;ldquo;I am me&amp;rdquo;. It validates who you are. When you go to a club and the bouncer stops you and you tell him you&amp;rsquo;re on the guest list, you then show him your ID and he says &amp;ldquo;Ahh! You&amp;rsquo;re that guy, come on in&amp;rdquo; - that&amp;rsquo;s Authentication
 Authorisation Authorisation validates what you claim to be. Going back to the club and the bouncer stops you. You show him your ID.</description>
     </item>
     
     <item>
       <title>Git Remove Submodule</title>
-      <link>https://aidenwebb.com/posts/git-remove-submodule/</link>
+      <link>https://www.aidenwebb.com/posts/git-remove-submodule/</link>
       <pubDate>Tue, 26 Jul 2022 09:51:58 +0100</pubDate>
       
-      <guid>https://aidenwebb.com/posts/git-remove-submodule/</guid>
+      <guid>https://www.aidenwebb.com/posts/git-remove-submodule/</guid>
       <description>Submodules aren&amp;rsquo;t removed using git rm submodule-dir, they need to be removed in a far more thorough and annoying fashion. There are a number of unclear explanations at various sources so I decided to write my own findings.
 Delete the relevant parts from the .gitmodules file.
 EG:
@@ -172,29 +172,29 @@ Remove the relevant parts from .git/config</description>
     
     <item>
       <title>Moving my blog to Hugo - Getting started with Hugo</title>
-      <link>https://aidenwebb.com/posts/moving-my-blog-to-hugo-getting-started-with-hugo/</link>
+      <link>https://www.aidenwebb.com/posts/moving-my-blog-to-hugo-getting-started-with-hugo/</link>
       <pubDate>Mon, 25 Jul 2022 22:01:11 +0100</pubDate>
       
-      <guid>https://aidenwebb.com/posts/moving-my-blog-to-hugo-getting-started-with-hugo/</guid>
+      <guid>https://www.aidenwebb.com/posts/moving-my-blog-to-hugo-getting-started-with-hugo/</guid>
       <description>Introduction I recently came to the conclusion that I wasn&amp;rsquo;t posting on my blog nearly as much as I&amp;rsquo;d like to. My blog runs on WordPress, and I&amp;rsquo;ve felt for a while that the process of logging in, creating a post, fixing formatting in a WSYWGI editor and eventually posting was too much resistance when I commonly just write notes in plain text. So, why not just write posts in plain text and have something else do the work of turning that in to a post or a blog?</description>
     </item>
     
     <item>
       <title>How to Hard Link Azure AD Connect On Prem Users to Azure AD Office 365 Accounts</title>
-      <link>https://aidenwebb.com/posts/how-to-hard-link-azure-ad-connect-on-prem-users-to-azure-ad-office-365-accounts/</link>
+      <link>https://www.aidenwebb.com/posts/how-to-hard-link-azure-ad-connect-on-prem-users-to-azure-ad-office-365-accounts/</link>
       <pubDate>Thu, 03 Mar 2022 10:36:09 +0000</pubDate>
       
-      <guid>https://aidenwebb.com/posts/how-to-hard-link-azure-ad-connect-on-prem-users-to-azure-ad-office-365-accounts/</guid>
+      <guid>https://www.aidenwebb.com/posts/how-to-hard-link-azure-ad-connect-on-prem-users-to-azure-ad-office-365-accounts/</guid>
       <description>The Problem You&amp;rsquo;ve set up Azure AD Connect or Azure AD Connect Cloud Sync, but some users haven&amp;rsquo;t sync&amp;rsquo;d correctly. Trying to force a new sync / Soft Link based on SMTP or UPN matching doesn&amp;rsquo;t work. These sync&amp;rsquo;d users may have created new Azure AD accounts, or may have failed to create an Azure AD account altogether. Your internal users UPN matches a domain configured in Azure AD.
 The Cause The initial soft link matches on UPN or SMTP, but may fail if there are conflicting ProxyAddresses.</description>
     </item>
     
     <item>
       <title>How to Fix Server 2019 Activation Error: Run “slui.exe 0x2a 0xC004F069”</title>
-      <link>https://aidenwebb.com/posts/how-to-fix-server-2019-activation-error-run-slui.exe-0x2a-0xc004f069/</link>
+      <link>https://www.aidenwebb.com/posts/how-to-fix-server-2019-activation-error-run-slui.exe-0x2a-0xc004f069/</link>
       <pubDate>Tue, 09 Mar 2021 13:17:55 +0000</pubDate>
       
-      <guid>https://aidenwebb.com/posts/how-to-fix-server-2019-activation-error-run-slui.exe-0x2a-0xc004f069/</guid>
+      <guid>https://www.aidenwebb.com/posts/how-to-fix-server-2019-activation-error-run-slui.exe-0x2a-0xc004f069/</guid>
       <description>The Problem You&amp;rsquo;re unable to activate a copy of Windows Server 2019 Evaluation edition with your VLSC MAK key
 The Cause Server 2019 Evaluation edition can only be activated with a retail key. This must happen before a Volume Licence Key can be used.
 The Fix We need to use DISM to change the product version/edition
@@ -204,10 +204,10 @@ Get a list of available version upgrade paths by typing:</description>
     
     <item>
       <title>How to fix SB_BLOCK_NOT_PRESENT error in Veeam</title>
-      <link>https://aidenwebb.com/posts/how-to-fix-sb_block_not_present-error-in-veeam/</link>
+      <link>https://www.aidenwebb.com/posts/how-to-fix-sb_block_not_present-error-in-veeam/</link>
       <pubDate>Tue, 24 Nov 2020 18:58:26 +0000</pubDate>
       
-      <guid>https://aidenwebb.com/posts/how-to-fix-sb_block_not_present-error-in-veeam/</guid>
+      <guid>https://www.aidenwebb.com/posts/how-to-fix-sb_block_not_present-error-in-veeam/</guid>
       <description>The Problem Veeam is failing to back up one of your Hyper-V VM&amp;rsquo;s and is throwing the error: VHDx:CVhdxDisk.InitialValidation: Invalid bitmap block (all bitmap block of fixed and dynamic disks must be in SB_BLOCK_NOT_PRESENT state) Agent failed to process method {VHDx.GetDiskInformation}
 The Cause The error is telling us that Veeam&amp;rsquo;s VHDx InitialValidation function failed as the VHDx had blocks in an invalid state.
 According to Microsoft&amp;rsquo;s OpenSpecs Documentation for VHDx, the only valid Sector Bitmap Block state for fixed and dynamic disks is SB_BLOCK_NOT_PRESENT</description>
@@ -215,10 +215,10 @@ According to Microsoft&amp;rsquo;s OpenSpecs Documentation for VHDx, the only va
     
     <item>
       <title>Traps and Dangers of Unmanaged Incidents and How to Solve Them</title>
-      <link>https://aidenwebb.com/posts/traps-and-dangers-of-unmanaged-incidents-and-how-to-solve-them/</link>
+      <link>https://www.aidenwebb.com/posts/traps-and-dangers-of-unmanaged-incidents-and-how-to-solve-them/</link>
       <pubDate>Mon, 14 Sep 2020 17:48:17 +0000</pubDate>
       
-      <guid>https://aidenwebb.com/posts/traps-and-dangers-of-unmanaged-incidents-and-how-to-solve-them/</guid>
+      <guid>https://www.aidenwebb.com/posts/traps-and-dangers-of-unmanaged-incidents-and-how-to-solve-them/</guid>
       <description>Introduction ITIL defines an incident as “an unplanned interruption to or quality reduction of an IT service”.
 In order to minimise disruption caused by an incident and restore normal service as quickly as possible, it&amp;rsquo;s vital to have an efficient incident management process. Unfortunately, this is something a lot of IT teams get wrong.
 Unmanaged Incidents It&amp;rsquo;s 1 PM and your team has just started receiving calls from one of your users that the network drives are down.</description>
@@ -226,20 +226,20 @@ Unmanaged Incidents It&amp;rsquo;s 1 PM and your team has just started receiving
     
     <item>
       <title>How to check if your CPU supports Virtualisation</title>
-      <link>https://aidenwebb.com/posts/how-to-check-if-your-cpu-supports-virtualisation/</link>
+      <link>https://www.aidenwebb.com/posts/how-to-check-if-your-cpu-supports-virtualisation/</link>
       <pubDate>Wed, 26 Aug 2020 13:42:09 +0000</pubDate>
       
-      <guid>https://aidenwebb.com/posts/how-to-check-if-your-cpu-supports-virtualisation/</guid>
+      <guid>https://www.aidenwebb.com/posts/how-to-check-if-your-cpu-supports-virtualisation/</guid>
       <description>Check Task Manager The first, simplest option to check is to open task manager. Click the performance tab Check if Virtualisation is Enabled If Virtualisation is not Enabled, this could be due to it being disabled in the BIOS. Before enabling it, check if your processor is compatible.
 Check Processor Compatibility Identify your Processor Press the Windows Key Type &amp;ldquo;System Information&amp;rdquo; in the search box Make a note of your processor make and model Check Product Specs - Intel: If your processor is Intel, go to the Intel Product Specification Page and look up your processor model and open the specification page.</description>
     </item>
     
     <item>
       <title>How to fix QNAP NAS web GUI interface timing out or never loading</title>
-      <link>https://aidenwebb.com/posts/how-to-fix-qnap-nas-web-gui-interface-timing-out-or-never-loading/</link>
+      <link>https://www.aidenwebb.com/posts/how-to-fix-qnap-nas-web-gui-interface-timing-out-or-never-loading/</link>
       <pubDate>Fri, 07 Feb 2020 20:55:29 +0000</pubDate>
       
-      <guid>https://aidenwebb.com/posts/how-to-fix-qnap-nas-web-gui-interface-timing-out-or-never-loading/</guid>
+      <guid>https://www.aidenwebb.com/posts/how-to-fix-qnap-nas-web-gui-interface-timing-out-or-never-loading/</guid>
       <description>The Problem You&amp;rsquo;re trying to connect to your NAS&amp;rsquo;s web interface but it&amp;rsquo;s just spinning forever and not actually loading.
 The Cause The cause can be a number of things, but it boils down to an issue with the http service or proxy service on the QNAP.
 Sometimes a configuration problem will cause the service to behave badly. A firmware update may cause a mismatch between the config file and the service being run.</description>
@@ -247,10 +247,10 @@ Sometimes a configuration problem will cause the service to behave badly. A firm
     
     <item>
       <title>Why “traverse folder” and “execute file” is a combined NTFS permission</title>
-      <link>https://aidenwebb.com/posts/why-traverse-folder-and-execute-file-is-a-combined-ntfs-permission/</link>
+      <link>https://www.aidenwebb.com/posts/why-traverse-folder-and-execute-file-is-a-combined-ntfs-permission/</link>
       <pubDate>Tue, 03 Dec 2019 13:02:00 +0000</pubDate>
       
-      <guid>https://aidenwebb.com/posts/why-traverse-folder-and-execute-file-is-a-combined-ntfs-permission/</guid>
+      <guid>https://www.aidenwebb.com/posts/why-traverse-folder-and-execute-file-is-a-combined-ntfs-permission/</guid>
       <description>I&amp;rsquo;ve been asked why the Advanced Permissions dialogue on NTFS folders lists &amp;ldquo;Traverse folder / execute file&amp;rdquo; as one single permission.
 On the surface it seems counterintuitive that you&amp;rsquo;d allow a user to navigate through a folder, or execute its contents.
 There&amp;rsquo;s no official Microsoft documentation on the design decisions, however, from a filesystem perspective, entering a folder is the same as executing or running it. The same is true of 3 classic Unix filesystem flags and permissions, where the &amp;ldquo;X&amp;rdquo; flag allows both directory traversal and file execution, while &amp;ldquo;R&amp;rdquo; allows reading and &amp;ldquo;W&amp;rdquo; allows writing.</description>
@@ -258,20 +258,20 @@ There&amp;rsquo;s no official Microsoft documentation on the design decisions, h
     
     <item>
       <title>How to enable/disable hardware devices using Windows Powershell</title>
-      <link>https://aidenwebb.com/posts/how-to-enable/disable-hardware-devices-using-windows-powershell/</link>
+      <link>https://www.aidenwebb.com/posts/how-to-enable/disable-hardware-devices-using-windows-powershell/</link>
       <pubDate>Mon, 02 Dec 2019 22:31:54 +0000</pubDate>
       
-      <guid>https://aidenwebb.com/posts/how-to-enable/disable-hardware-devices-using-windows-powershell/</guid>
+      <guid>https://www.aidenwebb.com/posts/how-to-enable/disable-hardware-devices-using-windows-powershell/</guid>
       <description>If you&amp;rsquo;re working on Windows Server Core or remotely on another computer and don&amp;rsquo;t have access to the Windows GUI, you might have trouble disabling a faulty or unwanted plug-and-play device. Thankfully PowerShell makes it easy to get, enable and disable devices in Device Manager using Get-PnpDevice, Enable-PnpDevice and Disable-PnpDevice
 How to query devices 1 2 3 4 5 6 7 Get-PnpDevice # Get&amp;#39;s all PNP Devices Get-PnpDevice -PresentOnly # Gets all PNP Devices currently attached or physically present in the system Get-PnpDevice -FriendlyName &amp;#34;*Ethernet*&amp;#34; # Gets all PNP Devices with a name containing &amp;#34;Ethernet&amp;#34; Get-PnpDevice -Status ERROR # Gets all PNP Devices in an errored states How to enable or disable devices To enable disable a device, simply pipe the output of Get-PnpDevice to Disable-PnpDevice or Enable-PnpDevice.</description>
     </item>
     
     <item>
       <title>How to fix conflicting proxy addresses in O365 when creating a mailbox</title>
-      <link>https://aidenwebb.com/posts/how-to-fix-conflicting-proxy-addresses-in-o365-when-creating-a-mailbox/</link>
+      <link>https://www.aidenwebb.com/posts/how-to-fix-conflicting-proxy-addresses-in-o365-when-creating-a-mailbox/</link>
       <pubDate>Sun, 05 Aug 2018 01:11:51 +0000</pubDate>
       
-      <guid>https://aidenwebb.com/posts/how-to-fix-conflicting-proxy-addresses-in-o365-when-creating-a-mailbox/</guid>
+      <guid>https://www.aidenwebb.com/posts/how-to-fix-conflicting-proxy-addresses-in-o365-when-creating-a-mailbox/</guid>
       <description>Learn how to fix conflicting proxy addresses in Office / Exchange 365</description>
     </item>
     
