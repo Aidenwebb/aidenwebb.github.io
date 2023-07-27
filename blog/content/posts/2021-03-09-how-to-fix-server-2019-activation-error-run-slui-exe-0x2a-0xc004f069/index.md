@@ -45,6 +45,9 @@ Open an elevated command prompt
 
       |Server Edition|Product GVLK|
       |:----|:----|
+      |Windows Server 2022 Datacenter|WX4NM-KYWYW-QJJR4-XV3QB-6VM33|
+      |Windows Server 2022 Datacenter Azure Edition|NTBV8-9K7Q8-V27C6-M2BTV-KHMXV|
+      |Windows Server 2022 Standard|VDYBN-27WPP-V4HQT-9VMD4-VMK7H|
       |Windows Server 2019 Datacenter|WMDGN-G9PQG-XVVXX-R3X43-63DFG|
       |Windows Server 2019 Standard|N69G4-B89J2-4G8F4-WWYCC-J464C|
       |Windows Server 2019 Essentials|WVDHN-86M7X-466P6-VHXV7-YY726|
@@ -63,7 +66,7 @@ Open an elevated command prompt
       |Windows Server 2016 Cloud Storage|QN4C6-GBJD2-FB422-GHWJK-GJG2R|
       |Windows Server 2016 Azure Core|VP34G-4NPPG-79JTQ-864T4-R3MQX|
 
-3. Reboot the system and enter your MAK key either via the GUI or by running the two commands
+4. Reboot the system and enter your MAK key either via the GUI or by running the two commands
 
       ```powershell
       slmgr.vbs /ipk <Your Product Key>
