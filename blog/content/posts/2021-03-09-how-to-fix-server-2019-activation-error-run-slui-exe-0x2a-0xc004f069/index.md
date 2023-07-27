@@ -17,11 +17,11 @@ draft: false
 ---
 ## The Problem
 
-You're unable to activate a copy of Windows Server 2019 Evaluation edition with your VLSC MAK key
+You're unable to activate a copy of Windows Server 2019 or 2022 Evaluation edition with your VLSC MAK key
 
 ## The Cause
 
-Server 2019 Evaluation edition can only be activated with a retail key. This must happen before a Volume Licence Key can be used.
+Windows Server 2019 / 2022 Evaluation edition can only be activated with a retail key. This must happen before a Volume Licence Key can be used.
 
 ## The Fix
 
