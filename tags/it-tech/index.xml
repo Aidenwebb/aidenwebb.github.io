@@ -78,8 +78,8 @@ The Cause The initial soft link matches on UPN or SMTP, but may fail if there ar
       <pubDate>Tue, 09 Mar 2021 13:17:55 +0000</pubDate>
       
       <guid>https://www.aidenwebb.com/posts/how-to-fix-server-2019-activation-error-run-slui.exe-0x2a-0xc004f069/</guid>
-      <description>The Problem You&amp;rsquo;re unable to activate a copy of Windows Server 2019 Evaluation edition with your VLSC MAK key
-The Cause Server 2019 Evaluation edition can only be activated with a retail key. This must happen before a Volume Licence Key can be used.
+      <description>The Problem You&amp;rsquo;re unable to activate a copy of Windows Server 2019 or 2022 Evaluation edition with your VLSC MAK key
+The Cause Windows Server 2019 / 2022 Evaluation edition can only be activated with a retail key. This must happen before a Volume Licence Key can be used.
 The Fix We need to use DISM to change the product version/edition
 Open an elevated command prompt
 Get a list of available version upgrade paths by typing:</description>
