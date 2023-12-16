@@ -7,7 +7,52 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>@ Aiden Arnkels-Webb</copyright>
-    <lastBuildDate>Wed, 14 Jun 2023 15:14:38 +0000</lastBuildDate><atom:link href="https://www.aidenwebb.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Dec 2023 13:46:03 +0000</lastBuildDate><atom:link href="https://www.aidenwebb.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automation</title>
+      <link>https://www.aidenwebb.com/tags/automation/</link>
+      <pubDate>Sat, 16 Dec 2023 13:46:03 +0000</pubDate>
+      
+      <guid>https://www.aidenwebb.com/tags/automation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud-init</title>
+      <link>https://www.aidenwebb.com/tags/cloud-init/</link>
+      <pubDate>Sat, 16 Dec 2023 13:46:03 +0000</pubDate>
+      
+      <guid>https://www.aidenwebb.com/tags/cloud-init/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hypervisor</title>
+      <link>https://www.aidenwebb.com/tags/hypervisor/</link>
+      <pubDate>Sat, 16 Dec 2023 13:46:03 +0000</pubDate>
+      
+      <guid>https://www.aidenwebb.com/tags/hypervisor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proxmox</title>
+      <link>https://www.aidenwebb.com/tags/proxmox/</link>
+      <pubDate>Sat, 16 Dec 2023 13:46:03 +0000</pubDate>
+      
+      <guid>https://www.aidenwebb.com/tags/proxmox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VirtualMachine</title>
+      <link>https://www.aidenwebb.com/tags/virtualmachine/</link>
+      <pubDate>Sat, 16 Dec 2023 13:46:03 +0000</pubDate>
+      
+      <guid>https://www.aidenwebb.com/tags/virtualmachine/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Attachment</title>
       <link>https://www.aidenwebb.com/tags/attachment/</link>
@@ -203,15 +248,6 @@
       <pubDate>Fri, 02 Jun 2023 14:13:55 +0000</pubDate>
       
       <guid>https://www.aidenwebb.com/tags/systemadministration/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>VirtualMachine</title>
-      <link>https://www.aidenwebb.com/tags/virtualmachine/</link>
-      <pubDate>Fri, 02 Jun 2023 14:13:55 +0000</pubDate>
-      
-      <guid>https://www.aidenwebb.com/tags/virtualmachine/</guid>
       <description></description>
     </item>
     

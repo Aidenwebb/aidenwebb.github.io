@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>@ Aiden Arnkels-Webb</copyright>
-    <lastBuildDate>Wed, 14 Jun 2023 15:14:38 +0000</lastBuildDate><atom:link href="https://www.aidenwebb.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Dec 2023 13:46:03 +0000</lastBuildDate><atom:link href="https://www.aidenwebb.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Create a Debian Cloud-init Template on Proxmox</title>
+      <link>https://www.aidenwebb.com/posts/create-a-debian-cloud-init-template-on-proxmox/</link>
+      <pubDate>Sat, 16 Dec 2023 13:46:03 +0000</pubDate>
+      
+      <guid>https://www.aidenwebb.com/posts/create-a-debian-cloud-init-template-on-proxmox/</guid>
+      <description>Cloud-init is the industry standard multi-distribution method for cross-platform cloud instance initialization. It is supported across all major public cloud providers, provisioning systems for private cloud infrastructure, and bare-metal installations.
+Using Proxmox templates in tandem with Cloud-init streamlines the process of launching new VMs. With this approach, a template can rapidly generate a new VM, and Cloud-init takes care of the initial setup during boot, reducing your tasks to simply setting up the hostname and initial user account.</description>
+    </item>
+    
     <item>
       <title>Microsoft Office - Send a file as an Attachment</title>
       <link>https://www.aidenwebb.com/posts/microsoft-office-send-a-file-as-an-attachment/</link>

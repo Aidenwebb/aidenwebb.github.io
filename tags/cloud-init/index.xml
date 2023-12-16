@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Cloud-init on Aiden Arnkels-Webb</title>
+    <link>https://www.aidenwebb.com/tags/cloud-init/</link>
+    <description>Recent content in Cloud-init on Aiden Arnkels-Webb</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>@ Aiden Arnkels-Webb</copyright>
+    <lastBuildDate>Sat, 16 Dec 2023 13:46:03 +0000</lastBuildDate><atom:link href="https://www.aidenwebb.com/tags/cloud-init/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Create a Debian Cloud-init Template on Proxmox</title>
+      <link>https://www.aidenwebb.com/posts/create-a-debian-cloud-init-template-on-proxmox/</link>
+      <pubDate>Sat, 16 Dec 2023 13:46:03 +0000</pubDate>
+      
+      <guid>https://www.aidenwebb.com/posts/create-a-debian-cloud-init-template-on-proxmox/</guid>
+      <description>Cloud-init is the industry standard multi-distribution method for cross-platform cloud instance initialization. It is supported across all major public cloud providers, provisioning systems for private cloud infrastructure, and bare-metal installations.
+Using Proxmox templates in tandem with Cloud-init streamlines the process of launching new VMs. With this approach, a template can rapidly generate a new VM, and Cloud-init takes care of the initial setup during boot, reducing your tasks to simply setting up the hostname and initial user account.</description>
+    </item>
+    
+  </channel>
+</rss>

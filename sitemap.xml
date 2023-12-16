@@ -3,7 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.aidenwebb.com/</loc>
-    <lastmod>2023-06-14T15:14:38+00:00</lastmod>
+    <lastmod>2023-12-16T13:46:03+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aidenwebb.com/tags/automation/</loc>
+    <lastmod>2023-12-16T13:46:03+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aidenwebb.com/tags/cloud-init/</loc>
+    <lastmod>2023-12-16T13:46:03+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aidenwebb.com/posts/create-a-debian-cloud-init-template-on-proxmox/</loc>
+    <lastmod>2023-12-16T13:46:03+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aidenwebb.com/tags/hypervisor/</loc>
+    <lastmod>2023-12-16T13:46:03+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aidenwebb.com/posts/</loc>
+    <lastmod>2023-12-16T13:46:03+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aidenwebb.com/tags/proxmox/</loc>
+    <lastmod>2023-12-16T13:46:03+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aidenwebb.com/tags/</loc>
+    <lastmod>2023-12-16T13:46:03+00:00</lastmod>
+  </url><url>
+    <loc>https://www.aidenwebb.com/tags/virtualmachine/</loc>
+    <lastmod>2023-12-16T13:46:03+00:00</lastmod>
   </url><url>
     <loc>https://www.aidenwebb.com/tags/attachment/</loc>
     <lastmod>2023-06-14T15:14:38+00:00</lastmod>
@@ -29,9 +53,6 @@
     <loc>https://www.aidenwebb.com/tags/onedrive/</loc>
     <lastmod>2023-06-14T15:14:38+00:00</lastmod>
   </url><url>
-    <loc>https://www.aidenwebb.com/posts/</loc>
-    <lastmod>2023-06-14T15:14:38+00:00</lastmod>
-  </url><url>
     <loc>https://www.aidenwebb.com/tags/productivity/</loc>
     <lastmod>2023-06-14T15:14:38+00:00</lastmod>
   </url><url>
@@ -42,9 +63,6 @@
     <lastmod>2023-06-14T15:14:38+00:00</lastmod>
   </url><url>
     <loc>https://www.aidenwebb.com/tags/software-tips/</loc>
-    <lastmod>2023-06-14T15:14:38+00:00</lastmod>
-  </url><url>
-    <loc>https://www.aidenwebb.com/tags/</loc>
     <lastmod>2023-06-14T15:14:38+00:00</lastmod>
   </url><url>
     <loc>https://www.aidenwebb.com/tags/workaround/</loc>
@@ -81,9 +99,6 @@
     <lastmod>2023-06-02T14:13:55+00:00</lastmod>
   </url><url>
     <loc>https://www.aidenwebb.com/tags/systemadministration/</loc>
-    <lastmod>2023-06-02T14:13:55+00:00</lastmod>
-  </url><url>
-    <loc>https://www.aidenwebb.com/tags/virtualmachine/</loc>
     <lastmod>2023-06-02T14:13:55+00:00</lastmod>
   </url><url>
     <loc>https://www.aidenwebb.com/tags/debian/</loc>
