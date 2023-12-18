@@ -134,7 +134,7 @@ qm set $NEW_VMID --cores 2
 ## Get bootdisk interface
 NEW_VM_BOOTDISK_INTERFACE=$(qm config $NEW_VMID | grep bootdisk | awk '{print $2}')
 ## Resize bootdisk to 32GB
-qm disk resize $NEW_VMID $NEW_VM_BOOTDISK 32G
+qm disk resize $NEW_VMID $NEW_VM_BOOTDISK_INTERFACE 32G
 
 ```
 
