@@ -75,19 +75,21 @@ VMID=9001
 TEMPLATE_NAME=Debian12CloudInit
 # Choose the disk image to import
 DISKIMAGE=debian-12-genericcloud-amd64.qcow2
+# Select Host disk
+HOST_DISK=local-zfs
 
 # Create the VM
 qm create $VMID --name $TEMPLATE_NAME --net0 virtio,bridge=vmbr0
 # Set the OSType to Linux Kernel 6.x
 qm set $VMID --ostype l26
 # Import the disk
-qm importdisk $VMID $DISKIMAGE local-zfs
+qm importdisk $VMID $DISKIMAGE $HOST_DISK
 # Attach disk to scsi bus
-qm set $VMID --scsihw virtio-scsi-pci --scsi0 local-zfs:vm-$VMID-disk-0
+qm set $VMID --scsihw virtio-scsi-pci --scsi0 $HOST_DISK:vm-$VMID-disk-0
 # Set scsi disk as boot device
 qm set $VMID --boot c --bootdisk scsi0
 # Create and attach cloudinit drive
-qm set $VMID --ide2 local-zfs:cloudinit
+qm set $VMID --ide2 $HOST_DISK:cloudinit
 # Set serial console, which is needed by OpenStack/Proxmox
 qm set $VMID --serial0 socket --vga serial0
 # Enable Qemu Guest Agent
