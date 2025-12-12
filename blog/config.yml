@@ -40,7 +40,6 @@ params:
   hideSummary: false
   showtoc: true
   tocopen: false
-  fuseOpts:
   isCaseSensitive: false
   shouldSort: true
   location: 0
