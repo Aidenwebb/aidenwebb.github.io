@@ -1,0 +1,101 @@
+[build]
+  # Build command
+  command = "hugo --minify"
+  
+  # Output directory
+  publish = "public"
+  
+  # Hugo version to use
+  [build.environment]
+    HUGO_VERSION = "0.122.0"
+    HUGO_ENV = "production"
+    NODE_VERSION = "18"
+
+# Production context (main branch)
+[context.production]
+  command = "hugo --minify --environment production"
+
+# Deploy Preview context (pull requests)
+[context.deploy-preview]
+  command = "hugo --minify --environment staging -b $DEPLOY_PRIME_URL"
+
+# Branch deploy context
+[context.branch-deploy]
+  command = "hugo --minify --environment staging"
+
+# Redirects (301 permanent redirects)
+# These preserve SEO value when URLs change
+
+# Redirect old blog paths to new posts structure
+[[redirects]]
+  from = "/blog/*"
+  to = "/posts/:splat"
+  status = 301
+  force = true
+
+# Redirect old date-based URLs if they existed
+# Format: /posts/YYYY/MM/DD/title → /posts/title
+[[redirects]]
+  from = "/posts/:year/:month/:day/*"
+  to = "/posts/:splat"
+  status = 301
+
+# Redirect old date-prefixed folders if needed
+# Format: /posts/YYYY-MM-DD-title → /posts/title
+# (This catches if old URLs were indexed by Google)
+[[redirects]]
+  from = "/posts/:year-:month-:day-*"
+  to = "/posts/:splat"
+  status = 301
+
+# Example: Specific post redirects (add as needed)
+# [[redirects]]
+#   from = "/old-about-page"
+#   to = "/about"
+#   status = 301
+
+# Headers for security and performance
+[[headers]]
+  for = "/*"
+  [headers.values]
+    # Security headers
+    X-Frame-Options = "SAMEORIGIN"
+    X-Content-Type-Options = "nosniff"
+    X-XSS-Protection = "1; mode=block"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    
+    # Performance headers
+    Cache-Control = "public, max-age=3600"
+
+[[headers]]
+  for = "/images/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+  for = "/*.css"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+[[headers]]
+  for = "/*.js"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+# Custom 404 page
+[[redirects]]
+  from = "/*"
+  to = "/404.html"
+  status = 404
+
+# Netlify Forms (if you add a contact form later)
+# No configuration needed - just add netlify attribute to form tag
+
+# Plugin configuration (optional)
+# [[plugins]]
+#   package = "@netlify/plugin-lighthouse"
+
+# Environment variables (set in Netlify UI, not here)
+# These are just examples of what you might set:
+# - HUGO_ENV=production
+# - NODE_ENV=production
