@@ -23,10 +23,13 @@ googleAnalytics = "G-HMG34V61Y8"
 
 [params.author]
   name = "Aiden Arnkels-Webb"
+  image = "img/avatar.png"
   headline = "Security-Led Infrastructure for Professional Services"
   subtitle = "vCISO | vCTO | Technical Leadership That Speaks Business Language"
   bio = "I help professional services firms (25-75 staff) scale securely by removing IT friction and implementing security-first infrastructure. Through Rootwire, I provide fractional CISO, CTO, and CIO services focused on enabling growth, not hindering it."
   links = [
+    { email = "aiden@rootwire.com" },
+    { rss = "https://www.aidenwebb.com/index.xml"},
     { github = "https://github.com/aidenwebb" },
     { linkedin = "https://www.linkedin.com/in/aiden-arnkels-webb/" },
   ]
@@ -49,8 +52,9 @@ googleAnalytics = "G-HMG34V61Y8"
   home = ["HTML", "RSS", "JSON"]
 
 [related]
-  threshold = 0
-  toLower = false
+  threshold = 1
+  includeNewer = true
+  toLower = true
 
     [[related.indices]]
         name = "tags"
@@ -66,11 +70,11 @@ googleAnalytics = "G-HMG34V61Y8"
 
     [[related.indices]]
         name = "authors"
-        weight = 20
+        weight = 10
 
     [[related.indices]]
         name = "date"
-        weight = 10
+        weight = 0
 
     [[related.indices]]
       applyFilter = false
