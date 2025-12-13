@@ -1,7 +1,7 @@
 ---
 title: "Camping Packlist"
 date: 2022-07-30T08:38:05+01:00
-draft: false
+draft: true
 # weight: 1
 # aliases: ["/first"]
 tags: ["Camping","Checklist"]
