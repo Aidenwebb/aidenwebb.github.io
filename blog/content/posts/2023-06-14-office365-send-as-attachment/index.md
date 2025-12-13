@@ -4,7 +4,14 @@ date: 2023-06-14T15:14:38Z
 draft: false
 # weight: 1
 # aliases: ["/first"]
-tags: ["Microsoft Office", "Office 365", "OneDrive", "SharePoint", "File Sharing", "Send File", "Attachment", "Productivity", "Software Tips", "Workaround", "Microsoft Excel", "Microsoft Word"]
+categories:
+  - Troubleshooting
+tags: 
+  - Microsoft 365
+  - Microsoft OneDrive
+  - Microsoft Office
+  - User Experience
+  - Productivity
 author: "Aiden Arnkels-Webb"
 # author: ["Me", "You"] # multiple authors
 showToc: true

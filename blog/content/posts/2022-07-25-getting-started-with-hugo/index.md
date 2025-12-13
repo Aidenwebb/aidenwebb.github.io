@@ -3,7 +3,11 @@ title: "Moving my blog to Hugo - Getting started with Hugo"
 date: 2022-07-25T22:01:11+01:00
 #url: /posts/getting-started-with-hugo/
 draft: false
-tags: ["Hugo", "Static Site Generator", "Projects", "IT & Tech"]
+categories:
+  - Architecture
+tags: 
+  - Efficiency
+  - Scalability
 cover:
     image: "cover.svg" # image path/url
     alt: "Picture of an ice cream fallen on the floor" # alt text

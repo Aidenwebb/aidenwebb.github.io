@@ -13,7 +13,12 @@ cover:
     hidden: false # only hide on current single page
 neve_meta_enable_content_width:
   - off
-tags: ['IT & Tech', 'Explainers', 'Windows']
+categories: 
+  - Architecture
+tags: 
+  - Windows Server
+  - Windows OS
+  - Hyper-V
 
 ---
 ## Check Task Manager

@@ -4,7 +4,12 @@ date: 2022-11-05T09:20:26Z
 draft: false
 # weight: 1
 # aliases: ["/first"]
-tags: ["Useful tools", "Tools", "Software"]
+categories:
+  - Architecture
+tags: 
+  - User Experience
+  - Productivity
+  - Security
 author: "Aiden Arnkels-Webb"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -187,8 +192,8 @@ I'll update this every now and then, please let me know if you have any suggesti
 
 ### Mail Client
 
-- [⭐ K-9 Mail](https://play.google.com/store/apps/details?id=com.fsck.k9&hl=en_GB&gl=US)
-- [Outlook - $](https://play.google.com/store/apps/details?id=com.microsoft.office.outlook&hl=en_GB&gl=US)
+- [⭐ Outlook - $](https://play.google.com/store/apps/details?id=com.microsoft.office.outlook&hl=en_GB&gl=US)
+- [K-9 Mail](https://play.google.com/store/apps/details?id=com.fsck.k9&hl=en_GB&gl=US)
 
 ### PDF Reader
 

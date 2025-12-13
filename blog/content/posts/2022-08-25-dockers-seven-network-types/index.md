@@ -4,7 +4,11 @@ date: 2022-08-25T12:40:30+01:00
 draft: false
 # weight: 1
 # aliases: ["/first"]
-tags: ["docker","networking"]
+categories:
+  - Architecture
+tags: 
+  - Docker
+  - Networking
 author: "Aiden Arnkels-Webb"
 # author: ["Me", "You"] # multiple authors
 showToc: true

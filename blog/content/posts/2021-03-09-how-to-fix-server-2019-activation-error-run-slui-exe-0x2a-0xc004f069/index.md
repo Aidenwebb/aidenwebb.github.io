@@ -12,7 +12,11 @@ cover:
     caption: "" # display caption under cover
     relative: true # when using page bundles set this to true
     hidden: false # only hide on current single page
-tags: ["Windows", "Troubleshooting", "Windows Server", "Windows Server 2019", "Product Licencing", "IT & Tech"]
+categories:
+  - Troubleshooting
+tags: 
+  - Windows Server
+  - Compliance
 draft: false
 ---
 ## The Problem

@@ -13,7 +13,13 @@ cover:
     hidden: false # only hide on current single page  
 neve_meta_enable_content_width:
   - off
-tags: ["Explainers","Strategy","IT & Tech"]
+categories:
+  - Strategy
+tags:
+  - Incident Response
+  - Business Continuity
+  - Risk Management
+  - Professional Services
 
 ---
 ## Introduction
