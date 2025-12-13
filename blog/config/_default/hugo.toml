@@ -26,7 +26,8 @@ googleAnalytics = "G-HMG34V61Y8"
   image = "img/avatar.png"
   headline = "Security-Led Infrastructure for Professional Services"
   subtitle = "vCISO | vCTO | Technical Leadership That Speaks Business Language"
-  bio = "I help professional services firms scale securely by removing IT friction and implementing security-first infrastructure. Through Rootwire, I provide fractional CISO, CTO, and CIO services focused on enabling growth, not hindering it."
+  bio = "I'm a cybersecurity lead and fractional CISO/CTO helping professional services firms build secure, scalable infrastructure. I share practical solutions and strategic insights on this site—all free, no gatekeeping. For done-with-you or done-for-you implementation, I work with firms through Rootwire."
+
   links = [
     { email = "aiden@rootwire.com" },
     { rss = "https://www.aidenwebb.com/index.xml"},
