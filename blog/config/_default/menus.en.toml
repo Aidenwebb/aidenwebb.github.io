@@ -13,11 +13,12 @@
 [[main]]
  name = "Posts"
  pageRef = "posts"
- weight = 20
+ weight = 10
 
-#[[main]]
-#  name = "Parent"
-#  weight = 20
+[[main]]
+ name = "About"
+ pageRef = "about"
+ weight = 40
 
 #[[main]]
 #  name = "example sub-menu 1"
@@ -42,15 +43,15 @@
 #  pageRef = "categories/awesome"
 #  weight = 20
 
-#[[main]]
-#  name = "Categories"
-#  pageRef = "categories"
-#  weight = 20
+[[main]]
+ name = "Categories"
+ pageRef = "categories"
+ weight = 20
 
-#[[main]]
-#  name = "Tags"
-#  pageRef = "tags"
-#  weight = 30
+[[main]]
+ name = "Tags"
+ pageRef = "tags"
+ weight = 30
 
 
 # -- Footer Menu --
