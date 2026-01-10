@@ -4,7 +4,12 @@ date: 2022-11-02T09:22:23Z
 draft: false
 # weight: 1
 # aliases: ["/first"]
-tags: ["3CX", "Self Hosted", "SSL Certificates"]
+categories:
+  - Troubleshooting
+tags: 
+  - 3CX
+  - Security
+  - Compliance
 author: "Aiden Arnkels-Webb"
 # author: ["Me", "You"] # multiple authors
 showToc: true

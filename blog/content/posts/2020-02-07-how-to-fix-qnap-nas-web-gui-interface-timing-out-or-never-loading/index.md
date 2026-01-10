@@ -13,7 +13,12 @@ cover:
     hidden: false # only hide on current single page
 neve_meta_enable_content_width:
   - off
-tags: ['Troubleshooting','IT & Tech','QNAP']
+categories:
+  - Troubleshooting
+tags: 
+  - QNAP
+  - Storage
+  - Networking
 
 ---
 ## The Problem

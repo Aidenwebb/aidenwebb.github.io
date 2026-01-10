@@ -4,7 +4,14 @@ date: 2023-03-10T14:49:09Z
 draft: false
 # weight: 1
 # aliases: ["/first"]
-tags: ["Powershell", "Scripting", "NTFS", "Permissions", "ACLs", "IT & Tech"]
+categories:
+  - Automation
+tags: 
+  - PowerShell
+  - Access Control
+  - Performance
+  - Efficiency
+  - Windows OS
 author: "Aiden Arnkels-Webb"
 # author: ["Me", "You"] # multiple authors
 showToc: true

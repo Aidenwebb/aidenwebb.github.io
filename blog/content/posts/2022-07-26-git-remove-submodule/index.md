@@ -3,7 +3,10 @@ title: "Git Remove Submodule"
 date: 2022-07-26T09:51:58+01:00
 #url: ./git-remove-submodule/
 draft: false
-tags: ["Git", "Troubleshooting", "IT & Tech"]
+categories:
+  - Troubleshooting
+tags: 
+  - Git
 cover:
     image: "cover.jpg" # image path/url
     alt: "Groot and Octocat reading a newspaper" # alt text

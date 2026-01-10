@@ -4,12 +4,12 @@ date: 2023-12-16T13:46:03Z
 draft: false
 # weight: 1
 # aliases: ["/first"]
+categories:
+- Automation
 tags: 
 - Proxmox
-- Hypervisor
-- VirtualMachine
-- Automation
-- Cloud-init
+- Efficiency
+- Scalability
 author: "Aiden Arnkels-Webb"
 # author: ["Me", "You"] # multiple authors
 showToc: true

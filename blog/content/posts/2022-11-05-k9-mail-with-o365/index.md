@@ -4,7 +4,13 @@ date: 2022-11-05T10:12:52Z
 draft: false
 # weight: 1
 # aliases: ["/first"]
-tags: ["Microsoft 365", "Office 365", "K-9 Mail", "Email", "Useful Tools"]
+categories:
+  - Troubleshooting
+tags: 
+  - K-9 Mail
+  - Microsoft 365
+  - Exchange Online
+  - Productivity
 author: "Aiden Arnkels-Webb"
 # author: ["Me", "You"] # multiple authors
 showToc: true
@@ -38,7 +44,7 @@ cover:
 I have a hell of a lot of mail accounts, K-9 Mail on Android helps me manage them all.
 Here's how to set up K-9 Mail with Office 365.
 
-You will first need to set up SMTP Auth on your Exchange Tenant. This is a simple process, but it does require you to have access to the Exchange Admin Centre. If you don't have access to the EAC, you'll need to ask your Exchange Admin to do this for you.
+You will first need to set up SMTP Auth on your Exchange Tenant. This is a simple process, but it does introduce security risks and will require you to have access to the Exchange Admin Centre. If you don't have access to the EAC, you'll need to ask your Exchange Admin to do this for you.
 
 A guide is available here: <https://learn.microsoft.com/en-us/exchange/clients-and-mobile-in-exchange-online/authenticated-client-smtp-submission>
 

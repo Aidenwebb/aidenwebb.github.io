@@ -4,7 +4,12 @@ date: 2023-04-05T17:44:11+01:00
 draft: false
 # weight: 1
 # aliases: ["/first"]
-tags: ["Networking","Linux","Debian"]
+categories:
+  - Automation
+tags: 
+  - Networking
+  - Debian Linux
+  - Efficiency
 author: "Aiden Arnkels-Webb"
 # author: ["Me", "You"] # multiple authors
 showToc: true

@@ -4,7 +4,11 @@ date: 2022-10-25T14:33:04Z
 draft: false
 # weight: 1
 # aliases: ["/first"]
-tags: ["Useful Links", "Tools", "SysAdmin"]
+categorieS:
+  - Architecture
+tags: 
+  - Efficiency
+  - Productivity
 author: "Aiden Arnkels-Webb"
 # author: ["Me", "You"] # multiple authors
 showToc: true

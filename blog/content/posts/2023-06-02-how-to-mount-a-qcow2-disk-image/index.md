@@ -4,18 +4,13 @@ date: 2023-06-02T14:13:55Z
 draft: false
 # weight: 1
 # aliases: ["/first"]
+categories:
+  - Troubleshooting
 tags:
-  - VirtualMachine
-  - ServerManagement
-  - DiskImage
-  - QCOW2
-  - NBD
-  - Linux
-  - SystemAdministration
-  - Qemu
-  - DataRecovery
-  - PasswordReset
-  - FileEditing
+  - Disaster Recovery
+  - Proxmox
+  - Debian Linux
+  - Storage
 author: "Aiden Arnkels-Webb"
 # author: ["Me", "You"] # multiple authors
 showToc: true

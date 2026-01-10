@@ -4,9 +4,13 @@ date: 2025-01-29T18:46:03Z
 draft: false
 # weight: 1
 # aliases: ["/first"]
+categories:
+- Strategy
 tags: 
-- Azure
-- Microsfot365
+- Entra ID
+- Microsoft 365
+- Risk Management
+- Efficiency
 author: "Aiden Arnkels-Webb"
 # author: ["Me", "You"] # multiple authors
 showToc: true

@@ -27,11 +27,11 @@ neve_meta_enable_content_width:
   - off
 neve_meta_content_width:
   - 70
+categories:
+  - Architecture
 tags:
   - Access Control
-  - NTFS
-  - IT & Tech
-  - Explainers
+  - Windows Server
 
 ---
 I've been asked why the Advanced Permissions dialogue on NTFS folders lists "Traverse folder / execute file" as one single permission.

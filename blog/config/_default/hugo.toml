@@ -1,0 +1,87 @@
+# -- Site Configuration --
+# Refer to the theme docs for more details about each of these parameters.
+# https://blowfish.page/docs/getting-started/
+
+theme = "blowfish"
+baseURL = "https://www.aidenwebb.com/"
+defaultContentLanguage = "en"
+
+# pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
+
+enableRobotsTXT = true
+summaryLength = 30
+
+buildDrafts = false
+buildFuture = false
+
+enableEmoji = true
+
+googleAnalytics = "G-HMG34V61Y8"
+
+[pagination]
+  pagerSize = 27
+
+[params.author]
+  name = "Aiden Arnkels-Webb"
+  image = "img/avatar.png"
+  headline = "Security-Led Infrastructure for Professional Services"
+  subtitle = "vCISO | vCTO | Technical Leadership That Speaks Business Language"
+  bio = "I'm a cybersecurity lead and fractional CISO/CTO helping professional services firms build secure, scalable infrastructure. I share practical solutions and strategic insights on this site—all free, no gatekeeping. For done-with-you or done-for-you implementation, I work with firms through Rootwire."
+
+  links = [
+    { email = "mailto:aiden@rootwire.com" },
+    { rss = "https://www.aidenwebb.com/index.xml"},
+    { github = "https://github.com/aidenwebb" },
+    { linkedin = "https://www.linkedin.com/in/aiden-arnkels-webb/" },
+  ]
+
+[imaging]
+  anchor = 'Center'
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  author = "authors"
+  series = "series"
+
+[sitemap]
+  changefreq = 'daily'
+  filename = 'sitemap.xml'
+  priority = 0.5
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[related]
+  threshold = 1
+  includeNewer = true
+  toLower = true
+
+    [[related.indices]]
+        name = "tags"
+        weight = 100
+
+    [[related.indices]]
+        name = "categories"
+        weight = 100
+
+    [[related.indices]]
+        name = "series"
+        weight = 50
+
+    [[related.indices]]
+        name = "authors"
+        weight = 10
+
+    [[related.indices]]
+        name = "date"
+        weight = 0
+
+    [[related.indices]]
+      applyFilter = false
+      name = 'fragmentrefs'
+      type = 'fragments'
+      weight = 10
+
+[permalinks]
+  posts = '/posts/:title/'

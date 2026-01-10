@@ -7,9 +7,9 @@
   
   # Hugo version to use
   [build.environment]
-    HUGO_VERSION = "0.122.0"
+    HUGO_VERSION = "0.152.2"
     HUGO_ENV = "production"
-    NODE_VERSION = "18"
+    NODE_VERSION = "22"
 
 # Production context (main branch)
 [context.production]

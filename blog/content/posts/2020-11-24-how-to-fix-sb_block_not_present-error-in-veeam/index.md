@@ -14,7 +14,12 @@ cover:
     hidden: false # only hide on current single page
 neve_meta_enable_content_width:
   - off
-tags: ["Veeam","Troubleshooting","IT & Tech"]
+categories:
+  - Troubleshooting
+tags: 
+  - Veeam
+  - Backup & Recovery
+  - Disaster Recovery
 
 ---
 ## The Problem

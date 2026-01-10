@@ -14,13 +14,12 @@ cover:
     caption: "<text>" # display caption under cover
     relative: true # when using page bundles set this to true
     hidden: false # only hide on current single page
-categories:
-tags:
-  - Exchange Online
-  - Office 365
-  - PowerShell
+categories: 
   - Troubleshooting
-  - IT & Tech
+tags:
+  - Microsoft 365
+  - Exchange Online
+  - PowerShell
 
 ---
 The proxy address is already being used by the proxy addresses of another mailbox
