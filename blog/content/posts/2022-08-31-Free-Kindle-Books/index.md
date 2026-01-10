@@ -4,6 +4,8 @@ date: 2022-08-31T14:33:47+01:00
 draft: false
 # weight: 1
 # aliases: ["/first"]
+categories:
+  - Resources & Guides
 tags: ["Useful Links", "Freebies"]
 author: "Aiden Arnkels-Webb"
 # author: ["Me", "You"] # multiple authors

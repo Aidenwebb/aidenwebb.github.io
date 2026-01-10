@@ -28,7 +28,7 @@ neve_meta_enable_content_width:
 neve_meta_content_width:
   - 70
 categories:
-  - Architecture
+  - Resources & Guides
 tags:
   - Access Control
   - Windows Server

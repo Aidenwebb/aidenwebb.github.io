@@ -5,7 +5,7 @@ draft: false
 # weight: 1
 # aliases: ["/first"]
 categories:
-  - Architecture
+  - Resources & Guides
 tags: 
   - User Experience
   - Productivity

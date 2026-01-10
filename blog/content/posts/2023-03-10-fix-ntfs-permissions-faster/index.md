@@ -5,7 +5,9 @@ draft: false
 # weight: 1
 # aliases: ["/first"]
 categories:
-  - Automation
+  - Security & Compliance
+  - Automation & Efficiency
+  - Operations & Troubleshooting
 tags: 
   - PowerShell
   - Access Control

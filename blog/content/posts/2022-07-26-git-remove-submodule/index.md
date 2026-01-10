@@ -4,7 +4,7 @@ date: 2022-07-26T09:51:58+01:00
 #url: ./git-remove-submodule/
 draft: false
 categories:
-  - Troubleshooting
+  - Operations & Troubleshooting
 tags: 
   - Git
 cover:

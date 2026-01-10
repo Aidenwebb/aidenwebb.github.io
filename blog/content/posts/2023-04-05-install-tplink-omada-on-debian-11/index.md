@@ -5,7 +5,8 @@ draft: false
 # weight: 1
 # aliases: ["/first"]
 categories:
-  - Automation
+  - Operations & Troubleshooting
+  - Resources & Guides
 tags: 
   - Networking
   - Debian Linux

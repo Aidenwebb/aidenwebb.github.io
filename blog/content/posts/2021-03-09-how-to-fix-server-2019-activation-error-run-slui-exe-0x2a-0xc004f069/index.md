@@ -13,7 +13,7 @@ cover:
     relative: true # when using page bundles set this to true
     hidden: false # only hide on current single page
 categories:
-  - Troubleshooting
+  - Operations & Troubleshooting
 tags: 
   - Windows Server
   - Compliance

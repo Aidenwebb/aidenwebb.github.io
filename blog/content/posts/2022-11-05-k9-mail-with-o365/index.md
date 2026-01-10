@@ -5,7 +5,7 @@ draft: false
 # weight: 1
 # aliases: ["/first"]
 categories:
-  - Troubleshooting
+  - Resources & Guides
 tags: 
   - K-9 Mail
   - Microsoft 365

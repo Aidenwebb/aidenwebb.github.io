@@ -14,7 +14,7 @@ cover:
 neve_meta_enable_content_width:
   - off
 categories: 
-  - Architecture
+  - Operations & Troubleshooting
 tags: 
   - Windows Server
   - Windows OS

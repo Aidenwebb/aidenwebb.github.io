@@ -5,7 +5,7 @@ draft: false
 # weight: 1
 # aliases: ["/first"]
 categories:
-  - Architecture
+  - Infrastructure & Architecture
 tags: 
   - Docker
   - Networking

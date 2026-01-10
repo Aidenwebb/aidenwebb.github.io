@@ -5,7 +5,8 @@ draft: false
 # weight: 1
 # aliases: ["/first"]
 categories:
-  - Troubleshooting
+  - Operations & Troubleshooting
+  - Resources & Guides
 tags: 
   - Microsoft 365
   - Microsoft OneDrive

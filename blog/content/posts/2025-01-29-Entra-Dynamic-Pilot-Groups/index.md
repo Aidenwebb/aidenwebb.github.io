@@ -5,7 +5,7 @@ draft: false
 # weight: 1
 # aliases: ["/first"]
 categories:
-- Strategy
+- Infrastructure & Architecture
 tags: 
 - Entra ID
 - Microsoft 365

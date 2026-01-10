@@ -5,7 +5,8 @@ draft: false
 # weight: 1
 # aliases: ["/first"]
 categories:
-- Automation
+- Infrastructure & Architecture
+- Resources & Guides
 tags: 
 - Proxmox
 - Efficiency

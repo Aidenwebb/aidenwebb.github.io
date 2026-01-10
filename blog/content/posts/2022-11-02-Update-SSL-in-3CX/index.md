@@ -5,7 +5,7 @@ draft: false
 # weight: 1
 # aliases: ["/first"]
 categories:
-  - Troubleshooting
+  - Operations & Troubleshooting
 tags: 
   - 3CX
   - Security

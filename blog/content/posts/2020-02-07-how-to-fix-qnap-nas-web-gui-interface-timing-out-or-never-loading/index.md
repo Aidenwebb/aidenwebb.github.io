@@ -14,7 +14,7 @@ cover:
 neve_meta_enable_content_width:
   - off
 categories:
-  - Troubleshooting
+  - Operations & Troubleshooting
 tags: 
   - QNAP
   - Storage

@@ -4,8 +4,8 @@ date: 2022-10-25T14:33:04Z
 draft: false
 # weight: 1
 # aliases: ["/first"]
-categorieS:
-  - Architecture
+categories:
+  - Resources & Guides
 tags: 
   - Efficiency
   - Productivity
