@@ -6,7 +6,9 @@ draft: false
 # aliases: ["/first"]
 categories:
   - Resources & Guides
-tags: ["Useful Links", "Freebies"]
+tags:
+  - Reference Guide
+  - Productivity
 author: "Aiden Arnkels-Webb"
 # author: ["Me", "You"] # multiple authors
 showToc: true

@@ -6,9 +6,10 @@ draft: false
 # aliases: ["/first"]
 categories:
   - Resources & Guides
-tags: 
+tags:
   - Efficiency
   - Productivity
+  - Reference Guide
 author: "Aiden Arnkels-Webb"
 # author: ["Me", "You"] # multiple authors
 showToc: true

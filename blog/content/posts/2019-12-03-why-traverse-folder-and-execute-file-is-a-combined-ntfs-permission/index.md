@@ -32,6 +32,7 @@ categories:
 tags:
   - Access Control
   - Windows Server
+  - Reference Guide
 
 ---
 I've been asked why the Advanced Permissions dialogue on NTFS folders lists "Traverse folder / execute file" as one single permission.

@@ -7,10 +7,11 @@ draft: false
 categories:
   - Operations & Troubleshooting
   - Resources & Guides
-tags: 
+tags:
   - Networking
   - Debian Linux
-  - Efficiency
+  - How-To
+  - Tutorial
 author: "Aiden Arnkels-Webb"
 # author: ["Me", "You"] # multiple authors
 showToc: true

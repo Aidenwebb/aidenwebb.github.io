@@ -7,10 +7,13 @@ draft: false
 categories:
 - Infrastructure & Architecture
 - Resources & Guides
-tags: 
-- Proxmox
-- Efficiency
-- Scalability
+tags:
+  - Proxmox
+  - Cloud-Init
+  - Linux
+  - Efficiency
+  - Scalability
+  - Tutorial
 author: "Aiden Arnkels-Webb"
 # author: ["Me", "You"] # multiple authors
 showToc: true

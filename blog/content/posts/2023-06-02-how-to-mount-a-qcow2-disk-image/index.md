@@ -10,8 +10,10 @@ categories:
 tags:
   - Disaster Recovery
   - Proxmox
-  - Debian Linux
+  - Linux
   - Storage
+  - How-To
+  - Quick-Fix
 author: "Aiden Arnkels-Webb"
 # author: ["Me", "You"] # multiple authors
 showToc: true

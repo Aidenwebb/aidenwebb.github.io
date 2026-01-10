@@ -14,9 +14,11 @@ cover:
     hidden: false # only hide on current single page
 categories:
   - Operations & Troubleshooting
-tags: 
+tags:
   - Windows Server
   - Compliance
+  - How-To
+  - Quick-Fix
 draft: false
 ---
 ## The Problem

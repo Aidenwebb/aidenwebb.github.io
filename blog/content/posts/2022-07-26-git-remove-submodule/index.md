@@ -5,8 +5,10 @@ date: 2022-07-26T09:51:58+01:00
 draft: false
 categories:
   - Operations & Troubleshooting
-tags: 
+tags:
   - Git
+  - How-To
+  - Quick-Fix
 cover:
     image: "cover.jpg" # image path/url
     alt: "Groot and Octocat reading a newspaper" # alt text

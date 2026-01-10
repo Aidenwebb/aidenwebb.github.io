@@ -14,11 +14,12 @@ cover:
     hidden: false # only hide on current single page
 categories:
   - Operations & Troubleshooting
-tags: 
-  - Azure
+tags:
   - Entra ID
   - Microsoft 365
+  - PowerShell
   - Migration
+  - How-To
 draft: false
 ---
 ## The Problem

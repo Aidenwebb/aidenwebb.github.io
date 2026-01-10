@@ -6,10 +6,11 @@ draft: false
 # aliases: ["/first"]
 categories:
   - Resources & Guides
-tags: 
-  - User Experience
+tags:
   - Productivity
   - Security
+  - Reference Guide
+  - Windows OS
 author: "Aiden Arnkels-Webb"
 # author: ["Me", "You"] # multiple authors
 showToc: true

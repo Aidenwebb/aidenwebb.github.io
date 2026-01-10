@@ -15,10 +15,12 @@ neve_meta_enable_content_width:
   - off
 categories:
   - Operations & Troubleshooting
-tags: 
+tags:
   - QNAP
   - Storage
   - Networking
+  - Linux
+  - How-To
 
 ---
 ## The Problem

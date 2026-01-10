@@ -6,11 +6,12 @@ draft: false
 # aliases: ["/first"]
 categories:
   - Resources & Guides
-tags: 
+tags:
   - K-9 Mail
   - Microsoft 365
   - Exchange Online
   - Productivity
+  - How-To
 author: "Aiden Arnkels-Webb"
 # author: ["Me", "You"] # multiple authors
 showToc: true

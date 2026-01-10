@@ -6,10 +6,12 @@ draft: false
 # aliases: ["/first"]
 categories:
   - Operations & Troubleshooting
-tags: 
+tags:
   - 3CX
   - Security
   - Compliance
+  - How-To
+  - Quick-Fix
 author: "Aiden Arnkels-Webb"
 # author: ["Me", "You"] # multiple authors
 showToc: true

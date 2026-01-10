@@ -7,12 +7,12 @@ draft: false
 categories:
   - Operations & Troubleshooting
   - Resources & Guides
-tags: 
+tags:
   - Microsoft 365
-  - Microsoft OneDrive
-  - Microsoft Office
-  - User Experience
+  - OneDrive
   - Productivity
+  - Quick-Fix
+  - How-To
 author: "Aiden Arnkels-Webb"
 # author: ["Me", "You"] # multiple authors
 showToc: true

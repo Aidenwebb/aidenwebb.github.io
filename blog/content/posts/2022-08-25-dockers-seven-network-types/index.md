@@ -6,9 +6,11 @@ draft: false
 # aliases: ["/first"]
 categories:
   - Infrastructure & Architecture
-tags: 
+tags:
   - Docker
   - Networking
+  - Deep-Dive
+  - Tutorial
 author: "Aiden Arnkels-Webb"
 # author: ["Me", "You"] # multiple authors
 showToc: true

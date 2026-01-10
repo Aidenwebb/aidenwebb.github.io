@@ -6,9 +6,11 @@ draft: false
 # aliases: ["/first"]
 categories:
   - Security & Compliance
-tags: 
+tags:
   - Security
   - Access Control
+  - Tutorial
+  - Reference Guide
 author: "Aiden Arnkels-Webb"
 showToc: true
 TocOpen: false

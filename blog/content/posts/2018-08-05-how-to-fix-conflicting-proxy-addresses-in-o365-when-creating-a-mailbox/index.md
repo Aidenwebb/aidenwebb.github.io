@@ -20,6 +20,8 @@ tags:
   - Microsoft 365
   - Exchange Online
   - PowerShell
+  - How-To
+  - Quick-Fix
 
 ---
 The proxy address is already being used by the proxy addresses of another mailbox

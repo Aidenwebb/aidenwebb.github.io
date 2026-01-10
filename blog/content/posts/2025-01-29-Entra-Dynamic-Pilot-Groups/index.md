@@ -6,11 +6,13 @@ draft: false
 # aliases: ["/first"]
 categories:
 - Infrastructure & Architecture
-tags: 
-- Entra ID
-- Microsoft 365
-- Risk Management
-- Efficiency
+tags:
+  - Entra ID
+  - Microsoft 365
+  - Process Improvement
+  - Efficiency
+  - How-To
+  - Scalability
 author: "Aiden Arnkels-Webb"
 # author: ["Me", "You"] # multiple authors
 showToc: true

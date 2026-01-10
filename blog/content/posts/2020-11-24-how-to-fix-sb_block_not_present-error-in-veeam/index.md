@@ -16,10 +16,12 @@ neve_meta_enable_content_width:
   - off
 categories:
   - Operations & Troubleshooting
-tags: 
+tags:
   - Veeam
   - Backup & Recovery
   - Disaster Recovery
+  - Hyper-V
+  - How-To
 
 ---
 ## The Problem

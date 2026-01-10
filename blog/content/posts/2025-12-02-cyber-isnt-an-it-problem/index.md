@@ -6,7 +6,13 @@ draft: false
 # aliases: ["/first"]
 categories:
   - Strategy & Leadership
-tags: 
+tags:
+  - Risk Management
+  - IT Governance
+  - Business Continuity
+  - Opinion
+  - Professional Services
+  - Team Management
 author: "Aiden Arnkels-Webb"
 # author: ["Me", "You"] # multiple authors
 showToc: true

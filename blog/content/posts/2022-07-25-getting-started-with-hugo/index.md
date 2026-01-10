@@ -5,7 +5,9 @@ date: 2022-07-25T22:01:11+01:00
 draft: false
 categories:
   - Resources & Guides
-tags: 
+tags:
+  - Hugo
+  - Tutorial
   - Efficiency
   - Scalability
 cover:

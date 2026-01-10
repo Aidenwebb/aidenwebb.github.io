@@ -15,10 +15,12 @@ neve_meta_enable_content_width:
   - off
 categories: 
   - Operations & Troubleshooting
-tags: 
-  - Windows Server
-  - Windows OS
+tags:
+  - Virtualization
   - Hyper-V
+  - Windows OS
+  - Quick-Fix
+  - Reference Guide
 
 ---
 ## Check Task Manager
